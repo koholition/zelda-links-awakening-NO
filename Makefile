@@ -149,22 +149,44 @@ azle-r2_LDFLAGS = -O azlf-r1.gbc
 azle-r2_FXFLAGS = --rom-version 2 --non-japanese --title "ZELDA" --game-id "AZLE"
 
 #
+# Norwegian
+#
+
+games += zelda_no.gbc
+src/main.zelda_no.o:
+zelda_no_ASFLAGS = -DLANG=EN -DVERSION=0
+zelda_no_FXFLAGS = --rom-version 0 --non-japanese --title "ZELDA"
+
+games += zelda_no-r1.gbc
+src/main.zelda_no-r1.o:
+zelda_no-r1_ASFLAGS = -DLANG=EN -DVERSION=1
+zelda_no-r1_FXFLAGS = --rom-version 1 --non-japanese --title "ZELDA"
+
+games += zelda_no-r2.gbc
+src/main.zelda_no-r2.o: azlf-r1.gbc
+zelda_no-r2_ASFLAGS = -DLANG=EN -DVERSION=2
+zelda_no-r2_LDFLAGS = -O azlf-r1.gbc
+zelda_no-r2_FXFLAGS = --rom-version 2 --non-japanese --title "ZELDA" --game-id "AZLE"
+
+#
 # Main targets
 #
 
-# By default, build the US 1.0 revision.
-build: azle.gbc
+## By default, build the US 1.0 revision.
+#build: azle.gbc
+
+build: zelda_no.gbc
 
 # Build all revisions.
 build-all: $(games)
 
 # Test the default revision.
-test: build
-	@tools/compare.sh ladx.md5 azle.gbc
-
-# Test all revisions.
-test-all: build-all
-	@tools/compare.sh ladx.md5 $(games)
+#test: build
+#	@tools/compare.sh ladx.md5 azle.gbc
+#
+## Test all revisions.
+#test-all: build-all
+#	@tools/compare.sh ladx.md5 $(games)
 
 all: build-all test-all
 

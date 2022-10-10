@@ -576,7 +576,7 @@ EntityInitMarin::
 
     ld   a, [ROM_DebugTool1]                      ; $4AA3: $FA $03 $00
     and  a                                        ; $4AA6: $A7
-    jp   z, EntityInitNpcFacingDown               ; $4AA7: $CA $2F $4B
+    jp   nz, .enableTextDebugger                  ; $4AA7: $CA $2F $4B
 
     ld   a, [wName]                               ; $4AAA: $FA $4F $DB
     and  a                                        ; $4AAD: $A7

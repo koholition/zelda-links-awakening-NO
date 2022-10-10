@@ -8,23 +8,23 @@ Det finnes allerede en svensk versjon som vi kan la oss inspirere av: [Legenden 
 
 Dette repoet er basert på [denne disassemblyen](https://github.com/zladx/LADX-Disassembly), men holdes ikke automatisk i sync. @tobiasvl kan synce manuelt ved behov.
 
-### Diskuter
+## Diskuter
 
 - Lag en [issue](https://github.com/tobiasvl/zelda-links-awakening-NO/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) om dere kommer på noe som må fikses eller som vi må huske på.
 - Større prosjekter kan vi eventuelt putte i [projects](https://github.com/gbdev/rgbds/projects).
 - Trenger vi å diskutere noe (utenom skjelett-chatten) kan vi bruke [discussions](https://github.com/tobiasvl/zelda-links-awakening-NO/projects?query=is%3Aopen)-forumet??
 
-### Bidra med oversettelser
+## Bidra med oversettelser
 
 - Tekst som skal oversettes: https://github.com/tobiasvl/zelda-links-awakening-NO/tree/main/src/text
 - Vi må også fikse font: https://github.com/tobiasvl/zelda-links-awakening-NO/tree/main/src/gfx/fonts
 - Noe grafikk, som tittelskjermen, kan vi ta ved behov
 
-### Teste spillet
+## Teste spillet
 
 For å bygge selve ROM-en:
 
-#### Installer RGBDS og avhengigheter
+### Installer RGBDS og avhengigheter
 
 RGBDS er Game Boy-assembleren vi bruker for å bygge ROM av dette repoet, så den må installeres. For eksempel, på Ubuntu (inkludert WSL på Windows):
 
@@ -36,7 +36,7 @@ unzip v0.5.2 && cd rgbds-0.5.2                                   # Pakk ut RGBDS
 make && sudo make install                                        # Installer RGBDS
 ```
 
-#### Bygg ROM
+### Bygg ROM
 
 Akkurat nå har jeg bare hacket til så den engelske versjonen brukes som den norske. Så dette bør holde (på Linux):
 
@@ -45,6 +45,34 @@ make
 ```
 
 Da bygges både ROM og debug-symboler som kan brukes i [BGB](https://github.com/zladx/LADX-Disassembly/wiki/Tooling-for-reverse-engineering#bgb).
+
+### Debug
+
+Hvis man bygger ROM-en, vil første lagringsfil alltid være en DEBUG-fil der alt er låst opp, med følgende funksjonalitet:
+
+#### Tekst-debugger
+
+Hvis du går til Marin foran hanestatuen i landsbyen, kan du teste all dialogen i spillet.
+
+- Bruk D-paden for å velge et tall XX (venstre/høyre velger enere, opp/ned tiere)
+- Trykk A for å vise tekst nr. XX
+- Trykk B for å vise tekst nr. 1XX
+- Trykk SELECT for å vise tekst nr. 2XX
+
+#### Noclip
+
+Du kan skru på «noclip»-modus på en av to måter:
+
+- Hold inne D-paden og trykk SELECT for å fryse spillet, og trykk så SELECT igjen for å skru på noclip
+- Trykk START (pauseskjerm) og så SELECT
+
+#### Warp
+
+Trykk B + SELECT på kartet for å warpe direkte hvor du vil. Du kan ende opp inni en vegg, skru i så fall på noclip.
+
+#### Vinn spillet
+
+Trykk START på kartet for å warpe direkte til Vindfisken og sluttscenen.
 
 ## Ressurser
 

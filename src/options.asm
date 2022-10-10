@@ -17,7 +17,7 @@
 ; - Dialogue debugger  (Marin will become a text-debugging object if your name begins with one space)
 ; - Jump to credits    (Marin will trigger the ending if your name begins with two spaces)
 
-;ENABLE_DEBUG_1 equ 1
+ENABLE_DEBUG_1 equ 1
 
 
 ;
@@ -42,7 +42,7 @@
 ; - Full photo album     (View the photo album to get all 12 images)
 ; - Jump to ending       (Push Start on the map screen)
 
-;ENABLE_DEBUG_3 equ 1
+ENABLE_DEBUG_3 equ 1
 
 IF(!DEF(VERSION))
 VERSION equs "0"
@@ -164,6 +164,7 @@ FILE_28 = $28
 FILE_6C = $6C
 FILE_2C = $2C
 FILE_64 = $64
+DEBUG_SAVE_FILE_NAME equs "DEBUG"
 EASTER_EGG_FILENAME_1 equs "ZELDA"
 EASTER_EGG_SONG_1 equ $60 ; MUSIC_ZELDA_NICKNAME_EASTER_EGG
 THIEF_NAME equs "THIEF"

@@ -13,16 +13,16 @@
 | Papahl           	| パパール               	|      	|        	|            	|                                                                                                                           	|
 | Sale             	| セール                 	|      	|        	|            	|                                                                                                                           	|
 | Crazy Tracy      	| きまぐれトレーシー     	|      	|        	| Gale Thale 	|                                                                                                                           	|
-| Syrup            	| シロップ               	|      	|        	|            	| Dukker dette navnet opp i spillet?                                                                                                                          	|
+| Syrup            	| シロップ               	|      	|        	|            	| Dukker dette navnet opp i spillet? |
 | Martha           	| マーサ                 	|      	|        	|            	| Marte?                                                                                                                          	|
 | Christine        	| クリスチーヌ           	|      	|        	|            	| Kristine?                                                                                                                          	|
 | Schule Donavitch 	| ドナピッチ ザンス      	|      	|        	|            	|                                                                                                                           	|
-| Kiki             	| サルキッキ             	|      	|        	| Julius hehe           	|                                                                                                                           	|
+| Kiki             	| サルキッキ             	|      	|        	|            	| Julius hehe     	|
 | Mamu             	| マムー                 	|      	|        	|            	|                                                                                                                           	|
 | Manbo            	| マンボ                 	|      	|        	|            	|                                                                                                                           	|
 | Mr. Write        	| Dr. ライト             	|      	|        	|            	| Beholde Dr. fra japansk. Hva med referansen til Will Wright/Dr. Wright fra sim city? Og ordspillet på en som skriver brev 	|
 | Richard          	| リチャード             	|      	|        	|            	| Rikard?                                                                                                                          	|
-| Moblin           	| モリブリン             	|      	|        	| Dette er visst en sammenslåing av 'skog' (Muri) og 'goblin'.	|                                                                                                                           	|
+| Moblin           	| モリブリン             	|      	|        	| 	|  Dette er visst en sammenslåing av 'skog' (Muri) og 'goblin'. |
 | Flying Rooster   	| そらとぶニワトリ       	|      	|        	|            	| Den flyvende hane?                                                                                                                          	|
 | Sun Fish         	| マンボウ               	|      	|        	|            	| Månefisk?                                                                                                                          	|
 | Sea Urchin       	| ウニ                   	|      	|        	|            	| Sjøpiggsvin/sjøpinnsvin/kråkebolle?|
@@ -30,6 +30,6 @@
 | Zora             	| ゾーラ                 	|      	|        	|            	|                                                                                                                           	|
 | Fairy Queen      	| ようせいじょーおうさま 	|      	|        	|            	| Dronningfeen?                                                                                                                          	|
 | Pols Voice       	| ポルスボイス           	|      	|        	|            	| Hvor i all verden kommer dette navnet fra                                                                                                                          	|
-| Stalfos          	| スタルフォス           	|      	|        	| bare Stalfos? det er visst Hyliansk for 'skeletal humanoid'           	|                                                                                                                           	|
+| Stalfos          	| スタルフォス           	|      	|        	|            	| bare Stalfos? det er visst Hyliansk for 'skeletal humanoid' |
 | Moldorm          	| テール                 	|      	|        	|            	|     	|
 | Nightmare        	| ボス                   	|      	|        	|            	| Går vel bare for Mareritt her? - eller Mare? hilsen julius                                                                                                                         	|

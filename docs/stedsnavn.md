@@ -12,14 +12,14 @@
 | Eagle's Tower                 | オオワシのとう                   |                     ||
 | East of the Bay               | いりえのひがし                   | Øst for bukta       ||
 | Face Shrine                   | かおのしんでん                   | Ansiktstempelet     ||
-| Fishing Pond                  | つりぼり                         | Fiskedam            ||
+| Fishing Pond                  | つりぼり                         | Fiskedam            |ev. fiskevann?|
 | Goponga Swamp                 | ゴポンガのぬま                   | Gopongasumpen       ||
 | Hen House                     | ニワトリごや                     | Hønsehus            ||
 | House By The Bay              | いりえのいえ                     | Huset ved sjøen     | Eller Huset ved bukta? Huset ved havet? |
 | Kanalet Castle                | カナレットのしろ                 |                     | Bekkeslottet? |
-| Key Cavern                    | カギのあなぐら                   | Nøkkelhula          ||
-| Koholint Island               | コホリントじま                   |                     ||
-| Koholint Prairie              | コホリント へいげん              | Koholintprærien     | «Prærie» er et særamerikansk begrep for slettene i Nord-Amerika, så jeg synes det skal hete Koholint-sletta mvh tobias - ja enig mvh julius|
+| Key Cavern                    | カギのあなぐら                   | Nøkkelhula          | |
+| Koholint Island               | コホリントじま                   | Koholint                    |rart å inkludere "øya"?|
+| Koholint Prairie              | コホリント へいげん              | Koholint-sletta     | «Prærie» er et særamerikansk begrep for slettene i Nord-Amerika, så jeg synes det skal hete Koholint-sletta mvh tobias - ja enig mvh julius|
 | Mabe Village                  | メーベのむら                     |                     | Bare Mabe landsby?|
 | Madam MeowMeow's House        | マダムニゃンニゃンのいえ         |                     ||
 | Manbo's Pond                  | マンボガいけ                     |                     ||

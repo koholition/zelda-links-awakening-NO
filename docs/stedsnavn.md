@@ -19,13 +19,13 @@
 | Kanalet Castle                | カナレットのしろ                 |                     | Bekkeslottet? |
 | Key Cavern                    | カギのあなぐら                   | Nøkkelhula          ||
 | Koholint Island               | コホリントじま                   |                     ||
-| Koholint Prairie              | コホリント へいげん              | Koholintprærien     | «Prærie» er et særamerikansk begrep for slettene i Nord-Amerika, så jeg synes det skal hete Koholint-sletta mvh tobias |
+| Koholint Prairie              | コホリント へいげん              | Koholintprærien     | «Prærie» er et særamerikansk begrep for slettene i Nord-Amerika, så jeg synes det skal hete Koholint-sletta mvh tobias - ja enig mvh julius|
 | Mabe Village                  | メーベのむら                     |                     | Bare Mabe landsby?|
 | Madam MeowMeow's House        | マダムニゃンニゃンのいえ         |                     ||
-| Manbo Pond                    | マンボガいけ                     |                     ||
+| Manbo's Pond                  | マンボガいけ                     |                     ||
 | Marin and Tarin's House       | マリンとタリンのいえ             |                     ||
 | Martha's Bay                  | マーサのいりえ                   | Martas bukt         |Eller Marte?|
-| Mountain Bridge               | つりばし                         |                     ||
+| Mountain Bridge               | つりばし                         |                  |Fjellbrua?     |
 | Mt. Tamaranch                 | タマランチ やま                  |                     ||
 | Mysterious Woods              | ふしぎのもり                     |                     ||
 | Old Man Ulrira's House        | うるりらじいさんのいえ           |                     ||

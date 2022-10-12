@@ -1,67 +1,56 @@
-| Engelsk                       | Norsk               | Kommentar |
-|-------------------------------|---------------------|-----------|
-| Villages and Residences       |                     |           |
-| Animal Village                | Dyrelandsbyen       |           |
-| Mabe Village                  |                     |           |
-| Hen House                     | Hønsehus            |           |
-| Madam MeowMeow's House        |                     |           |
-| Marin and Tarin's House       |                     |           |
-| Mr. Write's House             |                     |           |
-| Old Man Ulrira's House        |                     |           |
-| Quadruplet's House            | Firlingenes hus     |           |
-| Richard's Villa               | Rikards villa       |           |
-| Sale's House O' Bananas       |                     |           |
-| Witch's Hut                   | Heksens hytte       |           |
-| Camera Shop (DX Version only) | Fotobutikk          |           |
-| Businesses                    |                     |           |
-| Crazy Tracy's Health Spa      | Gale Tales helsespa |           |
-| Fishing Pond                  | Fiskedam            |           |
-| Raft Shop                     | Flåtebutikk         |           |
-| Town Tool Shop                |                     |           |
-| Trendy Game                   |                     |           |
-| Regions                       |                     |           |
-| Cemetery                      | Kirkegård           |           |
-| East of the Bay               | Øst for bukta       |           |
-| Face Shrine                   | Ansiktstempelet     |           |
-| Goponga Swamp                 | Gopongasumpen       |           |
-| Koholint Prairie              | Koholintprærien     |           |
-| Martha's Bay                  | Martas bukt         |           |
-| Mt. Tamaranch                 |                     |           |
-| Mysterious Forest             | Mystisk skog        |           |
-| Pothole Field                 | Jettegryter         |           |
-| Rapids Ride                   |                     |           |
-| Signpost Maze                 | Skiltlabyrint       |           |
-| South of the Village          | Sør for landsbyen   |           |
-| Tabahl Wasteland              |                     |           |
-| Tal Tal Heights               |                     |           |
-| Tal Tal Mountain Range        |                     |           |
-| Toronbo Shores                |                     |           |
-| Ukuku Prairie                 |                     |           |
-| Yarna Desert                  |                     |           |
-| Other                         |                     |           |
-| Koholint Island               |                     |           |
-| Great Fairy Fountain          |                     |           |
-| House by the Bay              | Huset ved sjøen     |           |
-| Mabe Village Library          |                     |           |
-| Manbo's Pond                  |                     |           |
-| Mermaid Statue                | Havfruestatue       |           |
-| Seashell Mansion              |                     |           |
-| Telephone Booth               | Telefonkiosk        |           |
-| Under the Bridge              |                     |           |
-| Warp Hole                     | Teleportør          |           |
-| Weathercock                   | Værhane             |           |
-| Dungeons                      |                     |           |
-| Tail Cave                     | Halehulen           |           |
-| Bottle Grotto                 | Flaskegrotten       |           |
-| Key Cavern                    | Nøkkelhula          |           |
-| Angler's Tunnel               | Marulktunnelen      |           |
-| Catfish's Maw                 | Mallegapet          |           |
-| Face Shrine                   | Ansiktstempelet     |           |
-| Eagle's Tower                 |                     |           |
-| Turtle Rock                   | Skilpaddesteinen    |           |
-| Wind Fish's Egg               | Vindfiskens egg     |           |
-| Color Dungeon                 |                     |           |
-| Mini-Dungeons                 |                     |           |
-| Dream Shrine                  | Drømmetempelet      |           |
-| Kanalet Castle                |                     |           |
-| Moblin Cave                   |                     |           |
+| Engelsk                       | Japansk                          | Norsk               |
+|-------------------------------|----------------------------------|---------------------|
+| Angler's Tunnel               | アングラーのたきつぼ             | Marulktunnelen      |
+| Animal Village                | どうぶつむら                     | Dyrelandsbyen       |
+| Bottle Grotto                 | つぼのどうくつ                   | Flaskegrotta        |
+| Catfish's Maw                 | ナマズのおおぐち                 | Mallegapet          |
+| Camera Shop (DX Version only) |                                  | Fotobutikk          |
+| Cemetery                      | ぼち                             | Kirkegård           |
+| Color Dungeon                 | 服のダンジョン                   |                     |
+| Crazy Tracy's Health Spa      | きまぐれトレーシーのくすりやさん | Gale Tales helsespa |
+| Dream Shrine                  | ユメのほこら                     | Drømmetempelet      |
+| Eagle's Tower                 | オオワシのとう                   |                     |
+| East of the Bay               | いりえのひがし                   | Øst for bukta       |
+| Face Shrine                   | かおのしんでん                   | Ansiktstempelet     |
+| Fishing Pond                  | つりぼり                         | Fiskedam            |
+| Goponga Swamp                 | ゴポンガのぬま                   | Gopongasumpen       |
+| Hen House                     | ニワトリごや                     | Hønsehus            |
+| House By The Bay              | いりえのいえ                     | Huset ved sjøen     |
+| Kanalet Castle                | カナレットのしろ                 |                     |
+| Key Cavern                    | カギのあなぐら                   | Nøkkelhula          |
+| Koholint Island               | コホリントじま                   |                     |
+| Koholint Prairie              | コホリント へいげん              | Koholintprærien     |
+| Mabe Village                  | メーベのむら                     |                     |
+| Madam MeowMeow's House        | マダムニゃンニゃンのいえ         |                     |
+| Manbo Pond                    | マンボガいけ                     |                     |
+| Marin and Tarin's House       | マリンとタリンのいえ             |                     |
+| Martha's Bay                  | マーサのいりえ                   | Martas bukt         |
+| Mountain Bridge               | つりばし                         |                     |
+| Mt. Tamaranch                 | タマランチ やま                  |                     |
+| Mysterious Woods              | ふしぎのもり                     |                     |
+| Old Man Ulrira's House        | うるりらじいさんのいえ           |                     |
+| Pothole Field                 | アナボコばたけ                   | Jettegryter         |
+| Quadruplet's House            | ４つごのいえ                     | Firlingenes hus     |
+| Raft Shop                     | いかだや                         |                     |
+| Rapids Ride                   | きゅうりゅうすべり               |                     |
+| Richard's Villa               | リチゃードのべっそう             | Rikards villa       |
+| Sale's House O' Bananas       | バナナうり セールのいえ          |                     |
+| Seashell Mansion              | かいがらのやかた                 |                     |
+| Signpost Maze                 | カンバンのめいろ                 | Skiltlabyrint       |
+| South of the Village          | むらのみなみ                     | Sør for landsbyen   |
+| Tabahl Wasteland              | タバールのはやし                 |                     |
+| Tail Cave                     | テールのほらあな                 | Halehula            |
+| Tal Tal Heights               | タルタル こうち                  |                     |
+| Tal Tal Mountain Range        | タルタル さんみゃく              |                     |
+| Telephone Booth               | でんわボックス                   | Telefonkiosk        |
+| Toronbo Shores                | トロンボ かいがん                |                     |
+| Town Tool Shop                | むらのどうぐやさん               |                     |
+| Trendy Game                   | いまはやりのゲーム               |                     |
+| Turtle Rock                   | カメイワ                         | Skilpaddesteinen    |
+| Ukuku Prairie                 | ウクク そうげん                  |                     |
+| Village Library               | むらのとしょかん                 |                     |
+| Warp Hole                     | ワープのあな                     | Teleportør          |
+| Weird Mr. Write               | へんなおじさん ライトのいえ      |                     |
+| Wind Fish's Egg               | せいなるタマゴ                   | Vindfiskens egg     |
+| Witch's Hut                   | まほうのこなをつくる おばあさん  | Heksas hytte        |
+| Yarna Desert                  | ヤーナ さばく                    |                     |

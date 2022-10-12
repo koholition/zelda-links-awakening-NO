@@ -53,7 +53,7 @@
 | Dungeons                      |                     |           |
 | Tail Cave                     | Halehulen           |           |
 | Bottle Grotto                 | Flaskegrotten       |           |
-| Key Cavern                    | Nøkkelhulen         |           |
+| Key Cavern                    | Nøkkelhula          |           |
 | Angler's Tunnel               | Marulktunnelen      |           |
 | Catfish's Maw                 | Mallegapet          |           |
 | Face Shrine                   | Ansiktstempelet     |           |

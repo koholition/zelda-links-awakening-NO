@@ -1,6 +1,6 @@
 | Engelsk          	| Japansk                	| Tysk 	| Fransk 	| Norsk      	| Kommentar                                                                                                                 	|
 |------------------	|------------------------	|------	|--------	|------------	|---------------------------------------------------------------------------------------------------------------------------	|
-| Zelda            	| ゼルダ                 	|      	|        	|            	|                                                                                                                           	|
+| Zelda            	| ゼルダ                 	|      	|        	| Zelda           	|                                                                                                                           	|
 | Link             	| リンク                 	|      	|        	|            	| Dukker vel aldri opp i spillet                                                                                                                          	|
 | Owl              	| フクロウ               	|      	|        	|            	| Kaepora Gaebora eller? Ikonisk navn|
 | Wind Fish        	| かぜのさかな           	|      	|        	|            	| Vindfisk bare? Eventuelt Vindfisken, som vi kalte ham da vi var små barn                                                                                                                          	|
@@ -17,12 +17,12 @@
 | Martha           	| マーサ                 	|      	|        	|            	| Marte?                                                                                                                          	|
 | Christine        	| クリスチーヌ           	|      	|        	|            	| Kristine?                                                                                                                          	|
 | Schule Donavitch 	| ドナピッチ ザンス      	|      	|        	|            	|                                                                                                                           	|
-| Kiki             	| サルキッキ             	|      	|        	|            	|                                                                                                                           	|
+| Kiki             	| サルキッキ             	|      	|        	| Julius hehe           	|                                                                                                                           	|
 | Mamu             	| マムー                 	|      	|        	|            	|                                                                                                                           	|
 | Manbo            	| マンボ                 	|      	|        	|            	|                                                                                                                           	|
 | Mr. Write        	| Dr. ライト             	|      	|        	|            	| Beholde Dr. fra japansk. Hva med referansen til Will Wright/Dr. Wright fra sim city? Og ordspillet på en som skriver brev 	|
 | Richard          	| リチャード             	|      	|        	|            	| Rikard?                                                                                                                          	|
-| Moblin           	| モリブリン             	|      	|        	|            	|                                                                                                                           	|
+| Moblin           	| モリブリン             	|      	|        	| Dette er visst en sammenslåing av 'skog' (Muri) og 'goblin'.	|                                                                                                                           	|
 | Flying Rooster   	| そらとぶニワトリ       	|      	|        	|            	| Den flyvende hane?                                                                                                                          	|
 | Sun Fish         	| マンボウ               	|      	|        	|            	| Månefisk?                                                                                                                          	|
 | Sea Urchin       	| ウニ                   	|      	|        	|            	| Sjøpiggsvin/sjøpinnsvin/kråkebolle?|
@@ -30,6 +30,6 @@
 | Zora             	| ゾーラ                 	|      	|        	|            	|                                                                                                                           	|
 | Fairy Queen      	| ようせいじょーおうさま 	|      	|        	|            	| Dronningfeen?                                                                                                                          	|
 | Pols Voice       	| ポルスボイス           	|      	|        	|            	| Hvor i all verden kommer dette navnet fra                                                                                                                          	|
-| Stalfos          	| スタルフォス           	|      	|        	|            	|                                                                                                                           	|
-| Moldorm          	| テール                 	|      	|        	|            	|                                                                                                                           	|
+| Stalfos          	| スタルフォス           	|      	|        	| bare Stalfos? det er visst Hyliansk for 'skeletal humanoid'           	|                                                                                                                           	|
+| Moldorm          	| テール                 	|      	|        	|            	|     	|
 | Nightmare        	| ボス                   	|      	|        	|            	| Går vel bare for Mareritt her? - eller Mare? hilsen julius                                                                                                                         	|

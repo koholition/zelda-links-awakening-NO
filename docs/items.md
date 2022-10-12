@@ -1,7 +1,7 @@
 | Engelsk                                 	| Japansk                    	| Tysk 	| Fransk 	| Norsk 	| Kommentar 	|
 |-----------------------------------------	|----------------------------	|------	|--------	|-------	|-----------	|
-| Shield                                  	| タテ                       	|      	|        	|       	|           	|
-| Mirror Shield                           	| かがみのたて               	|      	|        	| Skjold      	|           	|
+| Shield                                  	| タテ                       	|      	|        	| Skjold      	|           	|
+| Mirror Shield                           	| かがみのたて               	|      	|        	| Speilskjold      	|           	|
 | Sword                                   	| けん                       	|      	|        	| Sverd      	|           	|
 | Deluxe Shovel                           	| いかしたスコップ           	|      	|        	|       	|           	|
 | Bow & Arrow Set                         	| ゆみ や セット             	|      	|        	| pil og bue      	|           	|

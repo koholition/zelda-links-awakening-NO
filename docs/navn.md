@@ -32,4 +32,4 @@
 | Pols Voice       	| ポルスボイス           	|      	|        	|            	| Hvor i all verden kommer dette navnet fra                                                                                                                          	|
 | Stalfos          	| スタルフォス           	|      	|        	|            	|                                                                                                                           	|
 | Moldorm          	| テール                 	|      	|        	|            	|                                                                                                                           	|
-| Nightmare        	| ボス                   	|      	|        	|            	| Går vel bare for Mareritt her?                                                                                                                          	|
+| Nightmare        	| ボス                   	|      	|        	|            	| Går vel bare for Mareritt her? - eller Mare? hilsen julius                                                                                                                         	|

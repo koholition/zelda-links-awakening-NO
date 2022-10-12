@@ -24,8 +24,8 @@
 | Richard          	| リチャード             	|      	|        	|            	|                                                                                                                           	|
 | Moblin           	| モリブリン             	|      	|        	|            	|                                                                                                                           	|
 | Flying Rooster   	| そらとぶニワトリ       	|      	|        	|            	|                                                                                                                           	|
-| Sun Fish         	| マンボウ               	|      	|        	|            	|                                                                                                                           	|
-| Sea Urchin       	| ウニ                   	|      	|        	|            	|                                                                                                                           	|
+| Sun Fish         	| マンボウ               	|      	|        	|            	| Månefisk?                                                                                                                          	|
+| Sea Urchin       	| ウニ                   	|      	|        	|            	| Sjøpiggsvin/sjøpinnsvin/kråkebolle?|
 | Bucket Mouse     	| バケットマウス         	|      	|        	|            	|                                                                                                                           	|
 | Zora             	| ゾーラ                 	|      	|        	|            	|                                                                                                                           	|
 | Fairy Queen      	| ようせいじょーおうさま 	|      	|        	|            	|                                                                                                                           	|

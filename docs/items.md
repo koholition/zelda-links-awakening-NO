@@ -63,7 +63,7 @@
 | Fun With Bombs                          	| バクダンは かつげる        	|      	|        	|       	|           	|
 | Atlas Of Koholint Island                	| コホリントじまのちず       	|      	|        	|       	|           	|
 | Dark Secrets And Mysteries Of Koholint  	| ヒミツのほん？！           	|      	|        	|       	|           	|
-| The Travels of <name>                   	| でんせつの <name>！        	|      	|        	|       	| <name>s reiser          	|
+| The Travels of NAME                   	| でんせつの NAME！        	|      	|        	|       	| NAVNs reiser          	|
 | Blue Clothes                            	| あおいふく                 	|      	|        	|       	|           	|
 | Red Clothes                             	| あかいふく                 	|      	|        	|       	|           	|
 | wisdom                                  	| ちえ                       	|      	|        	|       	| Visdom          	|

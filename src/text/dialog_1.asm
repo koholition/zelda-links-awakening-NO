@@ -355,15 +355,23 @@ Dialog02D::
     db "    Buy  Don't<ask>"
 
 Dialog02E::
-    db "Hey!  Welcome!  "
-    db "See something   "
-    db "you like?!  Just"
-    db "bring it here!@"
+    db "Hei! Velkommen!  "
+    db "Ser du noe du   "
+    db "liker?! Bare ta "
+    db "det med hit!@"
+ ;    db "Hey!  Welcome!  "
+ ;    db "See something   "
+ ;    db "you like?!  Just"
+ ;    db "bring it here!@"
 
 Dialog02F::
-    db "Hey! You! Stop! "
-    db "You gotta pay!  "
-    db "Put it back!@"
+    db "Hei! Du! Stopp! "
+    db "Du må betale!   "
+    db "Legg den        "
+    db "tilbake!@"
+ ;   db "Hey! You! Stop! "
+ ;   db "You gotta pay!  "
+ ;   db "Put it back!@"
 
 Dialog030::
     db "  Deluxe Shovel "
@@ -395,22 +403,34 @@ Dialog034::
     db "have the cash!@"
 
 Dialog035::
-    db "Thanks a lot!   "
-    db "And come again!@"
+    db "Tusen takk! Og  "
+    db "velkommen       "
+    db "tilbake!@"
+ ;   db "Thanks a lot!   " 
+ ;   db "And come again!@"
 
 Dialog036::
-    db "Guess what?  You"
-    db "got it for free."
-    db "Are you proud of"
-    db "yourself?@"
+    db "Gjett hva? Du   "
+    db "fikk den gratis."
+    db "Er du stolt av  "
+    db "deg selv?@"
+;    db "Guess what?  You"
+;    db "got it for free."
+;    db "Are you proud of"
+;    db "yourself?@"
 
 Dialog037::
 Dialog038::
-    db "I wasn't kidding"
-    db "when I said pay!"
-    db "Now, you'll pay "
-    db "the ultimate    "
-    db "price!!@"
+    db "Jeg tulla ikke  "
+    db "da jeg ba deg   "
+    db "betale! Nå skal "
+    db "du betale den   "
+    db "ultimate pris!!@"
+;    db "I wasn't kidding"
+;    db "when I said pay!"
+;    db "Now, you'll pay "
+;    db "the ultimate    "
+;    db "price!!@"
 
 Dialog039::
     db "Hunh?  It sounds"

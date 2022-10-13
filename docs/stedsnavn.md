@@ -1,6 +1,6 @@
 | Engelsk                       | Japansk                          | Norsk               | Kommentar |
 |-------------------------------|----------------------------------|---------------------|-----------|
-| Angler's Tunnel               | アングラーのたきつぼ             | Marulktunnelen      ||
+| Angler's Tunnel               | アングラーのたきつぼ             | Marulktunnelen      |Eller Breiflabbtunellen? breiflabb har også mange andre kallenavn: havtaske, sjødævel, storkjeftkonge, ulke, breikjeft|
 | Animal Village                | どうぶつむら                     | Dyrelandsbyen       ||
 | Bottle Grotto                 | つぼのどうくつ                   | Flaskegrotta        ||
 | Catfish's Maw                 | ナマズのおおぐち                 | Mallegapet          ||
@@ -19,7 +19,7 @@
 | Kanalet Castle                | カナレットのしろ                 |                     | Bekkeslottet? |
 | Key Cavern                    | カギのあなぐら                   | Nøkkelhula          | |
 | Koholint Island               | コホリントじま                   | Koholint                    |rart å inkludere "øya"?|
-| Koholint Prairie              | コホリント へいげん              | Koholint-sletta     | «Prærie» er et særamerikansk begrep for slettene i Nord-Amerika, så jeg synes det skal hete Koholint-sletta mvh tobias - ja enig mvh julius|
+| Koholint Prairie              | コホリント へいげん              | Koholint-sletta     | «Prærie» er et særamerikansk begrep for slettene i Nord-Amerika, så jeg synes det skal hete Koholint-sletta mvh tobias - ja enig mvh julius. Hva med vidde. Koholint-vidda? mvh Andreas |
 | Mabe Village                  | メーベのむら                     |                     | Bare Mabe landsby?|
 | Madam MeowMeow's House        | マダムニゃンニゃンのいえ         |                     ||
 | Manbo's Pond                  | マンボガいけ                     |                     ||

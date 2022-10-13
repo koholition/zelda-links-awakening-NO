@@ -591,23 +591,35 @@ Dialog050::
     db "Heart Container!@"
 
 Dialog051::
-    db "Brrrr... This is"
-    db "a block of solid"
-    db "ice!  It's very "
-    db "cold!@"
+    db "Brrr... Dette er"
+    db "en stor solid   "
+    db "isbit! Den er   "
+    db "veldig kald!@"
+;    db "Brrrr... This is"
+;    db "a block of solid"
+;    db "ice!  It's very "
+;    db "cold!@"
 
 Dialog052::
-    db "NYAH NYAH! You  "
-    db "can't hurt me as"
-    db "long as I have  "
-    db "my bottle!@"
+    db "ÆDDA BÆDDA! Du  "
+    db "kan ikke skade  "
+    db "meg så lenge jeg"
+    db "har flaska mi!@"
+;    db "NYAH NYAH! You  "
+;    db "can't hurt me as"
+;    db "long as I have  "
+;    db "my bottle!@"
 
 Dialog053::
-    db "Waaaah! You- you"
-    db "broke my bottle!"
-    db "Why, you... You "
-    db "make me hopping "
-    db "mad!!!@"
+    db "Hvaaaaah! Du- du"
+    db "knuste flaska   "
+    db "mi! Du gjør meg "
+    db "fly forbanna!@"
+;    db "Waaaah! You- you"
+;    db "broke my bottle!"
+;    db "Why, you... You "
+;    db "make me hopping "
+;    db "mad!!!@"
 
 Dialog054::
     db "Well, #####, ya "
@@ -815,11 +827,16 @@ Dialog089::
     db "    Warp Hole   @"
 
 Dialog08A::
-    db "This rock has   "
-    db "many cracks...  "
-    db "There must be   "
-    db "some way to     "
-    db "shatter it...@"
+    db "Denne steinen   "
+    db "har sprekker... "
+    db "Det må finnes   "
+    db "en måte å knuse "
+    db "den på...@"
+;    db "This rock has   "
+;    db "many cracks...  "
+;    db "There must be   "
+;    db "some way to     "
+;    db "shatter it...@"
 
 Dialog08B::
     db "Oh? What a weird"
@@ -829,18 +846,29 @@ Dialog08B::
     db "obstacle.@"
 
 Dialog08C::
-    db "Hunh?  This rock"
-    db "has a key hole! "
-    db "You should come "
-    db "back with a key!@"
+    db "Hæ? Denne       "
+    db "steinen har et  "
+    db "nøkkelhull! Du  "
+    db "burde komme til-"
+    db "bake hit med en "
+    db "nøkkel!@"
+;    db "Hunh?  This rock"
+;    db "has a key hole! "
+;    db "You should come "
+;    db "back with a key!@"
 
 Dialog08D::
-    db "Wow!  This looks"
-    db "pretty heavy!   "
-    db "You won't be    "
-    db "able to lift it "
-    db "with just your  "
-    db "bare hands...@"
+    db "Oi! Denne ser   "
+    db "ganske tung ut! "
+    db "Du klarer ikke å"
+    db "løfte den med   "
+    db "bare henda...@"
+;    db "Wow!  This looks"
+;    db "pretty heavy!   "
+;    db "You won't be    "
+;    db "able to lift it "
+;    db "with just your  "
+;    db "bare hands...@"
 
 Dialog08E::
     db "Well, it's an   "
@@ -849,8 +877,11 @@ Dialog08E::
     db "to play it...@"
 
 Dialog08F::
-    db "No!  No!  Poor  "
-    db "hen!  Stop that!@"
+    db "Nei nei! Stakkars"
+    db "høne! Slutt med  "
+    db "det der!@"
+;    db "No!  No!  Poor  "
+;    db "hen!  Stop that!@"
 
 Dialog090::
     db "You found the   "
@@ -860,11 +891,16 @@ Dialog090::
     db "stones!@"
 
 Dialog091::
-    db "You got your    "
-    db "shield back!    "
-    db "Press the button"
-    db "and repel       "
-    db "enemies with it!@"
+    db "Du fikk tilbake "
+    db "skjoldet ditt!  "
+    db "Trykk på knappen"
+    db "for å dytte     "
+    db "fiender med det!@"
+;    db "You got your    "
+;    db "shield back!    "
+;    db "Press the button"
+;    db "and repel       "
+;    db "enemies with it!@"
 
 Dialog092::
     db "Ahhh... Yess... "

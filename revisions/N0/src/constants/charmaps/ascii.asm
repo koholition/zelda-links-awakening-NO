@@ -61,7 +61,8 @@ charmap "X", $58
 charmap "Y", $59
 charmap "Z", $5A
 
-charmap "^", $5E
+;charmap "^", $5E
+charmap "'", $5E
 
 charmap "a", $61
 charmap "b", $62
@@ -92,15 +93,15 @@ charmap "z", $7A
 
 charmap "+", $7F
 
-charmap "å", $FC
-charmap "Æ", $C4
-charmap "Ø", $D6
-charmap "Å", $DC
-;charmap "ß", $DF
+charmap "Æ", $94
+charmap "Ø", $95
+charmap "Å", $C4
 charmap "æ", $E4
 charmap "ø", $F6
+charmap "å", $FC
 
 charmap "<skull>", $ac
+charmap "<link>", $ad
 charmap "<marin>", $ae
 charmap "<heart>", $af
 charmap "<yoshi>", $b0

@@ -6,7 +6,7 @@
     SETCHARMAP NameEntryCharmap
     db   "ABCDEFG",  0,0, "abcdefg"
     db   "HIJKLMN",  0,0, "hijklmn"
-    db   "NOPQRST",  0,0, "nopqrst"
-    db   "TUVWXYZ",  0,0, "tuvwxyz"
+    db   "OPQRSTU",  0,0, "opqrstu"
+    db   "VWXYZ  ",  0,0, "vwxyz  "
     db   "ÆØÅ    ",  0,0, "æøå    "
     POPC

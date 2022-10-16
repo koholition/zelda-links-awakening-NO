@@ -100,6 +100,11 @@ charmap "æ", $E4
 charmap "ø", $F6
 charmap "å", $FC
 
+charmap "«", $91
+charmap "»", $92
+charmap "…", $96
+charmap "...", $96
+
 charmap "<skull>", $ac
 charmap "<link>", $ad
 charmap "<marin>", $ae

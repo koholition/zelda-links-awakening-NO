@@ -368,7 +368,7 @@ Dialog02F::
     db "Hei! Du! Stopp! "
     db "Du må betale!   "
     db "Legg den til-   "
-    db "tilbake!@"
+    db "bake!@"
  ;   db "Hey! You! Stop! "
  ;   db "You gotta pay!  "
  ;   db "Put it back!@"

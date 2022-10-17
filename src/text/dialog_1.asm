@@ -593,7 +593,7 @@ Dialog050::
 Dialog051::
     db "Brrr... Dette er"
     db "en massiv is-   "
-    db "isbit! Den er   "
+    db "blokk! Den er   "
     db "veldig kald!@"
 ;    db "Brrrr... This is"
 ;    db "a block of solid"

@@ -878,7 +878,7 @@ Dialog08E::
 
 Dialog08F::
     db "Nei nei! Stakkars"
-    db "høne! Slutt med  "
+    db "høne! Gi deg med"
     db "det der!@"
 ;    db "No!  No!  Poor  "
 ;    db "hen!  Stop that!@"

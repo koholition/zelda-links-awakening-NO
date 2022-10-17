@@ -33,7 +33,7 @@ Dialog001::
 
 Dialog002::
     db "Følg veien sør- "
-    db "sør for å komme "
+    db "over for å komme"
     db "til stranda der "
     db "jeg fant deg.   "
     db "Siden du skylte "

@@ -32,7 +32,7 @@ Dialog001::
 ;    db "Koholint Island!@"
 
 Dialog002::
-    db "Følg veien mot  "
+    db "Følg veien sør- "
     db "sør for å komme "
     db "til stranda der "
     db "jeg fant deg.   "

@@ -592,7 +592,7 @@ Dialog050::
 
 Dialog051::
     db "Brrr... Dette er"
-    db "en stor solid   "
+    db "en massiv is-   "
     db "isbit! Den er   "
     db "veldig kald!@"
 ;    db "Brrrr... This is"

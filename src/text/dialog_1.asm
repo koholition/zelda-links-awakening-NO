@@ -614,7 +614,7 @@ Dialog053::
     db "Uæææææææ! D-d-du"
     db "knuste flaska   "
     db "mi! Du gjør meg "
-    db "fly forbanna!@"
+    db "fly forbanna!!!@"
 ;    db "Waaaah! You- you"
 ;    db "broke my bottle!"
 ;    db "Why, you... You "

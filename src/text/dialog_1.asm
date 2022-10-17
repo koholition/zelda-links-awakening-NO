@@ -404,7 +404,7 @@ Dialog034::
 
 Dialog035::
     db "Tusen takk! Og  "
-    db "velkommen       "
+    db "velkommen til-  "
     db "tilbake!@"
  ;   db "Thanks a lot!   " 
  ;   db "And come again!@"

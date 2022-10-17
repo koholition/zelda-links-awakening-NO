@@ -102,8 +102,8 @@ charmap "å", $FC
 
 charmap "«", $91
 charmap "»", $92
-charmap "…", $96
-charmap "...", $96
+charmap "_", $96
+charmap "…", $97
 
 charmap "<skull>", $ac
 charmap "<link>", $ad

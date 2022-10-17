@@ -355,7 +355,7 @@ Dialog02D::
     db "    Buy  Don't<ask>"
 
 Dialog02E::
-    db "Hei! Velkommen!  "
+    db "Hei! Velkommen! "
     db "Ser du noe du   "
     db "liker?! Bare ta "
     db "det med hit!@"

@@ -611,7 +611,7 @@ Dialog052::
 ;    db "my bottle!@"
 
 Dialog053::
-    db "Hvaaaaah! Du- du"
+    db "Uæææææææ! D-d-du"
     db "knuste flaska   "
     db "mi! Du gjør meg "
     db "fly forbanna!@"

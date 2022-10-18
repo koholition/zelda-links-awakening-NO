@@ -15,8 +15,8 @@
 | Ocarina                                 	| オカリナ                   	|      	|        	| Leirgauk |           	|
 | Boomerang                               	| ブーメラン                 	|      	|        	| Bumerang      	|           	|
 | Magnifying Lens                         	| みとおしレンズ             	|      	|        	| Forstørrelsesglass      	|           	|
-| Sleepy Toadstool                        	| ネボケタケ                 	|      	|        	|       	| Sovesopp?          	|
-| Toadstool                               	| キノコ                     	|      	|        	|       	| Sopp          	|
+| Sleepy Toadstool                        	| ネボケタケ                 	|      	|        	|       	| Sovesopp? Søvnig paddehatt?         	|
+| Toadstool                               	| キノコ                     	|      	|        	|       	| Sopp? Paddehatt?          	|
 | Flippers                                	| アングラーのみずかき       	|      	|        	|      	| Svømmeføtter?          	|
 | Secret Medicine                         	| ヒミツのくすり             	|      	|        	|       	| Vidundermedisin?          	|
 | Secret Seashell                         	| ヒミツのカイ               	|      	|        	|       	|  Skjult sneglehus?	|

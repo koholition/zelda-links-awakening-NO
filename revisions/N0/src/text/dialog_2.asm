@@ -697,7 +697,7 @@ Dialog0E0::
     db "more alive!@"
 
 Dialog0E1::
-    db "Hei, drittunge! "
+    db "Hei, guttunge!  "
     db "Du vekket meg   "
     db "fra en god lur! "
     db "_… Tusen takk!  "

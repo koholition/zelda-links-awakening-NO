@@ -989,10 +989,14 @@ Dialog095::
     db "can dash!@"
 
 Dialog096::
-    db "You've got the  "
-    db "Ocarina!  You   "
-    db "should learn to "
-    db "play many songs!@"
+    db "Du fikk         "
+    db "okarinaen! Du   "
+    db "burde lære deg å"
+    db "spille på den!@"
+;    db "You've got the  "
+;    db "Ocarina!  You   "
+;    db "should learn to "
+;    db "play many songs!@"
 
 Dialog097::
     db "You've got the  "
@@ -1008,16 +1012,24 @@ Dialog098::
     db "of digging!@"
 
 Dialog099::
-    db "You've got some "
-    db "Magic Powder!   "
-    db "Try sprinkling  "
-    db "it on a variety "
-    db "of things!@"
+    db "Du fikk litt    "
+    db "magisk pulver!  "
+    db "Prøv å strø det "
+    db "på mange ulike  "
+    db "ting!@"
+;    db "You've got some "
+;    db "Magic Powder!   "
+;    db "Try sprinkling  "
+;    db "it on a variety "
+;    db "of things!@"
 
 Dialog09A::
-    db "You've got a    "
-    db "bomb! Way to    "
-    db "go!@"
+    db "Du fikk en      "
+    db "bombe! Veldig   "
+    db "bra!@"
+;    db "You've got a    "
+;    db "bomb! Way to    "
+;    db "go!@"
 
 Dialog09B::
     db "Du fant sverdet "
@@ -1050,11 +1062,16 @@ Dialog09D::
 
 Dialog09E::
 Dialog09F::
-    db "You've got a    "
-    db "new Sword!  You "
-    db "should put your "
-    db "name on it right"
-    db "away!@"
+    db "Du fikk et nytt "
+    db "sverd! Du burde "
+    db "skrive navnet   "
+    db "ditt på det med "
+    db "én gang!@"
+;    db "You've got a    "
+;    db "new Sword!  You "
+;    db "should put your "
+;    db "name on it right"
+;    db "away!@"
 
 Dialog0A0::
     db "You found the   "

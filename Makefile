@@ -207,7 +207,7 @@ azln-r2_FXFLAGS = --rom-version 2 --non-japanese --title "ZELDA" --game-id "AZLN
 #
 
 # By default, build the US 1.0 revision.
-build: azln.gbc
+build: clean azln.gbc
 
 # Build all revisions.
 build-all: $(games)
@@ -215,6 +215,12 @@ build-all: $(games)
 # Test the default revision.
 #test: build
 #	@tools/compare.sh ladx.md5 azle.gbc
+
+# Debug builds
+debug: ASFLAGS += -DENABLE_DEBUG_1=1
+debug: ASFLAGS += -DENABLE_DEBUG_3=1
+debug: clean
+debug: build
 
 # Test all revisions.
 test-all: build-all

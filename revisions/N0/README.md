@@ -44,6 +44,12 @@ Akkurat nå har jeg bare hacket til så den engelske versjonen brukes som den no
 make
 ```
 
+Eller, for å bygge med debug-funksjonalitet skrudd på:
+
+```
+make debug
+```
+
 Da bygges både ROM og debug-symboler som kan brukes i [BGB](https://github.com/zladx/LADX-Disassembly/wiki/Tooling-for-reverse-engineering#bgb).
 
 ### Debug

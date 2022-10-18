@@ -893,10 +893,10 @@ Dialog0F4::
 
 Dialog0F5::
     db "Vi ble født av  "
-    db "mareritt_… Til å"
+    db "mareritt_… For å"
     db "ta over denne   "
-    db "verdenen, vi    "
-    db "tvang Vindfisken"
+    db "verdenen tvang  "
+    db "vi Vindfisken   "
     db "til å sove      "
     db "uendelig! Hvis  "
     db "Vindfisken aldri"

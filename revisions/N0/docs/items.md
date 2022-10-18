@@ -62,7 +62,7 @@
 | The Properties Of Warp Holes            	| ワープのほうそく           	|      	|        	|       	| Varpehullenes egenskaper / Teleportørenes egenskaper         	|
 | Fun With Bombs                          	| バクダンは かつげる        	|      	|        	|       	| Gøy med bomber          	|
 | Atlas Of Koholint Island                	| コホリントじまのちず       	|      	|        	|       	| Atlas over Koholint          	|
-| Dark Secrets And Mysteries Of Koholint  	| ヒミツのほん？！           	|      	|        	|       	| Mørke hemmeligheter og mysterier på Koholint          	|
+| Dark Secrets And Mysteries Of Koholint  	| ヒミツのほん？！           	|      	|        	|       	| Mørke hemmeligheter og mysterier på Koholint / Koholints mørke hemmeligheter og mysterier          	|
 | The Travels of NAME                   	| でんせつの NAME！        	|      	|        	|       	| NAVNs reiser          	|
 | Blue Clothes                            	| あおいふく                 	|      	|        	|       	| Blå skjorte / Blå kjortel         	|
 | Red Clothes                             	| あかいふく                 	|      	|        	|       	| Rød skjorte / Rød kjortel          	|

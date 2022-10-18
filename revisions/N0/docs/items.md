@@ -20,7 +20,7 @@
 | Flippers                                	| アングラーのみずかき       	|      	|        	|      	| Svømmeføtter?          	|
 | Secret Medicine                         	| ヒミツのくすり             	|      	|        	|       	| Vidundermedisin?          	|
 | Secret Seashell                         	| ヒミツのカイ               	|      	|        	|       	|  Skjult sneglehus?	|
-| Gold Leaf                               	| おうごんのはっぱ           	|      	|        	|       	| Gullblad          	|
+| Gold Leaf                               	| おうごんのはっぱ           	|      	|        	|       	| Gullblad? Gyllent blad?         	|
 | Map                                     	| ちず                       	|      	|        	| Kart      	|           	|
 | Compass                                 	| コンパス                   	|      	|        	| Kompass      	|           	|
 | Small Key                               	| ちいさなカギ               	|      	|        	|       	| Nøkkel          	|

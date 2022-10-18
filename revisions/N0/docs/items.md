@@ -3,69 +3,69 @@
 | Shield                                  	| タテ                       	|      	|        	| Skjold      	|           	|
 | Mirror Shield                           	| かがみのたて               	|      	|        	| Speilskjold      	|           	|
 | Sword                                   	| けん                       	|      	|        	| Sverd      	|           	|
-| Deluxe Shovel                           	| いかしたスコップ           	|      	|        	|       	|           	|
+| Deluxe Shovel                           	| いかしたスコップ           	|      	|        	|       	| Luksusspade          	|
 | Bow & Arrow Set                         	| ゆみ や セット             	|      	|        	| pil og bue      	|           	|
 | Roc's Feather                           	| ロックちょう               	|      	|        	|       	| Rokks fjær? https://no.wikipedia.org/wiki/Rokk_(fabeldyr)	|
-| Power Bracelet                          	| パワーブレスレット         	|      	|        	|       	|           	|
-| Hook Shot                               	| フックショット             	|      	|        	|       	|           	|
+| Power Bracelet                          	| パワーブレスレット         	|      	|        	|       	| Kraftarmbånd          	|
+| Hook Shot                               	| フックショット             	|      	|        	|       	| Piggkaster? Krokkaster?          	|
 | Magic Rod                               	| マジックロッド             	|      	|        	|       	| Magisk stav? Tryllestav?	|
-| Pegasus Boots                           	| ペガサスのくつ             	|      	|        	|       	|           	|
+| Pegasus Boots                           	| ペガサスのくつ             	|      	|        	|       	| Pegasusstøvlene          	|
 | Magic Powder                            	| まほうのこな               	|      	|        	|       	| Magisk pulver          	|
 | Bomb                                    	| バクダン                   	|      	|        	| Bombe      	|           	|
 | Ocarina                                 	| オカリナ                   	|      	|        	| Leirgauk |           	|
-| Boomerang                               	| ブーメラン                 	|      	|        	|       	|           	|
+| Boomerang                               	| ブーメラン                 	|      	|        	| Bumerang      	|           	|
 | Magnifying Lens                         	| みとおしレンズ             	|      	|        	| Forstørrelsesglass      	|           	|
 | Sleepy Toadstool                        	| ネボケタケ                 	|      	|        	|       	| Sovesopp?          	|
 | Toadstool                               	| キノコ                     	|      	|        	|       	| Sopp          	|
 | Flippers                                	| アングラーのみずかき       	|      	|        	|      	| Svømmeføtter?          	|
-| Secret Medicine                         	| ヒミツのくすり             	|      	|        	|       	|           	|
+| Secret Medicine                         	| ヒミツのくすり             	|      	|        	|       	| Vidundermedisin?          	|
 | Secret Seashell                         	| ヒミツのカイ               	|      	|        	|       	|  Skjult sneglehus?	|
 | Gold Leaf                               	| おうごんのはっぱ           	|      	|        	|       	| Gullblad          	|
 | Map                                     	| ちず                       	|      	|        	| Kart      	|           	|
 | Compass                                 	| コンパス                   	|      	|        	| Kompass      	|           	|
-| Small Key                               	| ちいさなカギ               	|      	|        	|       	|           	|
-| Nightmare key                           	| ボスのかぎ                 	|      	|        	|       	|           	|
+| Small Key                               	| ちいさなカギ               	|      	|        	|       	| Nøkkel          	|
+| Nightmare key                           	| ボスのかぎ                 	|      	|        	|       	| Marerittnøkkel          	|
 | owl statue                              	| フクロウのせきぞう         	|      	|        	| Uglestatue      	|           	|
-| stone beak                              	| せきぞうのくちばし         	|      	|        	|       	|           	|
+| stone beak                              	| せきぞうのくちばし         	|      	|        	|       	| Steinnebb          	|
 | Tail Key                                	| テールのカギ               	|      	|        	| Halenøkkel     	|           	|
 | Slime Key                               	| スライムのかぎ             	|      	|        	| Slimnøkkel      	|           	|
 | Angler Key                              	| アングラーのかぎ           	|      	|        	| Marulknøkkel      	|   Er vi sikre på marulk?	|
-| Face Key                                	| フェイスのかぎ             	|      	|        	|       	|           	|
-| Bird Key                                	| バードのかぎ               	|      	|        	|       	|           	|
+| Face Key                                	| フェイスのかぎ             	|      	|        	|       	| Fjesnøkkel?          	|
+| Bird Key                                	| バードのかぎ               	|      	|        	|       	| Fuglenøkkel?          	|
 | Heart                                   	| ハート                     	|      	|        	| Hjerte      	|           	|
-| Rupee                                   	| ルピー                     	|      	|        	|       	|           	|
-| Piece of Power                          	| ちからのかけら             	|      	|        	|       	|           	|
+| Rupee                                   	| ルピー                     	|      	|        	|       	| Rupi          	|
+| Piece of Power                          	| ちからのかけら             	|      	|        	|       	| kraftbit          	|
 | Guardian Acorn                          	| まもりのきのみ             	|      	|        	|       	|           	|
 | Heart Container                         	| ハートのうつわ             	|      	|        	|       	|           	|
-| Piece of Heart                          	| ハートのかけら             	|      	|        	|       	|           	|
-| Yoshi Doll                              	| ヨッシーのにんぎょう       	|      	|        	|       	|           	|
+| Piece of Heart                          	| ハートのかけら             	|      	|        	| Hjertebit      	|           	|
+| Yoshi Doll                              	| ヨッシーのにんぎょう       	|      	|        	| Yoshi-dukke      	|           	|
 | ribbon                                  	| リボン                     	|      	|        	| Sløyfe      	|           	|
-| Instrument of the Sirens                	| セイレーンのがっき         	|      	|        	|       	|           	|
+| Instrument of the Sirens                	| セイレーンのがっき         	|      	|        	|       	| Sirenenes instrumenter          	|
 | Full Moon Cello                         	| まんげつのバイオリン       	|      	|        	|       	| Fullmåne-cello          	|
-| Conch Horn                              	| まきがいのホルン           	|      	|        	|       	| Konkyliehorn?          	|
-| Sea Lily's Bell                         	| うみゆりのベル             	|      	|        	|       	|           	|
-| Surf Harp                               	| しおさいのハープ           	|      	|        	|       	|           	|
-| Wind Marimba                            	| あらしのマリンバ           	|      	|        	|       	|           	|
-| Coral Triangle                          	| さんごのトライアングル     	|      	|        	|       	|           	|
-| Organ of Evening Calm                   	| ゆうなぎのオルガン         	|      	|        	|       	|           	|
+| Conch Horn                              	| まきがいのホルン           	|      	|        	|       	| Konkyliehorn          	|
+| Sea Lily's Bell                         	| うみゆりのベル             	|      	|        	|       	| Sjøliljas bjelle          	|
+| Surf Harp                               	| しおさいのハープ           	|      	|        	|       	| Skumharpa          	|
+| Wind Marimba                            	| あらしのマリンバ           	|      	|        	|       	| Vind-Marimba          	|
+| Coral Triangle                          	| さんごのトライアングル     	|      	|        	|       	| Koralltriangel          	|
+| Organ of Evening Calm                   	| ゆうなぎのオルガン         	|      	|        	|       	| Kveldsroens orgel          	|
 | Thunder Drum                            	| えんらいのドラム           	|      	|        	|       	| Tordentromme          	|
 | Ballad of the Wind Fish                 	| 「かぜのさかな」のうた     	|      	|        	|       	| Balladen om Vindfisken          	|
-| Manbo's Mambo                           	| マンボウのマンボ           	|      	|        	|       	|           	|
-| Frog's Song of Soul                     	| カエルのソウル             	|      	|        	|       	|           	|
+| Manbo's Mambo                           	| マンボウのマンボ           	|      	|        	|       	| Manbos Mambo          	|
+| Frog's Song of Soul                     	| カエルのソウル             	|      	|        	|       	| Froskens sjelesang          	|
 | THE MOURNING MERMAID                    	| かなしみのにんぎょぞう     	|      	|        	|       	| Den sørgende havfrua          	|
 | Mermaid Statue                          	| にんぎょぞう               	|      	|        	|       	| Havfruestatue          	|
 | Mermaid scale                           	| にんぎょのウロコ           	|      	|        	|       	| Havfrueskjell          	|
-| How To Handle Your Shield Like A Pro!   	| タテのつかいかた           	|      	|        	|       	|           	|
-| Selecting The Item That's Right For You 	| アイテムのセレクトほうほう 	|      	|        	|       	|           	|
+| How To Handle Your Shield Like A Pro!   	| タテのつかいかた           	|      	|        	|       	| Hvordan håndtere skjoldet ditt som en proff!          	|
+| Selecting The Item That's Right For You 	| アイテムのセレクトほうほう 	|      	|        	|       	| Hvordan velge gjenstanden som er rett for deg |
 | Auto Map and Memo Guide Book            	| マップがめんとメモ         	|      	|        	|       	|           	|
-| Secrets of the Whirling Blade           	| ひでん！ かいてんぎり      	|      	|        	|       	|           	|
-| The Properties Of Warp Holes            	| ワープのほうそく           	|      	|        	|       	|           	|
-| Fun With Bombs                          	| バクダンは かつげる        	|      	|        	|       	|           	|
-| Atlas Of Koholint Island                	| コホリントじまのちず       	|      	|        	|       	|           	|
-| Dark Secrets And Mysteries Of Koholint  	| ヒミツのほん？！           	|      	|        	|       	|           	|
+| Secrets of the Whirling Blade           	| ひでん！ かいてんぎり      	|      	|        	|       	| Det snurrende sverdets hemmeligheter          	|
+| The Properties Of Warp Holes            	| ワープのほうそく           	|      	|        	|       	| Varpehullenes egenskaper / Teleportørenes egenskaper         	|
+| Fun With Bombs                          	| バクダンは かつげる        	|      	|        	|       	| Gøy med bomber          	|
+| Atlas Of Koholint Island                	| コホリントじまのちず       	|      	|        	|       	| Atlas over Koholint          	|
+| Dark Secrets And Mysteries Of Koholint  	| ヒミツのほん？！           	|      	|        	|       	| Mørke hemmeligheter og mysterier på Koholint          	|
 | The Travels of NAME                   	| でんせつの NAME！        	|      	|        	|       	| NAVNs reiser          	|
-| Blue Clothes                            	| あおいふく                 	|      	|        	|       	|           	|
-| Red Clothes                             	| あかいふく                 	|      	|        	|       	|           	|
+| Blue Clothes                            	| あおいふく                 	|      	|        	|       	| Blå skjorte / Blå kjortel         	|
+| Red Clothes                             	| あかいふく                 	|      	|        	|       	| Rød skjorte / Rød kjortel          	|
 | wisdom                                  	| ちえ                       	|      	|        	|       	| Visdom          	|
 | courage                                 	| ゆうき                     	|      	|        	|       	| Mot          	|
 | power                                   	| ちから                     	|      	|        	|       	| Kraft          	|

@@ -44,7 +44,7 @@
 | Full Moon Cello                         	| まんげつのバイオリン       	|      	|        	|       	| Fullmåne-cello          	|
 | Conch Horn                              	| まきがいのホルン           	|      	|        	|       	| Konkyliehorn          	|
 | Sea Lily's Bell                         	| うみゆりのベル             	|      	|        	|       	| Sjøliljas bjelle          	|
-| Surf Harp                               	| しおさいのハープ           	|      	|        	|       	| Skumharpa          	|
+| Surf Harp                               	| しおさいのハープ           	|      	|        	|       	| Skumharpen / bølgekamharpen - harpe kan ende med både -a og -en, hva foretrekker dere?       	|
 | Wind Marimba                            	| あらしのマリンバ           	|      	|        	|       	| Vind-Marimba          	|
 | Coral Triangle                          	| さんごのトライアングル     	|      	|        	|       	| Koralltriangel          	|
 | Organ of Evening Calm                   	| ゆうなぎのオルガン         	|      	|        	|       	| Kveldsroens orgel          	|

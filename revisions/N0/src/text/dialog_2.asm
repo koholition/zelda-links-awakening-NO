@@ -912,7 +912,7 @@ Dialog0F5::
     db "Heh heh! Du vil "
     db "aldri klare å   "
     db "overvinne oss!!!"
-    db "La oss slåss!@"
+    db "Stålsett deg!@"
 ;    db "We were born of "
 ;    db "nightmares... To"
 ;    db "take over this  "

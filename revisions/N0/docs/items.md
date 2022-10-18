@@ -5,21 +5,21 @@
 | Sword                                   	| けん                       	|      	|        	| Sverd      	|           	|
 | Deluxe Shovel                           	| いかしたスコップ           	|      	|        	|       	|           	|
 | Bow & Arrow Set                         	| ゆみ や セット             	|      	|        	| pil og bue      	|           	|
-| Roc's Feather                           	| ロックちょう               	|      	|        	|       	|           	|
+| Roc's Feather                           	| ロックちょう               	|      	|        	|       	| Rokks fjær? https://no.wikipedia.org/wiki/Rokk_(fabeldyr)	|
 | Power Bracelet                          	| パワーブレスレット         	|      	|        	|       	|           	|
 | Hook Shot                               	| フックショット             	|      	|        	|       	|           	|
 | Magic Rod                               	| マジックロッド             	|      	|        	|       	| Magisk stav? Tryllestav?	|
 | Pegasus Boots                           	| ペガサスのくつ             	|      	|        	|       	|           	|
 | Magic Powder                            	| まほうのこな               	|      	|        	|       	| Magisk pulver          	|
 | Bomb                                    	| バクダン                   	|      	|        	| Bombe      	|           	|
-| Ocarina                                 	| オカリナ                   	|      	|        	|       	|           	|
+| Ocarina                                 	| オカリナ                   	|      	|        	| Leirgauk |           	|
 | Boomerang                               	| ブーメラン                 	|      	|        	|       	|           	|
 | Magnifying Lens                         	| みとおしレンズ             	|      	|        	| Forstørrelsesglass      	|           	|
 | Sleepy Toadstool                        	| ネボケタケ                 	|      	|        	|       	| Sovesopp?          	|
 | Toadstool                               	| キノコ                     	|      	|        	|       	| Sopp          	|
 | Flippers                                	| アングラーのみずかき       	|      	|        	|      	| Svømmeføtter?          	|
 | Secret Medicine                         	| ヒミツのくすり             	|      	|        	|       	|           	|
-| Secret Seashell                         	| ヒミツのカイ               	|      	|        	|       	|           	|
+| Secret Seashell                         	| ヒミツのカイ               	|      	|        	|       	|  Skjult sneglehus?	|
 | Gold Leaf                               	| おうごんのはっぱ           	|      	|        	|       	| Gullblad          	|
 | Map                                     	| ちず                       	|      	|        	| Kart      	|           	|
 | Compass                                 	| コンパス                   	|      	|        	| Kompass      	|           	|
@@ -29,7 +29,7 @@
 | stone beak                              	| せきぞうのくちばし         	|      	|        	|       	|           	|
 | Tail Key                                	| テールのカギ               	|      	|        	| Halenøkkel     	|           	|
 | Slime Key                               	| スライムのかぎ             	|      	|        	| Slimnøkkel      	|           	|
-| Angler Key                              	| アングラーのかぎ           	|      	|        	| Marulknøkkel      	|           	|
+| Angler Key                              	| アングラーのかぎ           	|      	|        	| Marulknøkkel      	|   Er vi sikre på marulk?	|
 | Face Key                                	| フェイスのかぎ             	|      	|        	|       	|           	|
 | Bird Key                                	| バードのかぎ               	|      	|        	|       	|           	|
 | Heart                                   	| ハート                     	|      	|        	| Hjerte      	|           	|

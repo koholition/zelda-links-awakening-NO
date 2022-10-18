@@ -1,25 +1,41 @@
 Dialog108::
-    db "Hi! It's me, the"
-    db "photographer!   "
-    db "You seem curious"
-    db "about Grandpa   "
-    db "Ulrira.@"
+    db "Hei! Det er meg,"
+    db "fotografen!     "
+    db "Du virker nys-  "
+    db "gjerrig på      "
+    db "Bestefar Ulrik.@"
+;    db "Hi! It's me, the"
+;    db "photographer!   "
+;    db "You seem curious"
+;    db "about Grandpa   "
+;    db "Ulrira.@"
 
 Dialog109::
-    db "I'll call this  "
-    db "'##### Dis-     "
-    db "covers Ulrira's "
-    db "Secret!'@"
+    db "Jeg kaller dette "
+    db "«##### oppdager  "
+    db "Bestefar Ulriks  "
+    db "hemmelighet!»@	 "
+;    db "I'll call this  "
+;    db "'##### Dis-     "
+;    db "covers Ulrira's "
+;    db "Secret!'@"
 
 Dialog10A::
-    db "#####, now run  "
-    db "away before he  "
-    db "finds you.@"
+    db "Stikk av nå      "
+    db "før han finner   "
+    db "deg, #####.@     "
+;    db "#####, now run  "
+;    db "away before he  "
+;    db "finds you.@"
 
 Dialog10B::
-    db "I'll go develop "
-    db "this. Come see  "
-    db "it later, OK?@"
+    db "Jeg skal frem-  "
+    db "kalle bildet nå."
+    db "Kom innom og se "
+    db "det senere, ok?@"
+;    db "I'll go develop "
+;    db "this. Come see  "
+;    db "it later, OK?@"
 
 Dialog10C::
     db "I just LOVE to  "
@@ -702,9 +718,12 @@ Dialog155::
     db "  mountains...@"
 
 Dialog156::
-    db "  ...OCARINA... "
-    db "The music of the"
-    db "Ocarina leads...@"
+    db "  _…LEIRGAUK_… "
+    db "Leirgaukens mu-"
+    db "sikk fører til_…@"
+;    db "  ...OCARINA... "
+;    db "The music of the"
+;    db "Ocarina leads...@"
 
 Dialog157::
     db "    ...EGG....  "

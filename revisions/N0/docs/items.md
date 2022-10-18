@@ -8,7 +8,7 @@
 | Roc's Feather                           	| ロックちょう               	|      	|        	|       	| Rokks fjær? https://no.wikipedia.org/wiki/Rokk_(fabeldyr)	|
 | Power Bracelet                          	| パワーブレスレット         	|      	|        	|       	| Kraftarmbånd          	|
 | Hook Shot                               	| フックショット             	|      	|        	|       	| Piggkaster? Krokkaster? Krokskudd? Hook shot i dette spillet ligner mer på en slags pigg/stjerne enn en krok?         	|
-| Magic Rod                               	| マジックロッド             	|      	|        	|       	| Magisk stav? Tryllestav?	|
+| Magic Rod                               	| マジックロッド             	|      	|        	|       	| Magisk stav? Tryllestav? Ildstav? Den kan jo bare skyte ild, ikke trylle på noe annet vis	|
 | Pegasus Boots                           	| ペガサスのくつ             	|      	|        	|       	| Pegasusstøvlene          	|
 | Magic Powder                            	| まほうのこな               	|      	|        	|       	| Magisk pulver          	|
 | Bomb                                    	| バクダン                   	|      	|        	| Bombe      	|           	|

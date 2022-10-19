@@ -1,6 +1,6 @@
 | Engelsk                       | Japansk                          | Norsk               | Kommentar |
 |-------------------------------|----------------------------------|---------------------|-----------|
-| Angler's Tunnel               | アングラーのたきつぼ             | Marulktunnelen      |Eller Breiflabbtunellen? breiflabb har også mange andre kallenavn: havtaske, sjødævel, storkjeftkonge, ulke, breikjeft, fessompa, fessømpæ, fisksømpe, fissump, furusk, kontepella, mataskurk, pelekunter, pillekunter, ulk, konterusk og konteknor.        Jeg syns Ulketunnellen er best. Skal vi skrive det «tunnell» eller «tunell»? mvh julius|
+| Angler's Tunnel               | アングラーのたきつぼ             | Marulktunnelen      |Eller Breiflabbtunellen? breiflabb har også mange andre kallenavn: havtaske, sjødævel, storkjeftkonge, ulke, breikjeft, fessompa, fessømpæ, fisksømpe, fissump, furusk, kontepella, mataskurk, pelekunter, pillekunter, ulk, konterusk og konteknor.        Jeg syns Ulketunnellen er best. Skal vi skrive det «tunnel» eller «tunell»? jeg foreslår det siste mvh julius|
 | Animal Village                | どうぶつむら                     | Dyrelandsbyen       ||
 | Bottle Grotto                 | つぼのどうくつ                   | Flaskegrotta        ||
 | Catfish's Maw                 | ナマズのおおぐち                 | Mallegapet          ||

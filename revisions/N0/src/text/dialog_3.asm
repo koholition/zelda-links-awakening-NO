@@ -38,18 +38,27 @@ Dialog10B::
 ;    db "it later, OK?@"
 
 Dialog10C::
-    db "I just LOVE to  "
-    db "take pictures.  "
-    db "Will you let me "
-    db "take your       "
-    db "picture?        "
-    db "    YES  NO<ask>"
+    db "Jeg ELSKER å ta "
+    db "bilder. Får jeg "
+    db "lov til å ta et "
+    db "bilde av deg?   "
+    db "    Ja  Nei<ask>"
+;    db "I just LOVE to  "
+;    db "take pictures.  "
+;    db "Will you let me "
+;    db "take your       "
+;    db "picture?        "
+;    db "    YES  NO<ask>"
 
 Dialog10D::
-    db "Go to the back  "
-    db "of the room and "
-    db "stand in front  "
-    db "of the screen.@"
+    db "Gå bakerst i    "
+    db "rommet og still "
+    db "deg opp foran   "
+    db "bakteppet.@     "
+;    db "Go to the back  "
+;    db "of the room and "
+;    db "stand in front  "
+;    db "of the screen.@"
 
 Dialog10E::
     db "Hey! I haven't  "

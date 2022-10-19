@@ -29,7 +29,7 @@
 | stone beak                              	| せきぞうのくちばし         	|      	|        	|       	| Steinnebb          	|
 | Tail Key                                	| テールのカギ               	|      	|        	| Halenøkkel     	|           	|
 | Slime Key                               	| スライムのかぎ             	|      	|        	| Slimnøkkel      	|           	|
-| Angler Key                              	| アングラーのかぎ           	|      	|        	| Marulknøkkel      	|   Er vi sikre på marulk?	|
+| Angler Key                              	| アングラーのかぎ           	|      	|        	| Ulkeknøkkel      	|   Er vi sikre på marulk?	|
 | Face Key                                	| フェイスのかぎ             	|      	|        	|       	| Fjesnøkkel?          	|
 | Bird Key                                	| バードのかぎ               	|      	|        	|       	| Fuglenøkkel?          	|
 | Heart                                   	| ハート                     	|      	|        	| Hjerte      	|           	|

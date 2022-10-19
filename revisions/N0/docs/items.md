@@ -68,4 +68,4 @@
 | Red Clothes                             	| あかいふく                 	|      	|        	|       	| Rød skjorte / Rød kjortel          	|
 | wisdom                                  	| ちえ                       	|      	|        	|       	| Visdom          	|
 | courage                                 	| ゆうき                     	|      	|        	|       	| Mot          	|
-| power                                   	| ちから                     	|      	|        	|       	| Kraft          	|
+| power                                   	| ちから                     	|      	|        	|       	| Kraft. Eller Makt?         	|

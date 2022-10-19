@@ -7,7 +7,7 @@
 | Bow & Arrow Set                         	| ゆみ や セット             	|      	|        	| pil og bue      	|           	|
 | Roc's Feather                           	| ロックちょう               	|      	|        	|       	| Rokks fjær? https://no.wikipedia.org/wiki/Rokk_(fabeldyr)	|
 | Power Bracelet                          	| パワーブレスレット         	|      	|        	|       	| Kraftarmbånd          	|
-| Hook Shot                               	| フックショット             	|      	|        	|       	| Piggkaster? Krokkaster? Krokskudd? Hook shot i dette spillet ligner mer på en slags pigg/stjerne enn en krok?         	|
+| Hook Shot                               	| フックショット             	|  Enterhaken / Fanghaken	| Grappin (Grappling hook)	|       	| Piggkaster? Krokkaster? Krokskudd? Hook shot i dette spillet ligner mer på en slags pigg/stjerne enn en krok? Jeg stemmer på Gripekrok        	|
 | Magic Rod                               	| マジックロッド             	|      	|        	|       	| Magisk stav? Tryllestav? Ildstav? Den kan jo bare skyte ild, ikke trylle på noe annet vis	|
 | Pegasus Boots                           	| ペガサスのくつ             	|      	|        	|       	| Pegasusstøvler? Vingestøvler?          	|
 | Magic Powder                            	| まほうのこな               	|      	|        	|       	| Magisk pulver          	|

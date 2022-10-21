@@ -150,7 +150,7 @@ Dialog0B9::
     db "tapte! Men du   "
     db "vil også gå tapt"
     db "hvis Vindfisken "
-    db "våkner! Som     "
+    db "våkner! Som meg "
     db "meg_… er_… du_… "
     db "i_… drømmen_…   "
     db "hans_…@"

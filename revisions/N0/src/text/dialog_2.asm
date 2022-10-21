@@ -908,7 +908,7 @@ Dialog0F5::
     db "måtte komme her "
     db "og forstyrre    "
     db "planene våre!   "
-    db "Heh heh! Du vil "
+    db "Hehehe! Du vil  "
     db "aldri klare å   "
     db "overvinne oss!!!"
     db "Stålsett deg!@"

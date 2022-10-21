@@ -517,7 +517,7 @@ Dialog0D0::
     db "     JEG ER     "
     db "   VINDFISKEN_… "
     db " LENGE HAR JEG  "
-    db "     SOVET_…    "
+    db "    SLUMRET_…   "
     db " I DRØMMENE MINE"
     db " VISTES ET EGG  "
     db " OMRINGET AV EN "
@@ -738,7 +738,7 @@ Dialog0E3::
 Dialog0E4::
     db "Greit, jeg skal "
     db "la deg ha flere "
-    db "piler! Heh Heh! "
+    db "piler! Hehehe!  "
     db "Er du klar?!    "
     db "    Ja  N-Nei<ask>"
 ;    db "Fine, I'll let  "

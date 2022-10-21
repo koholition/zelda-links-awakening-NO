@@ -420,7 +420,7 @@ Dialog0CB::
     db "stund siden våre"
     db "veier krysset   "
     db "krysset hver-   "
-    db "må dykke ned i  "
+    db "Du må dykke ned "
     db "vannet i Martas "
     db "bukt for å komme"
     db "til Mallegapet_…"

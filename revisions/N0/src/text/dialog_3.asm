@@ -76,7 +76,7 @@ Dialog10E::
 Dialog10F::
     db "Bildet skal hete"
     db "«Her står en    "
-    db "modig mann.»    "
+    db "modig mann».    "
     db "Smiiil!@"
 ;    db "I'll call this  "
 ;    db "'Here Stands A  "

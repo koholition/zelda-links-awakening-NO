@@ -522,7 +522,7 @@ Dialog0D0::
     db " VISTES ET EGG  "
     db " OMRINGET AV EN "
     db " ØY, MED FOLK,  "
-    db "  DYR, EN HEL   "
+    db "  DYR; EN HEL   "
     db "     VERDEN!    "
     db "... ... ... ... "
     db " MEN, SANNELIG, "

@@ -418,7 +418,7 @@ Dialog0CA::
 Dialog0CB::
     db "Uhu! Det er en  "
     db "stund siden våre"
-    db "veier har       "
+    db "veier krysset   "
     db "krysset hver-   "
     db "andre, gutt. Du "
     db "må dykke ned i  "

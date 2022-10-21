@@ -232,7 +232,7 @@ Dialog0C0::
 Dialog0C1::
     db "Uhuu! Ta med deg"
     db "den nøkkelen til"
-    db "Halehula. Hent  "
+    db "Halehula. Finn  "
     db "instrumentet som"
     db "er gjemt der! Gå"
     db "nå! Vindfisken  "

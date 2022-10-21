@@ -3,11 +3,11 @@
 | Shield                                  	| タテ                       	|      	|        	| Skjold      	|           	|
 | Mirror Shield                           	| かがみのたて               	|      	|        	| Speilskjold      	|           	|
 | Sword                                   	| けん                       	|      	|        	| Sverd      	|           	|
-| Deluxe Shovel                           	| いかしたスコップ           	|      	|        	|       	| Luksusspade          	|
+| Deluxe Shovel                           	| いかしたスコップ           	|      	|        	|       	| Luksusspade - hvorfor heter den det i LA egentlig? er jo bare en vanlig spade?? skal vi bare kalle den Spade, og hvis ikke, hvorfor ikke? mvh tobias          	|
 | Bow & Arrow Set                         	| ゆみ や セット             	|      	|        	| pil og bue      	|           	|
 | Roc's Feather                           	| ロックちょう               	|      	|        	|       	| Rokks fjær? https://no.wikipedia.org/wiki/Rokk_(fabeldyr)	|
-| Power Bracelet                          	| パワーブレスレット         	|      	|        	|       	| Kraftarmbånd          	|
-| Hook Shot                               	| フックショット             	|  Enterhaken / Fanghaken	| Grappin (Grappling hook)	|       	| Piggkaster? Krokkaster? Krokskudd? Hook shot i dette spillet ligner mer på en slags pigg/stjerne enn en krok? Jeg stemmer på Gripekrok        	|
+| Power Bracelet                          	| パワーブレスレット         	|      	|        	|       	| Kraftarmbånd - eller styrkearmbånd mvh tobias         	|
+| Hook Shot                               	| フックショット             	|  Enterhaken / Fanghaken	| Grappin (Grappling hook)	|       	| Piggkaster? Krokkaster? Krokskudd? Hook shot i dette spillet ligner mer på en slags pigg/stjerne enn en krok? Jeg stemmer på Gripekrok - gripekrok eller gripeklo mvh tobias       	|
 | Magic Rod                               	| マジックロッド             	|      	|        	|       	| Magisk stav? Tryllestav? Ildstav? Den kan jo bare skyte ild, ikke trylle på noe annet vis	|
 | Pegasus Boots                           	| ペガサスのくつ             	|      	|        	|       	| Pegasusstøvler? Vingestøvler?          	|
 | Magic Powder                            	| まほうのこな               	|      	|        	|       	| Magisk pulver          	|
@@ -36,7 +36,7 @@
 | Rupee                                   	| ルピー                     	|      	|        	|       	| Rupi          	|
 | Piece of Power                          	| ちからのかけら             	|      	|        	|       	| kraftbit          	|
 | Guardian Acorn                          	| まもりのきのみ             	|      	|        	|       	|           	|
-| Heart Container                         	| ハートのうつわ             	|      	|        	|       	|           	|
+| Heart Container                         	| ハートのうつわ             	|      	|        	| Hjertebeholder      	|           	|
 | Piece of Heart                          	| ハートのかけら             	|      	|        	| Hjertebit      	|           	|
 | Yoshi Doll                              	| ヨッシーのにんぎょう       	|      	|        	| Yoshi-dukke      	|           	|
 | ribbon                                  	| リボン                     	|      	|        	| Sløyfe      	|           	|
@@ -51,8 +51,8 @@
 | Thunder Drum                            	| えんらいのドラム           	|      	|        	|       	| Tordentromme          	|
 | Ballad of the Wind Fish                 	| 「かぜのさかな」のうた     	|      	|        	|       	| Balladen om Vindfisken          	|
 | Manbo's Mambo                           	| マンボウのマンボ           	|      	|        	|       	| Manbos Mambo          	|
-| Frog's Song of Soul                     	| カエルのソウル             	|      	|        	|       	| Froskens sjelesang          	|
-| THE MOURNING MERMAID                    	| かなしみのにんぎょぞう     	|      	|        	|       	| Den sørgende havfrua          	|
+| Frog's Song of Soul                     	| カエルのソウル             	|      	|        	|       	| Froskens sjelesang - mister ordspillet med musikksjangeren soul da mvh tobias         	|
+| THE MOURNING MERMAID                    	| かなしみのにんぎょぞう     	|      	|        	|       	| Den sørgende havfrue          	|
 | Mermaid Statue                          	| にんぎょぞう               	|      	|        	|       	| Havfruestatue          	|
 | Mermaid scale                           	| にんぎょのウロコ           	|      	|        	|       	| Havfrueskjell          	|
 | How To Handle Your Shield Like A Pro!   	| タテのつかいかた           	|      	|        	|       	| Hvordan håndtere skjoldet ditt som en proff!          	|

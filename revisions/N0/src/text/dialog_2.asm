@@ -151,7 +151,7 @@ Dialog0B9::
     db "vil også gå tapt"
     db "hvis Vindfisken "
     db "våkner! Som meg "
-    db "meg_… er_… du_… "
+    db "er_… du_… i…_   "
     db "i_… drømmen_…   "
     db "hans_…@"
 ;    db "My energy...    "

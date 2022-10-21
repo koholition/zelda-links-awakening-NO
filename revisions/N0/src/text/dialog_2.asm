@@ -152,7 +152,7 @@ Dialog0B9::
     db "hvis Vindfisken "
     db "våkner! Som meg "
     db "er_… du_… i…_   "
-    db "i_… drømmen_…   "
+    db "drømmen_… hans…_@"
     db "hans_…@"
 ;    db "My energy...    "
 ;    db "gone...I...lost!"

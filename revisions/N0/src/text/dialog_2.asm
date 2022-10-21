@@ -755,7 +755,7 @@ Dialog0E5::
     db "du! Se på alt   "
     db "skrapet du er   "
     db "nødt til å bære "
-    db "rundt på! Hah!  "
+    db "rundt på! Haha! "
     db "Ha det fint!    "
     db "Vi sees!@"
 ;    db "Heh Heh Heh!    "

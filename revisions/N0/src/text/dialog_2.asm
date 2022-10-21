@@ -153,7 +153,6 @@ Dialog0B9::
     db "våkner! Som meg "
     db "er_… du_… i…_   "
     db "drømmen_… hans…_@"
-    db "hans_…@"
 ;    db "My energy...    "
 ;    db "gone...I...lost!"
 ;    db "But you will be "

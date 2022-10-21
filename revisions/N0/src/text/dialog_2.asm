@@ -421,7 +421,7 @@ Dialog0CB::
     db "veier krysset   "
     db "krysset hver-   "
     db "Du må dykke ned "
-    db "vannet i Martas "
+    db "i Martas bukt   "
     db "bukt for å komme"
     db "til Mallegapet_…"
     db "Jo nærmere du   "

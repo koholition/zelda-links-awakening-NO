@@ -896,7 +896,7 @@ Dialog0F5::
     db "ta over denne   "
     db "verdenen tvang  "
     db "vi Vindfisken   "
-    db "til å sove      "
+    db "til å sove til  "
     db "uendelig! Hvis  "
     db "Vindfisken aldri"
     db "våkner, vil     "

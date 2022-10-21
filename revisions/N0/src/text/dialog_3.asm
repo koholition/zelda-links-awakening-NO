@@ -14,7 +14,7 @@ Dialog109::
     db "Jeg kaller dette "
     db "«##### oppdager  "
     db "Bestefar Ulriks  "
-    db "hemmelighet!»@	 "
+    db "hemmelighet»!@"
 ;    db "I'll call this  "
 ;    db "'##### Dis-     "
 ;    db "covers Ulrira's "

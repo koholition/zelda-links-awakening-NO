@@ -163,7 +163,7 @@ Dialog0B9::
 ;    db "his...dream...@"
 
 Dialog0BA::
-    db "PYTT! Jeg kommer"
+    db "PØH! Jeg kommer "
     db "ikke til å holde"
     db "tilbake! Jeg    "
     db "skal få deg til "

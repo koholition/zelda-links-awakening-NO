@@ -401,7 +401,7 @@ Dialog0CA::
     db "Uhu! Uhu! Veien "
     db "din er ikke     "
     db "enkel, men du er"
-    db "nesten framme.  "
+    db "nesten fremme.  "
     db "Gå østover.     "
     db "Vindfisken      "
     db "begynner å bli  "

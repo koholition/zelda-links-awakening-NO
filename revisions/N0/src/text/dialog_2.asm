@@ -423,7 +423,7 @@ Dialog0CB::
     db "Du må dykke ned "
     db "i Martas bukt   "
     db "for å komme til "
-    db "til Mallegapet_…"
+    db "Mallegapet_…    "
     db "Jo nærmere du   "
     db "kommer Vind-    "
     db "fisken, jo mer  "

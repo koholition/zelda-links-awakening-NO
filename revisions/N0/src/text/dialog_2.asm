@@ -633,7 +633,7 @@ Dialog0D9::
 
 Dialog0DA::
     db "Din plage! Du   "
-    db "kommer bare i   "
+    db "er bare i veien!@"
     db "veien!@"
 ;    db "Annoyance!  You "
 ;    db "are only getting"

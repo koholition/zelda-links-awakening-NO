@@ -727,7 +727,7 @@ Dialog0E3::
     db "Alt i orden, jeg"
     db "skal la deg bære"
     db "flere bomber! He"
-    db "He! Er du klar?!"
+    db "he! Er du klar?!"
     db "    Ja  N-Nei<ask>"
 ;    db "Okay, I'll let  "
 ;    db "you carry more  "

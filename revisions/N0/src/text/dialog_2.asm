@@ -748,7 +748,7 @@ Dialog0E4::
 ;    db "    Yes  N-No<ask>"
 
 Dialog0E5::
-    db "Heh Heh Heh!    "
+    db "He he he he!    "
     db "Det fortjener   "
     db "du! Se på alt   "
     db "skrapet du er   "

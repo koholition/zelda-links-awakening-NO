@@ -697,7 +697,7 @@ Dialog0E1::
     db "Hei, guttunge!  "
     db "Du vekket meg   "
     db "fra en god lur! "
-    db "_… Tusen takk!  "
+    db "_… Takk for det!"
     db "Men nå skal jeg "
     db "få min hevn! Er "
     db "du klar?!       "

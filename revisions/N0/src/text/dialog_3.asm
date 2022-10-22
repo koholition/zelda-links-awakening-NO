@@ -742,7 +742,7 @@ Dialog155::
     db "  mountains...@"
 
 Dialog156::
-    db "  _…LEIRGAUK_… "
+    db " _… LEIRGAUK_…  "
     db "Leirgaukens mu-"
     db "sikk fører til_…@"
 ;    db "  ...OCARINA... "

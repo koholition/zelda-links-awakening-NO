@@ -11,12 +11,12 @@
 | Grandpa Ulrira   	| うるりらじいさん  (Old Man Ulrira / Grandpa Ururira)	|      	|  Pépé le Ramollo (Grandpa the Sluggish)	|  Bestefar Ulrik	| Ulrik?                                                                                                                          	|
 | Madam MeowMeow   	| マダムニャンニャン     	|      	|        	|            	| Madam MjauMjau?                                                                                                                          	|
 | Papahl           	| パパール               	|      	|        	|            	| Papal uten H?                                  	|
-| Sale             	| セール                 	|      	|        	|            	| Må huske at dette er broren til Schule                          	|
+| Sale             	| セール                 	|      	|        	|            	| Må huske at dette er broren til Schule. Han heter forskjellige ting på hvert språk (Erwin, Saldo, Alligobanana). Zalo? -tobias                      	|
 | Crazy Tracy      	| きまぐれトレーシー     	|      	|        	| Gale Thale 	|                                                                                                                           	|
 | Syrup            	| シロップ               	|      	|        	|            	| Dukker dette navnet opp i spillet? |
 | Martha           	| マーサ                 	|      	|        	|            	| Marte?                                                                                                                          	|
 | Christine        	| クリスチーヌ           	|      	|        	|            	| Kristine?                                                                                                                          	|
-| Schule Donavitch 	| ドナピッチ ザンス      	|      	|        	|            	|                                                                                                                           	|
+| Schule Donavitch 	| ドナピッチ ザンス      	|      	|        	|            	| Heter også forskjellige ting på forskjellige språk (Alligodali, Kroko Dilius, Sven Donavitch). Snakker med tysk aksent. Foreslår Schnappi Donavitch. -tobias                                                                                                                          	|
 | Kiki             	| サルキッキ             	|      	|        	|            	| Julius hehe     	|
 | Mamu             	| マムー                 	|      	|        	|            	| Mamu er det japanske navnet til Wart. Skal vi kalle ham Mamu eller Wart? Vorte???	|
 | Manbo            	| マンボ                 	|      	|        	|       	| Manbo er det japanske ordet for månefisk. På japansk heter han visstnok Manbo Tamegorou? Tamegorou er et navn https://japanese-names.info/first_name/tamegorou/  	|

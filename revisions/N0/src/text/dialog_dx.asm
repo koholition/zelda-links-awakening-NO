@@ -353,21 +353,30 @@ Dialog273::
     db "Grrrr! Grrrr!!@"
 
 Dialog274::
-    db "Much closer! OK,"
-    db "I'm ready.      "
-    db "Smile!@"
+    db "Mye nærmere! Ok,"
+    db "Jeg er klar.    "
+    db "Smil!@"
+;    db "Much closer! OK,"
+;    db "I'm ready.      "
+;    db "Smile!@"
 
 Dialog275::
     db "Grrrr! Grrrr!!  "
     db "GRRRR!@"
 
 Dialog276::
-    db "Ha ha ha! Do it!"
-    db "Do it!  Do it   "
-    db "moooore! ... ..."
-    db "Hunh?  No, it's "
-    db "nothing... I    "
-    db "didn't mean it.@"
+    db "Haha! Gjør det! "
+    db "Gjør det! Gjør  "
+    db "det meeer! _… _…"
+    db "Hæ? Nei, det er "
+    db "ingen ting_… Jeg"
+    db "mente det ikke.@"
+;    db "Ha ha ha! Do it!"
+;    db "Do it!  Do it   "
+;    db "moooore! ... ..."
+;    db "Hunh?  No, it's "
+;    db "nothing... I    "
+;    db "didn't mean it.@"
 
 Dialog277::
     db "Not very good..."
@@ -377,25 +386,37 @@ Dialog277::
     db "ing things...@"
 
 Dialog278::
-    db "#####, do you   "
-    db "always look in  "
-    db "other people's  "
-    db "drawers?@"
+    db "Pleier du å     "
+    db "snoke i andre   "
+    db "folks skuffer,  "
+    db "#####?@"
+;    db "#####, do you   "
+;    db "always look in  "
+;    db "other people's  "
+;    db "drawers?@"
 
 Dialog279::
-    db "Great!  Dig it! "
-    db "Dig it!  Dig to "
-    db "the center of   "
-    db "the earth!!@"
+    db "Bra! Grav!      "
+    db "Grav! Grav til  "
+    db "jordas indre!!@"
+;    db "Great!  Dig it! "
+;    db "Dig it!  Dig to "
+;    db "the center of   "
+;    db "the earth!!@"
 
 Dialog27A::
-    db "Whew!  What a   "
-    db "surprise!@"
+    db "Puh! For en    "
+    db "overraskelse!@"
+;    db "Whew!  What a   "
+;    db "surprise!@"
 
 Dialog27B::
-    db "Ohh!  I'm sorry!"
-    db "Are you okay?!  "
-    db "#####?@"
+    db "Ååh! Unnskyld!  "
+    db "Går det bra med "
+    db "deg?! #####?@"
+;    db "Ohh!  I'm sorry!"
+;    db "Are you okay?!  "
+;    db "#####?@"
 
 Dialog27C::
     db "Hey Mon!@"
@@ -416,9 +437,12 @@ Dialog27F::
     db "as possible!@"
 
 Dialog280::
-    db "Turn aside the  "
-    db "spined ones with"
-    db "a shield...@"
+    db "De piggete kan  "
+    db "snus ved hjelp  "
+    db "av et skjold_…@"
+;    db "Turn aside the  "
+;    db "spined ones with"
+;    db "a shield...@"
 
 Dialog281::
     db "First, defeat   "
@@ -427,42 +451,70 @@ Dialog281::
     db "Last, Stalfos...@@"
 
 Dialog282::
-    db "Far away...     "
-    db "Do not fear,    "
-    db "dash and fly!@"
+    db "Langt unna_… Vær"
+    db "ikke redd, løp  "
+    db "og fly!@"
+;    db "Far away...     "
+;    db "Do not fear,    "
+;    db "dash and fly!@"
+; løp er kanskje ikke like bra som dash? 
 
 Dialog283::
-    db "The glint of the"
-    db "tile will be    "
-    db "your guide...@"
+    db "Den skinnende   "
+    db "flisa vil vise  "
+    db "vei_…@"
+;    db "The glint of the"
+;    db "tile will be    "
+;    db "your guide...@"
 
 Dialog284::
-    db "Dive under where"
-    db "torchlight beams"
-    db "do cross...@"
+    db "Dykk under der  "
+    db "faklenes lys    "
+    db "krysser_…@"
+;    db "Dive under where"
+;    db "torchlight beams"
+;    db "do cross...@"
 
 Dialog285::
     db "Enter the space "
     db "where the eyes  "
     db "have walls...@"
+;    db "Gå til stedet   "
+;    db "der øynene har  "
+;    db "vegger_…@"
 
 Dialog286::
-    db "The riddle is   "
-    db "solved when the "
-    db "pillars fall!@"
+    db "Gåten er løst   "
+    db "når pillarene   "
+    db "faller!@"
+;    db "The riddle is   "
+;    db "solved when the "
+;    db "pillars fall!@"
+; dette er ordrett det Tobias oversatt dette til som barn, så den MÅ få stå som den er. 
+; Jeg husker det godt fordi jeg syntes det var veldig mystisk, og kjente ikke til ordet «pillar» før dette. 
 
 Dialog287::
-    db "Fill all the    "
-    db "holes with the  "
-    db "rock that rolls,"
-    db "this (<dpad>) is the "
-    db "key!@"
+    db "Fyll alle hul-  "
+    db "lene med steinen"
+    db "som ruller,     "
+    db "dette (<dpad>) er    "
+    db "nøkkelen!@"
+;    db "Fill all the    "
+;    db "holes with the  "
+;    db "rock that rolls,"
+;    db "this (<dpad>) is the "
+;    db "key!@"
 
 Dialog288::
-    db "If there is a   "
-    db "door that you   "
-    db "can't open, move"
-    db "a stone block.@"
+    db "Hvis det er en  "
+    db "dør du ikke får "
+    db "åpna, flytt på  "
+    db "en steinblokk.@"
+;    db "If there is a   "
+;    db "door that you   "
+;    db "can't open, move"
+;    db "a stone block.@"
+; for muntlig kanskje? 
 
 Dialog289::
     db "Make every block"
@@ -471,44 +523,73 @@ Dialog289::
     db "open.@"
 
 Dialog28A::
-    db "Part of the     "
-    db "floor is raised."
-    db "Tap the blue    "
-    db "crystal.@"
+    db "Deler av gulvet "
+    db "er opphøyd. Slå "
+    db "på den blå      "
+    db "krystallen.@"
+;    db "Part of the     "
+;    db "floor is raised."
+;    db "Tap the blue    "
+;    db "crystal.@"
 
 Dialog28B::
-    db "To defeat the   "
-    db "black monster   "
-    db "with the hard   "
-    db "shell, feed him "
-    db "something ex-   "
-    db "plosive.@"
+    db "For å bekjempe  "
+    db "det svarte mons-"
+    db "teret med hardt "
+    db "skall, gi ham   "
+    db "noe eksplosivt  "
+    db "å spise.@"
+;    db "To defeat the   "
+;    db "black monster   "
+;    db "with the hard   "
+;    db "shell, feed him "
+;    db "something ex-   "
+;    db "plosive.@"
 
 Dialog28C::
-    db "Poke suspicious "
-    db "parts of the    "
-    db "wall with your  "
-    db "sword and listen"
-    db "to the sounds it"
-    db "makes.@"
+    db "Pirk med sverdet "
+    db "på mistenkelige  "
+    db "deler av veggen  "
+    db "og legg merke til"
+    db "lyden den lager.@"
+;    db "Poke suspicious "
+;    db "parts of the    "
+;    db "wall with your  "
+;    db "sword and listen"
+;    db "to the sounds it"
+;    db "makes.@"
 
 Dialog28D::
-    db "If you can't    "
-    db "destroy a       "
-    db "skeleton with   "
-    db "your sword, try "
-    db "using a bomb.@"
+    db "Hvis du ikke    "
+    db "klarer å be-    "
+    db "kjempe et skje- "
+    db "lett med sverdet"
+    db "ditt, prøv å    "
+    db "bruke en bombe.@"
+;    db "If you can't    "
+;    db "destroy a       "
+;    db "skeleton with   "
+;    db "your sword, try "
+;    db "using a bomb.@"
 
 Dialog28E::
-    db "To open a       "
-    db "treasure chest, "
-    db "use the pots    "
-    db "around it.@"
+    db "Bruk krukkene   "
+    db "rundt for å åpne"
+    db "en skattkiste.@"
+;    db "To open a       "
+;    db "treasure chest, "
+;    db "use the pots    "
+;    db "around it.@"
+; litt usikker på denne
 
 Dialog28F::
-    db "Hop on top of   "
-    db "the crystals to "
-    db "move forward.@"
+    db "Hopp på toppen  "
+    db "av krystallene  "
+    db "for å fortsette.@"
+;    db "Hop on top of   "
+;    db "the crystals to "
+;    db "move forward.@"
+; litt usikker på denne også
 
 Dialog290::
     db "If you can't go "
@@ -531,10 +612,13 @@ Dialog292::
     db "a higher place.@"
 
 Dialog293::
-    db "If the statue   "
-    db "looks strange,  "
-    db "shoot it with   "
-    db "the bow.@"
+    db "Hvis statuen ser"
+    db "rar ut, skyt den"
+    db "med buen."
+;    db "If the statue   "
+;    db "looks strange,  "
+;    db "shoot it with   "
+;    db "the bow.@"
 
 Dialog294::
     db "Let's take a    "

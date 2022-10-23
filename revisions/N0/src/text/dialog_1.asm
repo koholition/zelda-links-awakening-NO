@@ -990,7 +990,7 @@ Dialog095::
 
 Dialog096::
     db "Du fikk         "
-    db "okarinaen! Du   "
+    db "leirgauken! Du  "
     db "burde lære deg å"
     db "spille på den!@"
 ;    db "You've got the  "

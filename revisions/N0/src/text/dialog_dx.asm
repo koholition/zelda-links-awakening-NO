@@ -203,7 +203,7 @@ Dialog262::
     db "som er rød, og  "
     db "hvem som er blå,"
     db "skal du få komme"
-    db "Inn.            "
+    db "inn.            "
     db "Farvel.@"
 ;    db "I am sorry, but "
 ;    db "this is the     "
@@ -675,7 +675,7 @@ Dialog292::
 Dialog293::
     db "Hvis statuen ser"
     db "rar ut, skyt den"
-    db "med buen."
+    db "med pil og bue!@"
 ;    db "If the statue   "
 ;    db "looks strange,  "
 ;    db "shoot it with   "

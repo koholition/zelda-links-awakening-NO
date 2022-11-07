@@ -378,12 +378,18 @@ Dialog26F::
 ;    db "danger.@"
 
 Dialog270::
-    db "Hey, that looks "
-    db "great! I'll call"
-    db "it '##### Plays "
-    db "With BowWow!'   "
-    db "Now get closer  "
-    db "to BowWow!@"
+    db "Hei, det der ser"
+    db "veldig bra ut!  "
+    db "Jeg kaller det  "
+    db "«##### leker med "
+    db "VovVoV»! Kom deg "
+    db "nærmere VovVov!@"
+;    db "Hey, that looks "
+;    db "great! I'll call"
+;    db "it '##### Plays "
+;    db "With BowWow!'   "
+;    db "Now get closer  "
+;    db "to BowWow!@"
 
 Dialog271::
     db "Grrrr!@"

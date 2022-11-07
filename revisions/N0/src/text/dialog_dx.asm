@@ -525,12 +525,12 @@ Dialog284::
 ;    db "do cross...@"
 
 Dialog285::
-    db "Enter the space "
-    db "where the eyes  "
-    db "have walls...@"
-;    db "Gå til stedet   "
-;    db "der øynene har  "
-;    db "vegger_…@"
+    db "Gå til stedet   "
+    db "der øynene har  "
+    db "vegger_…@"
+;    db "Enter the space "
+;    db "where the eyes  "
+;    db "have walls...@"
 
 Dialog286::
     db "Gåten er løst   "

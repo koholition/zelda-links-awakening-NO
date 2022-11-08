@@ -665,7 +665,7 @@ Dialog0CF::
     db "#####, for å    "
     db "redde øya_… Jeg "
     db "har alltid stolt"
-    db "på din egne til "
+    db "på din evne til "
     db "å drive tilbake "
     db "marerittene.    "
     db "Tusen takk,     "

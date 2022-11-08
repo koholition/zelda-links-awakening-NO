@@ -497,14 +497,21 @@ Dialog1CA::
     db "bananas! YUM...@"
 
 Dialog1CB::
-    db "You gave him <dogfood>  "
-    db "and got bananas "
-    db "<bananas> in return!    "
-    db "Good deal!@"
+    db "Du ga ham <dogfood> og  "
+    db "fikk bananer <bananas> i"
+    db "gjengjeld! Smil,"
+    db "du har gjort en "
+    db "god deal!@"
+;   db "You gave him <dogfood>  "
+;   db "and got bananas "
+;   db "<bananas> in return!    "
+;   db "Good deal!@"
 
 Dialog1CC::
-    db "Thank you again!"
-    db "That was yummy!@"
+    db "Takk igjen! Det "
+    db "var digg!@"
+;   db "Thank you again!"
+;   db "That was yummy!@"
 
 Dialog1CD::
     db "Hey friend! Have"

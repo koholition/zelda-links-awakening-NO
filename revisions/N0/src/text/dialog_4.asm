@@ -13,9 +13,9 @@ Dialog190::
 
 Dialog191::
     db "Du må være en   "
-    db "leiemorder fra  "
-    db "Madam MjauMjau  "
-    db "for å redde den "
+    db "leiemorder sendt"
+    db "av Madam Mjau-  "
+    db "Mjau for å redde"
     db "kjøteren! Du kom"
     db "hit for å ta    "
     db "meg, men det er "

@@ -743,8 +743,8 @@ Dialog155::
 
 Dialog156::
     db " _… LEIRGAUK_…  "
-    db "Leirgaukens    "
-    db "musikk fører_…@"
+    db "Leirgaukens     "
+    db "musikk fører _…@"
 ;    db "  ...OCARINA... "
 ;    db "The music of the"
 ;    db "Ocarina leads...@"

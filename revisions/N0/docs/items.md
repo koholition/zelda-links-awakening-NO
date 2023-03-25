@@ -3,39 +3,39 @@
 | Shield                                  	| タテ                       	|      	|        	| Skjold      	|           	|
 | Mirror Shield                           	| かがみのたて               	|      	|        	| Speilskjold      	|           	|
 | Sword                                   	| けん                       	|      	|        	| Sverd      	|           	|
-| Deluxe Shovel                           	| いかしたスコップ           	|      	|        	|       	| Luksusspade - hvorfor heter den det i LA egentlig? er jo bare en vanlig spade?? skal vi bare kalle den Spade, og hvis ikke, hvorfor ikke? mvh tobias - enig mvh Julius          	|
+| Deluxe Shovel                           	| いかしたスコップ           	|      	|        	|  Spade | Luksusspade - hvorfor heter den det i LA egentlig? er jo bare en vanlig spade?? skal vi bare kalle den Spade, og hvis ikke, hvorfor ikke? mvh tobias - enig mvh Julius          	|
 | Bow & Arrow Set                         	| ゆみ や セット             	|      	|        	| pil og bue      	|           	|
-| Roc's Feather                           	| ロックちょう               	|      	|        	|       	| Rokks fjær? https://no.wikipedia.org/wiki/Rokk_(fabeldyr)	- enig mvh Julius|
-| Power Bracelet                          	| パワーブレスレット         	|      	|        	|       	| Kraftarmbånd - eller styrkearmbånd mvh tobias. Jeg har brukt «kraft» de fleste steder "power" nevnes mvh Julius        	|
-| Hook Shot                               	| フックショット             	|  Enterhaken / Fanghaken	| Grappin (Grappling hook)	|       	| Piggkaster? Krokkaster? Krokskudd? Hook shot i dette spillet ligner mer på en slags pigg/stjerne enn en krok? Jeg stemmer på Gripekrok - gripekrok eller gripeklo mvh tobias. Jeg liker alle dine forslag mvh Julius      	|
-| Magic Rod                               	| マジックロッド             	|      	|        	|       	| Magisk stav? Tryllestav? Ildstav? Den kan jo bare skyte ild, ikke trylle på noe annet vis	|
-| Pegasus Boots                           	| ペガサスのくつ             	|      	|        	|       	| Pegasusstøvler? Vingestøvler?          	|
-| Magic Powder                            	| まほうのこな               	|      	|        	|       	| Magisk pulver          	|
+| Roc's Feather                           	| ロックちょう               	|      	|        	| Rokks fjær| Rokks fjær? https://no.wikipedia.org/wiki/Rokk_(fabeldyr)	- enig mvh Julius|
+| Power Bracelet                          	| パワーブレスレット         	|      	|        	| Kraftarmbånd| Kraftarmbånd - eller styrkearmbånd mvh tobias. Jeg har brukt «kraft» de fleste steder "power" nevnes mvh Julius        	|
+| Hook Shot                               	| フックショット             	|  Enterhaken / Fanghaken	| Grappin (Grappling hook)	| Gripekrok	| Piggkaster? Krokkaster? Krokskudd? Hook shot i dette spillet ligner mer på en slags pigg/stjerne enn en krok? Jeg stemmer på Gripekrok - gripekrok eller gripeklo mvh tobias. Jeg liker alle dine forslag mvh Julius      	|
+| Magic Rod                               	| マジックロッド             	|      	|        	| Magisk stav	| Magisk stav? Tryllestav? Ildstav? Den kan jo bare skyte ild, ikke trylle på noe annet vis	|
+| Pegasus Boots                           	| ペガサスのくつ             	|      	|        	| Pegasusstøvler | Pegasusstøvler? Vingestøvler?          	|
+| Magic Powder                            	| まほうのこな               	|      	|        	| Magisk pulver | Magisk pulver          	|
 | Bomb                                    	| バクダン                   	|      	|        	| Bombe      	|           	|
 | Ocarina                                 	| オカリナ                   	|      	|        	| Leirgauk |           	|
 | Boomerang                               	| ブーメラン                 	|      	|        	| Bumerang      	|           	|
 | Magnifying Lens                         	| みとおしレンズ             	|      	|        	| Forstørrelsesglass      	|           	|
-| Sleepy Toadstool                        	| ネボケタケ                 	|      	|        	|       	| Sovesopp? Søvnig paddehatt?         	|
-| Toadstool                               	| キノコ                     	|      	|        	|       	| Sopp? Paddehatt?          	|
-| Flippers                                	| アングラーのみずかき       	|      	|        	|      	| Svømmeføtter?          	|
-| Secret Medicine                         	| ヒミツのくすり             	|      	|        	|       	| Vidundermedisin?          	|
-| Secret Seashell                         	| ヒミツのカイ               	|      	|        	|       	|  Skjult sneglehus? Gjemt sneglehus? Konkylie kanskje?	|
-| Gold Leaf                               	| おうごんのはっぱ           	|      	|        	|       	| Gullblad? Gyllent blad?         	|
+| Sleepy Toadstool                        	| ネボケタケ                 	|      	|        	| Sovesopp| Sovesopp? Søvnig paddehatt?         	|
+| Toadstool                               	| キノコ                     	|      	|        	|Sopp| Sopp? Paddehatt?          	|
+| Flippers                                	| アングラーのみずかき       	|      	|        	|  Svømmeføtter	| Svømmeføtter?          	|
+| Secret Medicine                         	| ヒミツのくすり             	|      	|        	| Vindundermiddel	| Vidundermedisin?    Vindundermiddel      	|
+| Secret Seashell                         	| ヒミツのカイ               	|      	|        	| Skjult sneglehus|  Skjult sneglehus? Gjemt sneglehus? Konkylie kanskje?	|
+| Gold Leaf                               	| おうごんのはっぱ           	|      	|        	|    Gullblad	| Gullblad? Gyllent blad?         	|
 | Map                                     	| ちず                       	|      	|        	| Kart      	|           	|
 | Compass                                 	| コンパス                   	|      	|        	| Kompass      	|           	|
-| Small Key                               	| ちいさなカギ               	|      	|        	|       	| Nøkkel          	|
-| Nightmare key                           	| ボスのかぎ                 	|      	|        	|       	| Marerittnøkkel          	|
+| Small Key                               	| ちいさなカギ               	|      	|        	|     Liten nøkkel  	| Nøkkel          	|
+| Nightmare key                           	| ボスのかぎ                 	|      	|        	|Marerittnøkkel          	| Marerittnøkkel          	|
 | owl statue                              	| フクロウのせきぞう         	|      	|        	| Uglestatue      	|           	|
-| stone beak                              	| せきぞうのくちばし         	|      	|        	|       	| Steinnebb          	|
+| stone beak                              	| せきぞうのくちばし         	|      	|        	|    Steinnebb   	| Steinnebb          	|
 | Tail Key                                	| テールのカギ               	|      	|        	| Halenøkkel     	|           	|
 | Slime Key                               	| スライムのかぎ             	|      	|        	| Slimnøkkel      	|           	|
 | Angler Key                              	| アングラーのかぎ           	|      	|        	| Ulkeknøkkel      	|   Er vi sikre på marulk?	|
-| Face Key                                	| フェイスのかぎ             	|      	|        	|       	| Fjesnøkkel? Ansiktsnøkkel?         	|
-| Bird Key                                	| バードのかぎ               	|      	|        	|       	| Fuglenøkkel?          	|
+| Face Key                                	| フェイスのかぎ             	|      	|        	|     Ansiktsnøkkel  	| Fjesnøkkel? Ansiktsnøkkel?         	|
+| Bird Key                                	| バードのかぎ               	|      	|        	|   Fuglenøkkel    	| Fuglenøkkel?          	|
 | Heart                                   	| ハート                     	|      	|        	| Hjerte      	|           	|
 | Rupee                                   	| ルピー                     	|      	|        	| Rupi      	| Rupi          	|
-| Piece of Power                          	| ちからのかけら             	|      	|        	|       	| kraftbit?          	|
-| Guardian Acorn                          	| まもりのきのみ             	|      	|        	|       	| Voktende eikenøtt?          	|
+| Piece of Power                          	| ちからのかけら             	|      	|        	| kraftskår | kraftbit?          	|
+| Guardian Acorn                          	| まもりのきのみ             	|      	|        	| Skytsnøtt	| Voktende eikenøtt?          	|
 | Heart Container                         	| ハートのうつわ             	|      	|        	| Hjertebeholder      	|           	|
 | Piece of Heart                          	| ハートのかけら             	|      	|        	| Hjertebit      	|           	|
 | Yoshi Doll                              	| ヨッシーのにんぎょう       	|      	|        	| Yoshi-dukke      	|           	|

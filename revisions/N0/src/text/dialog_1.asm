@@ -463,7 +463,7 @@ Dialog038::
     db "Jeg tulla ikke  "
     db "da jeg ba deg   "
     db "betale! Nå skal "
-    db "du betale med   "
+    db "du bøte med     "
     db "livet ditt!!@"
 ;    db "I wasn't kidding"
 ;    db "when I said pay!"

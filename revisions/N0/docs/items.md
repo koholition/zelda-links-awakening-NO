@@ -50,7 +50,7 @@
 | Organ of Evening Calm                   	| ゆうなぎのオルガン         	|      	|        	| Kveldsroens orgel  	| Kveldsroens orgel          	|
 | Thunder Drum                            	| えんらいのドラム           	|      	|        	|  Tordentromme 	| Tordentromme          	|
 | Ballad of the Wind Fish                 	| 「かぜのさかな」のうた     	|      	|        	| Balladen om Vindfisken       	| Balladen om Vindfisken          	|
-| Manbo's Mambo                           	| マンボウのマンボ           	|      	|        	| Manbos Mambo	| Manbos Mambo          	|
+| Manbo's Mambo                           	| マンボウのマンボ           	|      	|        	| Mons' Mambo	| Manbos Mambo          	|
 | Frog's Song of Soul                     	| カエルのソウル             	|      	|        	| Froskens sjelesang | Froskens sjelesang - mister ordspillet med musikksjangeren soul da mvh tobias. Ja, men sjelesang føles som et bra norsk ord for soul? mvh Julius        	|
 | THE MOURNING MERMAID                    	| かなしみのにんぎょぞう     	|      	|        	|Den sørgende havfrue | Den sørgende havfrue          	|
 | Mermaid Statue                          	| にんぎょぞう               	|      	|        	|  Havfruestatue 	| Havfruestatue          	|

@@ -40,25 +40,25 @@
 | Piece of Heart                          	| ハートのかけら             	|      	|        	| Hjertebit      	|           	|
 | Yoshi Doll                              	| ヨッシーのにんぎょう       	|      	|        	| Yoshi-dukke      	|           	|
 | ribbon                                  	| リボン                     	|      	|        	| Sløyfe      	|           	|
-| Instrument of the Sirens                	| セイレーンのがっき         	|      	|        	|       	| Sirenenes instrumenter          	|
-| Full Moon Cello                         	| まんげつのバイオリン       	|      	|        	|       	| Fullmåne-cello          	|
-| Conch Horn                              	| まきがいのホルン           	|      	|        	|       	| Konkyliehorn          	|
-| Sea Lily's Bell                         	| うみゆりのベル             	|      	|        	|       	| Sjøliljas bjelle / Sjøliljens bjelle / Sjøliljebjella         	|
-| Surf Harp                               	| しおさいのハープ           	|      	|        	|       	| Skumharpen / bølgekamharpen - harpe kan ende med både -a og -en, hva foretrekker dere? mvh Julius      	|
-| Wind Marimba                            	| あらしのマリンバ           	|      	|        	|       	| Vind-Marimba          	|
-| Coral Triangle                          	| さんごのトライアングル     	|      	|        	|       	| Koralltriangel          	|
-| Organ of Evening Calm                   	| ゆうなぎのオルガン         	|      	|        	|       	| Kveldsroens orgel          	|
-| Thunder Drum                            	| えんらいのドラム           	|      	|        	|       	| Tordentromme          	|
+| Instrument of the Sirens                	| セイレーンのがっき         	|      	|        	| Sirenenes instrumenter| Sirenenes instrumenter          	|
+| Full Moon Cello                         	| まんげつのバイオリン       	|      	|        	| Fullmånecello | Fullmåne-cello          	|
+| Conch Horn                              	| まきがいのホルン           	|      	|        	| Konkyliehorn | Konkyliehorn          	|
+| Sea Lily's Bell                         	| うみゆりのベル             	|      	|        	| Sjøliljens bjelle | Sjøliljas bjelle / Sjøliljens bjelle / Sjøliljebjella         	|
+| Surf Harp                               	| しおさいのハープ           	|      	|        	|  Bølgekamharpen | Skumharpen / bølgekamharpen - harpe kan ende med både -a og -en, hva foretrekker dere? mvh Julius      	|
+| Wind Marimba                            	| あらしのマリンバ           	|      	|        	| Vindmarimba| Vind-Marimba          	|
+| Coral Triangle                          	| さんごのトライアングル     	|      	|        	| Koralltriangel 	| Koralltriangel          	|
+| Organ of Evening Calm                   	| ゆうなぎのオルガン         	|      	|        	| Kveldsroens orgel  	| Kveldsroens orgel          	|
+| Thunder Drum                            	| えんらいのドラム           	|      	|        	|  Tordentromme 	| Tordentromme          	|
 | Ballad of the Wind Fish                 	| 「かぜのさかな」のうた     	|      	|        	| Balladen om Vindfisken       	| Balladen om Vindfisken          	|
-| Manbo's Mambo                           	| マンボウのマンボ           	|      	|        	|       	| Manbos Mambo          	|
-| Frog's Song of Soul                     	| カエルのソウル             	|      	|        	|       	| Froskens sjelesang - mister ordspillet med musikksjangeren soul da mvh tobias. Ja, men sjelesang føles som et bra norsk ord for soul? mvh Julius        	|
-| THE MOURNING MERMAID                    	| かなしみのにんぎょぞう     	|      	|        	|       	| Den sørgende havfrue          	|
-| Mermaid Statue                          	| にんぎょぞう               	|      	|        	|       	| Havfruestatue          	|
-| Mermaid scale                           	| にんぎょのウロコ           	|      	|        	|       	| Havfrueskjell          	|
-| How To Handle Your Shield Like A Pro!   	| タテのつかいかた           	|      	|        	|       	| Hvordan håndtere skjoldet ditt som en proff!          	|
-| Selecting The Item That's Right For You 	| アイテムのセレクトほうほう 	|      	|        	|       	| Hvordan velge gjenstanden som er rett for deg |
+| Manbo's Mambo                           	| マンボウのマンボ           	|      	|        	| Manbos Mambo	| Manbos Mambo          	|
+| Frog's Song of Soul                     	| カエルのソウル             	|      	|        	| Froskens sjelesang | Froskens sjelesang - mister ordspillet med musikksjangeren soul da mvh tobias. Ja, men sjelesang føles som et bra norsk ord for soul? mvh Julius        	|
+| THE MOURNING MERMAID                    	| かなしみのにんぎょぞう     	|      	|        	|Den sørgende havfrue | Den sørgende havfrue          	|
+| Mermaid Statue                          	| にんぎょぞう               	|      	|        	|  Havfruestatue 	| Havfruestatue          	|
+| Mermaid scale                           	| にんぎょのウロコ           	|      	|        	| Havfrueskjell | Havfrueskjell          	|
+| How To Handle Your Shield Like A Pro!   	| タテのつかいかた           	|      	|        	|Hvordan håndtere skjoldet ditt som en proff!| Hvordan håndtere skjoldet ditt som en proff!          	|
+| Selecting The Item That's Right For You 	| アイテムのセレクトほうほう 	|      	|        	|Velg gjenstanden som passer for deg| Hvordan velge gjenstanden som er rett for deg |
 | Auto Map and Memo Guide Book            	| マップがめんとメモ         	|      	|        	|       	|           	|
-| Secrets of the Whirling Blade           	| ひでん！ かいてんぎり      	|      	|        	|       	| Det snurrende sverdets hemmeligheter          	|
+| Secrets of the Whirling Blade           	| ひでん！ かいてんぎり      	|      	|        	|Hemmelighetene til den virvlende klingen| Det snurrende sverdets hemmeligheter          	|
 | The Properties Of Warp Holes            	| ワープのほうそく           	|      	|        	|       	| Varpehullenes egenskaper / Teleportørenes egenskaper         	|
 | Fun With Bombs                          	| バクダンは かつげる        	|      	|        	|       	| Gøy med bomber          	|
 | Atlas Of Koholint Island                	| コホリントじまのちず       	|      	|        	|       	| Atlas over Koholint          	|
@@ -69,3 +69,4 @@
 | wisdom                                  	| ちえ                       	|      	|        	|       	| Visdom          	|
 | courage                                 	| ゆうき                     	|      	|        	|       	| Mot          	|
 | power                                   	| ちから                     	|      	|        	|       	| Kraft. Eller Makt?         	|
+|The Hidden Power of Color                 	| ちから                     	|      	|        	|  Fargelære	| Dette er en original linje       	|

@@ -32,4 +32,4 @@
 | Pols Voice       	| ポルスボイス           	|      	|        	|  Hurlumhare 	| Hvor i all verden kommer dette navnet fra                                                                                                                          	|
 | Stalfos          	| スタルフォス           	|      	|        	|            	| bare Stalfos? det er visst Hyliansk for 'skeletal humanoid' |
 | Moldorm          	| テール                 	|      	|        	|            	| Moldorm funker jo bra på norsk også! Evt Muldorm eller Jordorm. Hva med Muggorm? Mold: Mugg, og ligner på Huggorm mvh Julius    	|
-| Nightmare        	| ボス                   	|      	|        	|            	| Går vel bare for Mareritt her? - eller Mare? hilsen julius                                                                                                                         	|
+| Nightmare        	| ボス                   	|      	|        	|    Mareritt  	| Går vel bare for Mareritt her? - eller Mare? hilsen julius                                                                                                                         	|

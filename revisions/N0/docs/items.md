@@ -57,16 +57,16 @@
 | Mermaid scale                           	| にんぎょのウロコ           	|      	|        	| Havfrueskjell | Havfrueskjell          	|
 | How To Handle Your Shield Like A Pro!   	| タテのつかいかた           	|      	|        	|Hvordan håndtere skjoldet ditt som en proff!| Hvordan håndtere skjoldet ditt som en proff!          	|
 | Selecting The Item That's Right For You 	| アイテムのセレクトほうほう 	|      	|        	|Velg gjenstanden som passer for deg| Hvordan velge gjenstanden som er rett for deg |
-| Auto Map and Memo Guide Book            	| マップがめんとメモ         	|      	|        	|       	|           	|
+| Auto Map and Memo Guide Book            	| マップがめんとメモ         	|      	|        	|   Hvordan bruke kartet: En manual    	|           	|
 | Secrets of the Whirling Blade           	| ひでん！ かいてんぎり      	|      	|        	|Hemmelighetene til den virvlende klingen| Det snurrende sverdets hemmeligheter          	|
-| The Properties Of Warp Holes            	| ワープのほうそく           	|      	|        	|       	| Varpehullenes egenskaper / Teleportørenes egenskaper         	|
-| Fun With Bombs                          	| バクダンは かつげる        	|      	|        	|       	| Gøy med bomber          	|
-| Atlas Of Koholint Island                	| コホリントじまのちず       	|      	|        	|       	| Atlas over Koholint          	|
-| Dark Secrets And Mysteries Of Koholint  	| ヒミツのほん？！           	|      	|        	|       	| Mørke hemmeligheter og mysterier på Koholint / Koholints mørke hemmeligheter og mysterier          	|
-| The Travels of NAME                   	| でんせつの NAME！        	|      	|        	|       	| NAVNs reiser          	|
-| Blue Clothes                            	| あおいふく                 	|      	|        	|       	| Blå skjorte / Blå kjortel         	|
-| Red Clothes                             	| あかいふく                 	|      	|        	|       	| Rød skjorte / Rød kjortel          	|
-| wisdom                                  	| ちえ                       	|      	|        	|       	| Visdom          	|
-| courage                                 	| ゆうき                     	|      	|        	|       	| Mot          	|
-| power                                   	| ちから                     	|      	|        	|       	| Kraft. Eller Makt?         	|
+| The Properties Of Warp Holes            	| ワープのほうそく           	|      	|        	|  Teorien om ormehull | Varpehullenes egenskaper / Teleportørenes egenskaper         	|
+| Fun With Bombs                          	| バクダンは かつげる        	|      	|        	| Moro med bomber	| Gøy med bomber          	|
+| Atlas Of Koholint Island                	| コホリントじまのちず       	|      	|        	| Atlas over Koholint	| Atlas over Koholint          	|
+| Dark Secrets And Mysteries Of Koholint  	| ヒミツのほん？！           	|      	|        	| De dunkle gåtene og mysteriene på Koholint | Mørke hemmeligheter og mysterier på Koholint / Koholints mørke hemmeligheter og mysterier          	|
+| The Travels of NAME                   	| でんせつの NAME！        	|      	|        	|  NAVNs reiser 	| NAVNs reiser          	|
+| Blue Clothes                            	| あおいふく                 	|      	|        	|  Blå kjortel	| Blå skjorte / Blå kjortel         	|
+| Red Clothes                             	| あかいふく                 	|      	|        	|  Rød kjortel	| Rød skjorte / Rød kjortel          	|
+| wisdom                                  	| ちえ                       	|      	|        	|   Visdom	| Visdom          	|
+| courage                                 	| ゆうき                     	|      	|        	|   Mot | Mot          	|
+| power                                   	| ちから                     	|      	|        	|    Kraft	| Kraft. Eller Makt?         	|
 |The Hidden Power of Color                 	| ちから                     	|      	|        	|  Fargelære	| Dette er en original linje       	|

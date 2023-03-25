@@ -242,6 +242,7 @@ Dialog265::
 ;    db "anyone.@"
 
 Dialog266::
+    db "  'Fargelære'   "
     db "Vil du lese     "
     db "denne boka?     "
     db "    JA  NEI<ask>"

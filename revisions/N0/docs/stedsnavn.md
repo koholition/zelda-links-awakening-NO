@@ -17,7 +17,7 @@
 | Hen House                     | ニワトリごや                     | Hønsehuset          ||
 | House By The Bay              | いりえのいえ                     | Huset ved sjøen     | Eller Huset ved bukta? Huset ved havet? |
 | Kanalet Castle                | カナレットのしろ                 |                     | Bekkeslottet? |
-| Key Cavern                    | カギのあなぐら                   | Nøkkelhula          | |
+| Key Cavern                    | カギのあなぐら                   | Nøkkelkjelleren          | Nøkkelkjeller pga: The third dungeon, Key Cavern, is a brick building, not a cave. This may be a mistranslation; it's called "Key Cellar" in Japanese and French and "Devil's Mansion" in German. Alternativt Nøkkelhula |
 | Koholint Island               | コホリントじま                   | Koholint                    |rart å inkludere "øya"?|
 | Koholint Prairie              | コホリント へいげん              | Koholint-sletta     | «Prærie» er et særamerikansk begrep for slettene i Nord-Amerika, så jeg synes det skal hete Koholint-sletta mvh tobias - ja enig mvh julius. Hva med vidde. Koholint-vidda? mvh Andreas Nei, en vidde er et åpent fjellområde som generelt ligger høyere enn tregrensen og har begrenset vekst av trær (Finnmarksvidda, Hardangervidda, osv). mvh Tobias|
 | Mabe Village                  | メーベのむら                     | Mabe landsby                    | Bare Mabe landsby? Eller Måke/Måse landsby? https://zelda.fandom.com/wiki/Mabe_Village#Nomenclature Jeg liker Måse mvh julius|

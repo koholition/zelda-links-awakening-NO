@@ -1,7 +1,7 @@
 | Engelsk                       | Japansk                          | Norsk               | Kommentar |
 |-------------------------------|----------------------------------|---------------------|-----------|
 | Angler's Tunnel               | アングラーのたきつぼ             | Marulktunnelen      |Eller Breiflabbtunellen? breiflabb har også mange andre kallenavn: havtaske, sjødævel, storkjeftkonge, ulke, breikjeft, fessompa, fessømpæ, fisksømpe, fissump, furusk, kontepella, mataskurk, pelekunter, pillekunter, ulk, konterusk og konteknor.        Jeg syns Ulketunnellen er best. Skal vi skrive det «tunnel» eller «tunell»? jeg foreslår det siste mvh julius. jeg foreslår tunnel fordi det er vanligst mvh tobias. Ok, mvh Julius|
-| Animal Village                | どうぶつむら                     | Dyrelandsbyen       ||
+| Animal Village                | どうぶつむら                     |       ||Dyrelandsbyen  Potebu Snutebu 
 | Bottle Grotto                 | つぼのどうくつ                   | Flaskegrotta        ||
 | Catfish's Maw                 | ナマズのおおぐち                 | Mallegapet          ||
 | Camera Shop (DX Version only) |                                  | Fotobutikk          ||
@@ -20,7 +20,7 @@
 | Key Cavern                    | カギのあなぐら                   | Nøkkelkjelleren          | Nøkkelkjeller pga: The third dungeon, Key Cavern, is a brick building, not a cave. This may be a mistranslation; it's called "Key Cellar" in Japanese and French and "Devil's Mansion" in German. Alternativt Nøkkelhula |
 | Koholint Island               | コホリントじま                   | Koholint                    |rart å inkludere "øya"?|
 | Koholint Prairie              | コホリント へいげん              | Koholint-sletta     | «Prærie» er et særamerikansk begrep for slettene i Nord-Amerika, så jeg synes det skal hete Koholint-sletta mvh tobias - ja enig mvh julius. Hva med vidde. Koholint-vidda? mvh Andreas Nei, en vidde er et åpent fjellområde som generelt ligger høyere enn tregrensen og har begrenset vekst av trær (Finnmarksvidda, Hardangervidda, osv). mvh Tobias|
-| Mabe Village                  | メーベのむら                     | Mabe landsby                    | Bare Mabe landsby? Eller Måke/Måse landsby? https://zelda.fandom.com/wiki/Mabe_Village#Nomenclature Jeg liker Måse mvh julius|
+| Mabe Village                  | メーベのむら                     |            Måsebu      | Bare Mabe landsby? Eller Måke/Måse landsby? https://zelda.fandom.com/wiki/Mabe_Village#Nomenclature Jeg liker Måse mvh julius Mabe landsby  |
 | Madam MeowMeow's House        | マダムニゃンニゃンのいえ         | Madam MjauMjaus hus                    ||
 | Manbo's Pond                  | マンボガいけ                     |                     ||
 | Marin and Tarin's House       | マリンとタリンのいえ             | Marin og Tarins hus                    ||

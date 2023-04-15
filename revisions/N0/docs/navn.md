@@ -30,6 +30,6 @@
 | Zora             	| ゾーラ                 	|      	|        	| Zora   	| Det er vel ikonisk nok til at vi beholder det                                                                       	|
 | Fairy Queen      	| ようせいじょーおうさま 	|      	|        	| Dronningfeen 	| Dronningfeen?                                                                                                                          	|
 | Pols Voice       	| ポルスボイス           	|      	|        	|  Hurlumhare 	| Hvor i all verden kommer dette navnet fra                                                                                                                          	|
-| Stalfos          	| スタルフォス           	|      	|        	|            	| bare Stalfos? det er visst Hyliansk for 'skeletal humanoid' |
-| Moldorm          	| テール                 	|      	|        	|            	| Moldorm funker jo bra på norsk også! Evt Muldorm eller Jordorm. Hva med Muggorm? Mold: Mugg, og ligner på Huggorm mvh Julius    	|
+| Stalfos          	| スタルフォス           	|      	|        	|     Skallos       	| bare Stalfos? det er visst Hyliansk for 'skeletal humanoid'. Skall for skalle og os som også betyr bein. men betyr dette at Lizalfos f.eks må ha -os endelse på norsk? Øglos. he he. |
+| Moldorm          	| テール                 	|      	|        	|      Moldorm       	| Moldorm funker jo bra på norsk også! Evt Muldorm eller Jordorm. Hva med Muggorm? Mold: Mugg, og ligner på Huggorm mvh Julius    	|
 | Nightmare        	| ボス                   	|      	|        	|    Mareritt  	| Går vel bare for Mareritt her? - eller Mare? hilsen julius                                                                                                                         	|

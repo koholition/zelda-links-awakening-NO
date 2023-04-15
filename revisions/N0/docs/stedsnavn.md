@@ -1,19 +1,19 @@
 | Engelsk                       | Japansk                          | Norsk               | Kommentar |
 |-------------------------------|----------------------------------|---------------------|-----------|
 | Angler's Tunnel               | アングラーのたきつぼ             | Marulktunnelen      |Eller Breiflabbtunellen? breiflabb har også mange andre kallenavn: havtaske, sjødævel, storkjeftkonge, ulke, breikjeft, fessompa, fessømpæ, fisksømpe, fissump, furusk, kontepella, mataskurk, pelekunter, pillekunter, ulk, konterusk og konteknor.        Jeg syns Ulketunnellen er best. Skal vi skrive det «tunnel» eller «tunell»? jeg foreslår det siste mvh julius. jeg foreslår tunnel fordi det er vanligst mvh tobias. Ok, mvh Julius|
-| Animal Village                | どうぶつむら                     |       ||Dyrelandsbyen  Potebu Snutebu 
+| Animal Village                | どうぶつむら                     |    Snutebu   ||Dyrelandsbyen  Potebu Snutebu 
 | Bottle Grotto                 | つぼのどうくつ                   | Flaskegrotta        ||
 | Catfish's Maw                 | ナマズのおおぐち                 | Mallegapet          ||
 | Camera Shop (DX Version only) |                                  | Fotobutikk          ||
 | Cemetery                      | ぼち                             | Kirkegård           ||
-| Color Dungeon                 | 服のダンジョン                   |                     | Kanskje «Fargekjelleren» er et greit ordspill på farge + fangekjeller her, selv om vi ikke skal oversette «dungeon» til «fangekjeller» generelt? mvh tobias |
-| Crazy Tracy's Health Spa      | きまぐれトレーシーのくすりやさん | Gale Thales helsespa ||
+| Color Dungeon                 | 服のダンジョン                   |       Fargekjelleren              | Kanskje «Fargekjelleren» er et greit ordspill på farge + fangekjeller her, selv om vi ikke skal oversette «dungeon» til «fangekjeller» generelt? mvh tobias |
+| Crazy Tracy's Health Spa      | きまぐれトレーシーのくすりやさん | Gale Tales helsespa ||
 | Dream Shrine                  | ユメのほこら                     | Drømmetempelet      ||
-| Eagle's Tower                 | オオワシのとう                   |                     | Bare Ørnetårnet?|
+| Eagle's Tower                 | オオワシのとう                   |        Ørnetårnet             | Bare Ørnetårnet?|
 | East of the Bay               | いりえのひがし                   | Østenfor bukta       ||
 | Face Shrine                   | かおのしんでん                   | Ansiktstempelet     ||
 | Fishing Pond                  | つりぼり                         | Fiskedam            |ev. fiskevann?|
-| Goponga Swamp                 | ゴポンガのぬま                   | Gopongasumpen       | heter anemonesump og slimsump på andre språk. Wikipedia sier at anemoner er knollvekster i symreslekta, hva med Symresumpen? Det rimer fint mvh Julius|
+| Goponga Swamp                 | ゴポンガのぬま                   | Symresumpen       | heter anemonesump og slimsump på andre språk. Wikipedia sier at anemoner er knollvekster i symreslekta, hva med Symresumpen? Det rimer fint mvh Julius|
 | Hen House                     | ニワトリごや                     | Hønsehuset          ||
 | House By The Bay              | いりえのいえ                     | Huset ved sjøen     | Eller Huset ved bukta? Huset ved havet? |
 | Kanalet Castle                | カナレットのしろ                 |                     | Bekkeslottet? |

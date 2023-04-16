@@ -16,17 +16,17 @@
 | Goponga Swamp                 | ゴポンガのぬま                   | Symresumpen       | heter anemonesump og slimsump på andre språk. Wikipedia sier at anemoner er knollvekster i symreslekta, hva med Symresumpen? Det rimer fint mvh Julius|
 | Hen House                     | ニワトリごや                     | Hønsehuset          ||
 | House By The Bay              | いりえのいえ                     | Huset ved sjøen     | Eller Huset ved bukta? Huset ved havet? |
-| Kanalet Castle                | カナレットのしろ                 |                     | Bekkeslottet? |
+| Kanalet Castle                | カナレットのしろ                 |       Elveslottet         | Bekkeslottet? |
 | Key Cavern                    | カギのあなぐら                   | Nøkkelkjelleren          | Nøkkelkjeller pga: The third dungeon, Key Cavern, is a brick building, not a cave. This may be a mistranslation; it's called "Key Cellar" in Japanese and French and "Devil's Mansion" in German. Alternativt Nøkkelhula |
 | Koholint Island               | コホリントじま                   | Koholint                    |rart å inkludere "øya"?|
 | Koholint Prairie              | コホリント へいげん              | Koholint-sletta     | «Prærie» er et særamerikansk begrep for slettene i Nord-Amerika, så jeg synes det skal hete Koholint-sletta mvh tobias - ja enig mvh julius. Hva med vidde. Koholint-vidda? mvh Andreas Nei, en vidde er et åpent fjellområde som generelt ligger høyere enn tregrensen og har begrenset vekst av trær (Finnmarksvidda, Hardangervidda, osv). mvh Tobias|
 | Mabe Village                  | メーベのむら                     |            Måsebu      | Bare Mabe landsby? Eller Måke/Måse landsby? https://zelda.fandom.com/wiki/Mabe_Village#Nomenclature Jeg liker Måse mvh julius Mabe landsby  |
 | Madam MeowMeow's House        | マダムニゃンニゃンのいえ         | Madam MjauMjaus hus                    ||
-| Manbo's Pond                  | マンボガいけ                     |                     ||
+| Manbo's Pond                  | マンボガいけ                     |  Mons' pytt      ||
 | Marin and Tarin's House       | マリンとタリンのいえ             | Marin og Tarins hus                    ||
 | Martha's Bay                  | マーサのいりえ                   | Martas bukt         |Eller Marte?|
-| Mountain Bridge               | つりばし                         |                  |Fjellbrua?     |
-| Mt. Tamaranch                 | タマランチ やま                  |                     | Tamaranchpiggen? Tamaranchtind? |
+| Mountain Bridge               | つりばし                         |      Fjellbrua        |Fjellbrua?     |
+| Mt. Tamaranch                 | タマランチ やま                  |                     | Tamaranchpiggen? Tamaranchtind? Tegogo-fjellet ...|
 | Mysterious Woods              | ふしぎのもり                     |                     | Den mystiske skogen |
 | Old Man Ulrira's House        | うるりらじいさんのいえ           |                     | Gamle Ulriks hus|
 | Pothole Field                 | アナボコばたけ                   | Jettegryter         |jaaaa|

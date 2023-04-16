@@ -32,7 +32,7 @@
 | Pothole Field                 | アナボコばたけ                   | Jettegryter         |jaaaa|
 | Quadruplet's House            | ４つごのいえ                     | Firlingenes hus     ||
 | Raft Shop                     | いかだや                         |                     |Flåtebutikken|
-| Rapids Ride                   | きゅうりゅうすべり               |                    | Strykene? mvh julius. Hvis flåtebutikken, burde ikke dette da være Flåtetur? Elvepadling? Rafting på flåte. Eller noe. |
+| Rapids Ride                   | きゅうりゅうすべり               |                    | Strykene? mvh julius. Hvis flåtebutikken, burde ikke dette da være Flåtetur? Elvepadling? Rafting på flåte. Eller noe. Hva med Tømmerrenna? mvh Andreas |
 | Richard's Villa               | リチゃードのべっそう             | Rikards villa       ||
 | Sale's House O' Bananas       | バナナうり セールのいえ          |                     | Skjalgs bananmodneri? |
 | Seashell Mansion              | かいがらのやかた                 |                     ||

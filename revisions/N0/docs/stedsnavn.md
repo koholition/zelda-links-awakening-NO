@@ -47,9 +47,9 @@
 | Town Tool Shop                | むらのどうぐやさん               |          | Landhandler? |
 | Trendy Game                   | いまはやりのゲーム               |                     ||
 | Turtle Rock                   | カメイワ                         | |Skilpaddesteinen? Eller finnes det noe bedre ord for "rock" i denne forstand (altså mer en slags høyde eller kampestein?) |
-| Ukuku Prairie                 | ウクク そうげん                  |                     | Ukuku-sletta? Spekuleres i om dette er en japanisering av "ukulele". |
+| Ukuku Prairie                 | ウクク そうげん                  |  Ulele-sletta        | Ukuku-sletta? Spekuleres i om dette er en japanisering av "ukulele". |
 | Village Library               | むらのとしょかん                 |                     | Bibliotek |
-| Warp Hole                     | ワープのあな                     | Teleportør          ||
+| Warp Hole                     | ワープのあな                     | Ormehull         ||
 | Weird Mr. Write               | へんなおじさん ライトのいえ      |                     ||
 | Wind Fish's Egg               | せいなるタマゴ                   | Vindfiskens egg     ||
 | Witch's Hut                   | まほうのこなをつくる おばあさん  | Heksas hytte        ||

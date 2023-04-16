@@ -26,28 +26,28 @@
 | Marin and Tarin's House       | マリンとタリンのいえ             | Marin og Tarins hus                    ||
 | Martha's Bay                  | マーサのいりえ                   | Martas bukt         |Eller Marte?|
 | Mountain Bridge               | つりばし                         |      Fjellbrua        |Fjellbrua?     |
-| Mt. Tamaranch                 | タマランチ やま                  |                     | Tamaranchpiggen? Tamaranchtind? Tegogo-fjellet ...|
+| Mt. Tamaranch                 | タマランチ やま                  |                     | Tamaranchpiggen? Tamaranchtind? Tegogo-fjellet ... - "tama" kommer nok fra "egg". Hva med et ordspill på "Besseggen"? mvh Tobias |
 | Mysterious Woods              | ふしぎのもり                     |                     | Den mystiske skogen |
-| Old Man Ulrira's House        | うるりらじいさんのいえ           |                     | Gamle Ulriks hus|
+| Old Man Ulrira's House        | うるりらじいさんのいえ           | Gamle Ulriks hus    | Gamle Ulriks hus|
 | Pothole Field                 | アナボコばたけ                   | Jettegryter         |jaaaa|
 | Quadruplet's House            | ４つごのいえ                     | Firlingenes hus     ||
 | Raft Shop                     | いかだや                         |                     |Flåtebutikken|
 | Rapids Ride                   | きゅうりゅうすべり               |                     | Strykene? mvh julius|
 | Richard's Villa               | リチゃードのべっそう             | Rikards villa       ||
-| Sale's House O' Bananas       | バナナうり セールのいえ          |                     ||
+| Sale's House O' Bananas       | バナナうり セールのいえ          |                     | Skjalgs bananmodneri? |
 | Seashell Mansion              | かいがらのやかた                 |                     ||
 | Signpost Maze                 | カンバンのめいろ                 | Skiltlabyrint       ||
 | South of the Village          | むらのみなみ                     | Sør for landsbyen   | Eller sydenfor? |
-| Tabahl Wasteland              | タバールのはやし                 |                     ||
+| Tabahl Wasteland              | タバールのはやし                 |                     | Spekuleres i om dette er en japanisering av "terrible". Heter "Morne Plaine" og "Fratzenwald" på andre språk. |
 | Tail Cave                     | テールのほらあな                 | Halehula            ||
-| Tal Tal Heights               | タルタル こうち                  |                     |Høy Høy Høyder? Her er jeg ganske blank mvh Julius|
-| Tal Tal Mountain Range        | タルタル さんみゃく              |                     ||
+| Tal Tal Heights               | タルタル こうち                  | Tipptopphøydene     |Høy Høy Høyder? Her er jeg ganske blank mvh Julius|
+| Tal Tal Mountain Range        | タルタル さんみゃく              | Tipptoppfjellene    ||
 | Telephone Booth               | でんわボックス                   | Telefonkiosk        ||
-| Toronbo Shores                | トロンボ かいがん                |                     ||
-| Town Tool Shop                | むらのどうぐやさん               |                     ||
+| Toronbo Shores                | トロンボ かいがん                |                     | Spekuleres i om dette er en japanisering av "trombone". Heter Toronbo/Toronga "kyst" og "strand" på andre språk, men også "Coco" (kokosnøtt?). |
+| Town Tool Shop                | むらのどうぐやさん               |          | Landhandler? |
 | Trendy Game                   | いまはやりのゲーム               |                     ||
-| Turtle Rock                   | カメイワ                         | Skilpaddesteinen    ||
-| Ukuku Prairie                 | ウクク そうげん                  |                     | Ukuku-sletta? |
+| Turtle Rock                   | カメイワ                         | |Skilpaddesteinen? Eller finnes det noe bedre ord for "rock" i denne forstand (altså mer en slags høyde eller kampestein?) |
+| Ukuku Prairie                 | ウクク そうげん                  |                     | Ukuku-sletta? Spekuleres i om dette er en japanisering av "ukulele". |
 | Village Library               | むらのとしょかん                 |                     | Bibliotek |
 | Warp Hole                     | ワープのあな                     | Teleportør          ||
 | Weird Mr. Write               | へんなおじさん ライトのいえ      |                     ||

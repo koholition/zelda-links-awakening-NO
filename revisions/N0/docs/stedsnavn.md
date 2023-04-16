@@ -32,7 +32,7 @@
 | Pothole Field                 | アナボコばたけ                   | Jettegryter         |jaaaa|
 | Quadruplet's House            | ４つごのいえ                     | Firlingenes hus     ||
 | Raft Shop                     | いかだや                         |                     |Flåtebutikken|
-| Rapids Ride                   | きゅうりゅうすべり               |                     | Strykene? mvh julius|
+| Rapids Ride                   | きゅうりゅうすべり               |                    | Strykene? mvh julius. Hvis flåtebutikken, burde ikke dette da være Flåtetur? Elvepadling? Rafting på flåte. Eller noe. |
 | Richard's Villa               | リチゃードのべっそう             | Rikards villa       ||
 | Sale's House O' Bananas       | バナナうり セールのいえ          |                     | Skjalgs bananmodneri? |
 | Seashell Mansion              | かいがらのやかた                 |                     ||
@@ -43,8 +43,7 @@
 | Tal Tal Heights               | タルタル こうち                  | Tipptopphøydene     |Høy Høy Høyder? Her er jeg ganske blank mvh Julius|
 | Tal Tal Mountain Range        | タルタル さんみゃく              | Tipptoppfjellene    ||
 | Telephone Booth               | でんわボックス                   | Telefonkiosk        ||
-| Toronbo Shores                | トロンボ かいがん                |                     | Spekuleres i om dette er en japanisering av "trombone". Heter Toronbo/Toronga "kyst" og "strand" på andre språk, men også "Coco" (kokosnøtt?). Hvis vi skal ende med "-le" som Ulele-sletta så kanskje Tromlebredden eller Tromlekysten
- |
+| Toronbo Shores                | トロンボ かいがん                |                     | Spekuleres i om dette er en japanisering av "trombone". Heter Toronbo/Toronga "kyst" og "strand" på andre språk, men også "Coco" (kokosnøtt?). Hvis vi skal ende med "-le" som Ulele-sletta så kanskje Tromlebredden eller Tromlekysten |
 | Town Tool Shop                | むらのどうぐやさん               |          | Landhandler? |
 | Trendy Game                   | いまはやりのゲーム               |                     ||
 | Turtle Rock                   | カメイワ                         | |Skilpaddesteinen? Eller finnes det noe bedre ord for "rock" i denne forstand (altså mer en slags høyde eller kampestein?) |

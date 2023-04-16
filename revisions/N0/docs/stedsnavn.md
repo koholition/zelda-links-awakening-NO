@@ -43,7 +43,8 @@
 | Tal Tal Heights               | タルタル こうち                  | Tipptopphøydene     |Høy Høy Høyder? Her er jeg ganske blank mvh Julius|
 | Tal Tal Mountain Range        | タルタル さんみゃく              | Tipptoppfjellene    ||
 | Telephone Booth               | でんわボックス                   | Telefonkiosk        ||
-| Toronbo Shores                | トロンボ かいがん                |                     | Spekuleres i om dette er en japanisering av "trombone". Heter Toronbo/Toronga "kyst" og "strand" på andre språk, men også "Coco" (kokosnøtt?). |
+| Toronbo Shores                | トロンボ かいがん                |                     | Spekuleres i om dette er en japanisering av "trombone". Heter Toronbo/Toronga "kyst" og "strand" på andre språk, men også "Coco" (kokosnøtt?). Hvis vi skal ende med "-le" som Ulele-sletta så kanskje Tromlebredden eller Tromlekysten
+ |
 | Town Tool Shop                | むらのどうぐやさん               |          | Landhandler? |
 | Trendy Game                   | いまはやりのゲーム               |                     ||
 | Turtle Rock                   | カメイワ                         | |Skilpaddesteinen? Eller finnes det noe bedre ord for "rock" i denne forstand (altså mer en slags høyde eller kampestein?) |

@@ -35,7 +35,7 @@
 | Rapids Ride                   | きゅうりゅうすべり               |                    | Strykene? mvh julius. Hvis flåtebutikken, burde ikke dette da være Flåtetur? Elvepadling? Rafting på flåte. Eller noe. Hva med Tømmerrenna? mvh Andreas |
 | Richard's Villa               | リチゃードのべっそう             | Rikards villa       ||
 | Sale's House O' Bananas       | バナナうり セールのいえ          |                     | Skjalgs bananmodneri? |
-| Seashell Mansion              | かいがらのやかた                 |                     ||
+| Seashell Mansion              | かいがらのやかた                 |                     |Hva med rett og slett Sneglehuset eller Sneglehus-huset. heh|
 | Signpost Maze                 | カンバンのめいろ                 | Skiltlabyrint       ||
 | South of the Village          | むらのみなみ                     | Sør for landsbyen   | Eller sydenfor? |
 | Tabahl Wasteland              | タバールのはやし                 |                     | Spekuleres i om dette er en japanisering av "terrible". Heter "Morne Plaine" og "Fratzenwald" på andre språk. |

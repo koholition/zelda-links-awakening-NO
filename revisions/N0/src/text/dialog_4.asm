@@ -236,10 +236,10 @@ Dialog1A1::
     db "once, please!@"
 
 Dialog1A2::
-    db "Øst <right> Ukuku-    "
+    db "Øst <right> Ulele-    "
     db "       sletta   "
     db "Lenger øst      "
-    db "   Dyrelandsbyen@"
+    db "       Snutebu@"
 ;   db "East <right> Ukuku    "
 ;   db "       Prairie  "
 ;   db "Farther East    "
@@ -307,26 +307,32 @@ Dialog1AE::
 ;   db "IS <right> THIS WAY!@"
 
 Dialog1AF::
-    db "GONE ON TOUR    "
-    db "         MAMU@"
+    db "PÅ TURNÉ        "
+    db "        VORTIMER@"
+;    db "GONE ON TOUR    "
+;    db "         MAMU@"
 
 Dialog1B0::
     db "<right> Crazy Tracy   "
     db "<down> Manbo's Pond@"
 
 Dialog1B1::
-    db "<right> Animal Village"
-    db "<down> Martha's Bay@"
+    db "<right> Snutebu       "
+    db "<down> Martes bukt@"
+;    db "<right> Animal Village"
+;    db "<down> Martha's Bay@"
 
 Dialog1B2::
     db "<right> Velkommen til"
-    db " Dyrelandsbyen!@"
+    db " Snutebu!@"
 ;   db "<right> Welcome to the"
 ;   db " Animal Village!@"
 
 Dialog1B3::
-    db "<right> Cemetery      "
-    db "<down> Ukuku Prairie @"
+    db "<right> Kirkegård     "
+    db "<down> Ulele-sletta@"
+;    db "<right> Cemetery      "
+;    db "<down> Ukuku Prairie @"
 
 Dialog1B4::
     db "You're close to "
@@ -341,7 +347,7 @@ Dialog1B5::
 Dialog1B6::
     db "MUSIKK, FISKEN  "
     db "ROMSTERER I EGG "
-    db "DU ER DER _…@"
+    db "DU ER DER_…@"
 ;   db "MUSIC, THE FISH "
 ;   db "STIRS IN THE EGG"
 ;   db "YOU ARE THERE...@"
@@ -424,8 +430,10 @@ Dialog1C1::
     db "but take it!@"
 
 Dialog1C2::
-    db "Hmmm, #####, you"
-    db "are mean!@"
+    db "Hmmm, #####, du "
+    db "er slem!@"
+;    db "Hmmm, #####, you"
+;    db "are mean!@"
 
 Dialog1C3::
     db "Se opp for      "
@@ -450,19 +458,32 @@ Dialog1C5::
     db "get some!@"
 
 Dialog1C6::
-    db "Welcome to      "
-    db "Sale's House O' "
-    db "Bananas!  I'm   "
-    db "Sale, this is my"
-    db "house! Actually,"
-    db "my hobby is col-"
-    db "lecting rare and"
-    db "unusual canned  "
-    db "food. My brother"
-    db "is an artist, so"
-    db "I guess strange "
-    db "hobbies run in  "
-    db "the family!@"
+    db "Velkommen til   "
+    db "Skjalgs banan-  "
+    db "modneri! Jeg er "
+    db "Skjalg, dette er"
+    db "bananbungalowen!"
+    db "Hobbyen min er å"
+    db "samle på sjelden"
+    db "hermetikk.      "
+    db "Broren min er   "
+    db "kunstner, så jeg"
+    db "antar rare hob- "
+    db "byer ligger til "
+    db "slekta!@"
+;    db "Welcome to      "
+;    db "Sale's House O' "
+;    db "Bananas!  I'm   "
+;    db "Sale, this is my"
+;    db "house! Actually,"
+;    db "my hobby is col-"
+;    db "lecting rare and"
+;    db "unusual canned  "
+;    db "food. My brother"
+;    db "is an artist, so"
+;    db "I guess strange "
+;    db "hobbies run in  "
+;    db "the family!@"
 
 Dialog1C7::
     db "What's that you "

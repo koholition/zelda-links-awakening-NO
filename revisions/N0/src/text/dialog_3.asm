@@ -710,25 +710,38 @@ Dialog14F::
     db "Bye!  CLICK!'@"
 
 Dialog150::
-    db "   ...SWAMP...  "
-    db " A path opens..."
-    db "in the blooms...@"
+    db "   _… SUMP_…    "
+    db "En sti åpner seg"
+    db "i anemonene_…@" 
+;    db "   ...SWAMP...  "
+;    db " A path opens..."
+;    db "in the blooms...@"
 
 Dialog151::
-    db "  ...PRAIRIE... "
-    db "  ...PRAIRIE... "
-    db " The Prairie is "
-    db "     waiting...@"
+    db "  _… SLETTE_…   "
+    db "  _… SLETTE_…   "
+    db "    Slettene    "
+    db "    venter_…@"
+;    db "  ...PRAIRIE... "
+;    db "  ...PRAIRIE... "
+;    db " The Prairie is "
+;    db "     waiting...@"
 
 Dialog152::
-    db "...WATERFALL... "
-    db "It is hidden in "
-    db "the waterfall...@"
+    db "   _… FOSS_…    "
+    db "Det er skjult i "
+    db "fossen_…@"
+;    db "...WATERFALL... "
+;    db "It is hidden in "
+;    db "the waterfall...@"
 
 Dialog153::
-    db "    ...BAY...   "
-    db "Your road goes  "
-    db "into the bay... @"
+    db "   _… BUKT_…    "
+    db "Veien din går   "
+    db "inn i bukta_…@"
+;    db "    ...BAY...   "
+;    db "Your road goes  "
+;    db "into the bay... @"
 
 Dialog154::
     db "   ...SHRINE... "
@@ -744,20 +757,25 @@ Dialog155::
 Dialog156::
     db " _… LEIRGAUK_…  "
     db "Leirgaukens     "
-    db "musikk fører _…@"
+    db "musikk fører_…@"
 ;    db "  ...OCARINA... "
 ;    db "The music of the"
 ;    db "Ocarina leads...@"
 
 Dialog157::
-    db "    ...EGG....  "
-    db "The Egg on the  "
-    db "mountain calls!@"
+    db "   _… EGG_…     "
+    db "Egget på fjellet"
+    db "kaller på deg!@"
+;    db "    ...EGG....  "
+;    db "The Egg on the  "
+;    db "mountain calls!@"
 
 Dialog158::
 Dialog159::
-    db "Then YOU sweep  "
-    db "the island!@"
+    db "Da får DU feie  "
+    db "denne øya!@"
+;    db "Then YOU sweep  "
+;    db "the island!@"
 
 Dialog15A::
     db "YAHOO!   I'm    "
@@ -923,18 +941,29 @@ Dialog16F::
     db "the phone!@"
 
 Dialog170::
-    db "Yep, Papahl got "
-    db "lost, just like "
-    db "he said!  Now, I"
-    db "am so famished I"
-    db "can't move!  Can"
-    db "you give me some"
-    db "vittles?        "
-    db "    Yes  Nope<ask>"
+    db "Jupp, Fartein   "
+    db "gikk seg bort,  "
+    db "akkurat som han "
+    db "sa! Nå er jeg   "
+    db "så skrubbsulten "
+    db "at jeg ikke kan "
+    db "røre meg! Har du"
+    db "noen rasjoner?  "
+    db "    Ja   Niks<ask>"
+;    db "Yep, Papahl got "
+;    db "lost, just like "
+;    db "he said!  Now, I"
+;    db "am so famished I"
+;    db "can't move!  Can"
+;    db "you give me some"
+;    db "vittles?        "
+;    db "    Yes  Nope<ask>"
 
 Dialog171::
-    db "You're one cold "
-    db "hombre...@"
+    db "Du er en iskald "
+    db "kis_…@"
+;    db "You're one cold "
+;    db "hombre...@"
 
 Dialog172::
     db "This <pineapple> is so    "
@@ -964,14 +993,23 @@ Dialog176::
     db "thanks again!@"
 
 Dialog177::
-    db "Yep, Papahl got "
-    db "lost, just like "
-    db "he said!  Now, I"
-    db "am so famished I"
-    db "can't move!  Can"
-    db "you give me some"
-    db "vittles?        "
-    db "    Nope Can't<ask>"
+    db "Jupp, Fartein   "
+    db "gikk seg bort,  "
+    db "akkurat som han "
+    db "sa! Nå er jeg   "
+    db "så skrubbsulten "
+    db "at jeg ikke kan "
+    db "røre meg! Har du"
+    db "noen rasjoner?  "
+    db "    Ja   Niks<ask>"
+;    db "Yep, Papahl got "
+;    db "lost, just like "
+;    db "he said!  Now, I"
+;    db "am so famished I"
+;    db "can't move!  Can"
+;    db "you give me some"
+;    db "vittles?        "
+;    db "    Nope Can't<ask>"
 
 Dialog178::
     db "She's had an    "
@@ -1150,8 +1188,10 @@ Dialog18D::
     db "greatest!@"
 
 Dialog18E::
-    db " Here Sleeps The"
-    db " Flying Rooster@"
+    db "   Her hviler   "
+    db "Den flyende hane@"
+;    db " Here Sleeps The"
+;    db " Flying Rooster@"
 
 Dialog18F::
     db "Iz zat zee      "

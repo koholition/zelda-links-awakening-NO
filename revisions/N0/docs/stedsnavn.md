@@ -50,7 +50,7 @@
 | Ukuku Prairie                 | ウクク そうげん                  |  Ulele-sletta        | Ukuku-sletta? Spekuleres i om dette er en japanisering av "ukulele". |
 | Village Library               | むらのとしょかん                 |                     | Bibliotek |
 | Warp Hole                     | ワープのあな                     | Ormehull         ||
-| Weird Mr. Write               | へんなおじさん ライトのいえ      |                     ||
+| Weird Mr. Write               | へんなおじさん ライトのいえ      |                     |Merkelige William eller William den snodige? Den snodige William|
 | Wind Fish's Egg               | せいなるタマゴ                   | Vindfiskens egg     ||
 | Witch's Hut                   | まほうのこなをつくる おばあさん  | Heksas hytte        ||
 | Yarna Desert                  | ヤーナ さばく                    |                     ||

@@ -7,14 +7,14 @@
 | Camera Shop (DX Version only) |                                  | Fotobutikk          ||
 | Cemetery                      | ぼち                             | Kirkegård           ||
 | Color Dungeon                 | 服のダンジョン                   |       Fargekjelleren              | Kanskje «Fargekjelleren» er et greit ordspill på farge + fangekjeller her, selv om vi ikke skal oversette «dungeon» til «fangekjeller» generelt? mvh tobias |
-| Crazy Tracy's Health Spa      | きまぐれトレーシーのくすりやさん | Gale Tales helsespa ||
+| Crazy Tracy's Health Spa      | きまぐれトレーシーのくすりやさん | Gale Tales helsespa |Vurdere salong eller klinikk. kurbad? spahotell |
 | Dream Shrine                  | ユメのほこら                     | Drømmetempelet      ||
 | Eagle's Tower                 | オオワシのとう                   |        Ørnetårnet             | Bare Ørnetårnet?|
 | East of the Bay               | いりえのひがし                   | Østenfor bukta       ||
 | Face Shrine                   | かおのしんでん                   | Ansiktstempelet     ||
 | Fishing Pond                  | つりぼり                         | Fiskedam            |ev. fiskevann?|
 | Goponga Swamp                 | ゴポンガのぬま                   | Symresumpen       | heter anemonesump og slimsump på andre språk. Wikipedia sier at anemoner er knollvekster i symreslekta, hva med Symresumpen? Det rimer fint mvh Julius|
-| Hen House                     | ニワトリごや                     | Hønsehuset          ||
+| Hen House                     | ニワトリごや                     | Hønsehuset          |
 | House By The Bay              | いりえのいえ                     | Huset ved sjøen     | Eller Huset ved bukta? Huset ved havet? |
 | Kanalet Castle                | カナレットのしろ                 |       Elveslottet         | Bekkeslottet? |
 | Key Cavern                    | カギのあなぐら                   | Nøkkelkjelleren          | Nøkkelkjeller pga: The third dungeon, Key Cavern, is a brick building, not a cave. This may be a mistranslation; it's called "Key Cellar" in Japanese and French and "Devil's Mansion" in German. Alternativt Nøkkelhula |

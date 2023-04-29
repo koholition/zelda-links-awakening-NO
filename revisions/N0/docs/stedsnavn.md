@@ -31,7 +31,7 @@
 | Old Man Ulrira's House        | うるりらじいさんのいえ           | Gamle Ulriks hus    | Gamle Ulriks hus|
 | Pothole Field                 | アナボコばたけ                   | Jettegryter         |jaaaa|
 | Quadruplet's House            | ４つごのいえ                     | Firlingenes hus     ||
-| Raft Shop                     | いかだや                         |                     |Flåtebutikken|
+| Raft Shop                     | いかだや                         |                     |Flåtebutikken. eller gi den et navn: Fartsfylte Flåter|
 | Rapids Ride                   | きゅうりゅうすべり               |                    | Strykene? mvh julius. Hvis flåtebutikken, burde ikke dette da være Flåtetur? Elvepadling? Rafting på flåte. Eller noe. Hva med Tømmerrenna? mvh Andreas |
 | Richard's Villa               | リチゃードのべっそう             | Rikards villa       ||
 | Sale's House O' Bananas       | バナナうり セールのいえ          |                     | Skjalgs bananmodneri? |

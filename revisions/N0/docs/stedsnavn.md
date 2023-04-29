@@ -48,7 +48,7 @@
 | Trendy Game                   | いまはやりのゲーム               |                     ||
 | Turtle Rock                   | カメイワ                         | |Skilpaddesteinen? Eller finnes det noe bedre ord for "rock" i denne forstand (altså mer en slags høyde eller kampestein?) |
 | Ukuku Prairie                 | ウクク そうげん                  |  Ulele-sletta        | Ukuku-sletta? Spekuleres i om dette er en japanisering av "ukulele". |
-| Village Library               | むらのとしょかん                 |                     | Bibliotek |
+| Village Library               | むらのとしょかん                 |                     | Bibliotek. Eventuelt Måsebu Bibliotek |
 | Warp Hole                     | ワープのあな                     | Ormehull         ||
 | Weird Mr. Write               | へんなおじさん ライトのいえ      |                     |Merkelige William eller William den snodige? Den snodige William|
 | Wind Fish's Egg               | せいなるタマゴ                   | Vindfiskens egg     ||

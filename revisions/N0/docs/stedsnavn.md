@@ -7,7 +7,7 @@
 | Camera Shop (DX Version only) |                                  | Fotobutikk          ||
 | Cemetery                      | ぼち                             | Kirkegård           ||
 | Color Dungeon                 | 服のダンジョン                   |       Fargekjelleren              | Kanskje «Fargekjelleren» er et greit ordspill på farge + fangekjeller her, selv om vi ikke skal oversette «dungeon» til «fangekjeller» generelt? mvh tobias |
-| Crazy Tracy's Health Spa      | きまぐれトレーシーのくすりやさん | Gale Tales helsespa |Vurdere salong eller klinikk. kurbad? spahotell |
+| Crazy Tracy's Health Spa      | きまぐれトレーシーのくすりやさん | Gale Tales helsespa |Vurdere salong eller klinikk. kurbad? spahotell. helsestue. helsesalong. helseklinikk |
 | Dream Shrine                  | ユメのほこら                     | Drømmetempelet      ||
 | Eagle's Tower                 | オオワシのとう                   |        Ørnetårnet             | Bare Ørnetårnet?|
 | East of the Bay               | いりえのひがし                   | Østenfor bukta       ||

@@ -45,7 +45,7 @@
 | Telephone Booth               | でんわボックス                   | Telefonkiosk        ||
 | Toronbo Shores                | トロンボ かいがん                |                     | Spekuleres i om dette er en japanisering av "trombone". Heter Toronbo/Toronga "kyst" og "strand" på andre språk, men også "Coco" (kokosnøtt?). Hvis vi skal ende med "-le" som Ulele-sletta så kanskje Tromlebredden eller Tromlekysten |
 | Town Tool Shop                | むらのどうぐやさん               |          | Landhandler? |
-| Trendy Game                   | いまはやりのゲーム               |                     ||
+| Trendy Game                   | いまはやりのゲーム               |                     |Klospillet, Premiespillet, Klo & Fang, Klo & Vinn, eller Premiekloa?|
 | Turtle Rock                   | カメイワ                         | |Skilpaddesteinen? Eller finnes det noe bedre ord for "rock" i denne forstand (altså mer en slags høyde eller kampestein?) |
 | Ukuku Prairie                 | ウクク そうげん                  |  Ulele-sletta        | Ukuku-sletta? Spekuleres i om dette er en japanisering av "ukulele". |
 | Village Library               | むらのとしょかん                 |                     | Bibliotek. Eventuelt Måsebu Bibliotek |

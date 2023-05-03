@@ -26,7 +26,7 @@
 | Marin and Tarin's House       | マリンとタリンのいえ             | Marin og Tarins hus                    ||
 | Martha's Bay                  | マーサのいりえ                   | Martas bukt         |Eller Marte?|
 | Mountain Bridge               | つりばし                         |      Fjellbrua        |Fjellbrua?     |
-| Mt. Tamaranch                 | タマランチ やま                  |                     | Tamaranchpiggen? Tamaranchtind? Tegogo-fjellet ... - "tama" kommer nok fra "egg". Hva med et ordspill på "Besseggen"? mvh Tobias |
+| Mt. Tamaranch                 | タマランチ やま                  |                     | Tamaranchpiggen? Tamaranchtind? Tegogo-fjellet ... - "tama" kommer nok fra "egg". Hva med et ordspill på "Besseggen"? mvh Tobias. Tindeggen? Eggetind? Koholinteggen? Eggehøgda? Eggeskaret?  |
 | Mysterious Woods              | ふしぎのもり                     |                     | Den mystiske skogen. Mysterieskogen. Den magiske skogen. Trollskogen? Den forundelige skog.  |
 | Old Man Ulrira's House        | うるりらじいさんのいえ           | Gamle Ulriks hus    | Gamle Ulriks hus|
 | Pothole Field                 | アナボコばたけ                   | Jettegryter         |jaaaa|

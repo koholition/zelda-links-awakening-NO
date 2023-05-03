@@ -38,7 +38,7 @@
 | Seashell Mansion              | かいがらのやかた                 |                     |Hva med rett og slett Sneglehuset eller Sneglehus-huset. heh|
 | Signpost Maze                 | カンバンのめいろ                 | Skiltlabyrint       ||
 | South of the Village          | むらのみなみ                     | Sør for landsbyen   | Eller sydenfor? |
-| Tabahl Wasteland              | タバールのはやし                 |                     | Spekuleres i om dette er en japanisering av "terrible". Heter "Morne Plaine" og "Fratzenwald" på andre språk. |
+| Tabahl Wasteland              | タバールのはやし                 |                     | Spekuleres i om dette er en japanisering av "terrible". Heter "Morne Plaine" og "Fratzenwald" på andre språk. Hva med Ødeholtet? Det er et slags dødt og øde skogholt?  |
 | Tail Cave                     | テールのほらあな                 | Halehula            ||
 | Tal Tal Heights               | タルタル こうち                  | Tipptopphøydene     |Høy Høy Høyder? Her er jeg ganske blank mvh Julius|
 | Tal Tal Mountain Range        | タルタル さんみゃく              | Tipptoppfjellene    ||

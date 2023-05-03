@@ -53,4 +53,4 @@
 | Weird Mr. Write               | へんなおじさん ライトのいえ      |                     |Merkelige William eller William den snodige? Den snodige William|
 | Wind Fish's Egg               | せいなるタマゴ                   | Vindfiskens egg     ||
 | Witch's Hut                   | まほうのこなをつくる おばあさん  | Heksas hytte        ||
-| Yarna Desert                  | ヤーナ さばく                    |                     ||
+| Yarna Desert                  | ヤーナ さばく                    |                     |På tysk er det Durstwüste. Tørsteørkenen. og fransk Dunes de Yarna. Dune. Arrakis. Sand. Yarnasanden. Yarnaørkenen. Yahara. |

@@ -941,14 +941,14 @@ Dialog16F::
     db "the phone!@"
 
 Dialog170::
-    db "Jupp, Fartein   "
+    db "Jepp, Fartein   "
     db "gikk seg bort,  "
     db "akkurat som han "
     db "sa! Nå er jeg   "
     db "så skrubbsulten "
     db "at jeg ikke kan "
     db "røre meg! Har du"
-    db "noen rasjoner?  "
+    db "noe proviant?   "
     db "    Ja   Niks<ask>"
 ;    db "Yep, Papahl got "
 ;    db "lost, just like "

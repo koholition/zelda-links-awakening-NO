@@ -1,4 +1,4 @@
-; ASCII charmap (German flavored)
+; ASCII charmap (Norwegian flavored)
 
 PUSHC
 NEWCHARMAP AsciiCharmap
@@ -92,6 +92,9 @@ charmap "y", $79
 charmap "z", $7A
 
 charmap "+", $7F
+
+charmap "é", $84
+charmap "É", $BB
 
 charmap "Æ", $94
 charmap "Ø", $95

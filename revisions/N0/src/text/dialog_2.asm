@@ -164,9 +164,13 @@ Dialog0B3::
 
 Dialog0B4::
     db "HO HO HO!       "
-    db "I'm your bad guy"
-    db "this time!!     "
+    db "Jeg er slemming-"
+    db "en denne gangen!"
     db "HO HO HO!@"
+;    db "HO HO HO!       "
+;    db "I'm your bad guy"
+;    db "this time!!     "
+;    db "HO HO HO!@"
 
 Dialog0B5::
     db "TSSSK, TSSSK!   "

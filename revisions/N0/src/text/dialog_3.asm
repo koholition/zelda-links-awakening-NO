@@ -11,9 +11,9 @@ Dialog108::
 ;    db "Ulrira.@"
 
 Dialog109::
-    db "Jeg kaller dette "
-    db "«##### oppdager  "
-    db "Bestefar Ulriks  "
+    db "Jeg kaller dette"
+    db "«##### oppdager "
+    db "Bestefar Ulriks "
     db "hemmelighet»!@"
 ;    db "I'll call this  "
 ;    db "'##### Dis-     "
@@ -21,9 +21,9 @@ Dialog109::
 ;    db "Secret!'@"
 
 Dialog10A::
-    db "Stikk av nå      "
-    db "før han finner   "
-    db "deg, #####.@     "
+    db "Stikk av nå     "
+    db "før han finner  "
+    db "deg, #####.@    "
 ;    db "#####, now run  "
 ;    db "away before he  "
 ;    db "finds you.@"

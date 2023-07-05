@@ -928,9 +928,9 @@ Dialog08E::
     db "to play it...@"
 
 Dialog08F::
-    db "Nei nei! Stakkars"
-    db "høne! Gi deg med"
-    db "det der!@"
+    db "Nei nei! Gi deg "
+    db "med det der!    "
+    db "Stakkars høne!@"
 ;    db "No!  No!  Poor  "
 ;    db "hen!  Stop that!@"
 

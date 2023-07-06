@@ -5,7 +5,7 @@ Dialog0A4::
 ;    db "Face Key!@"
 
 Dialog0A5::
-    db "Du fikk fugle-  "
+    db "Du fikk Fugle-  "
     db "nøkkelen!@"
 ;    db "You've got the  "
 ;    db "Bird Key!@"
@@ -24,16 +24,16 @@ Dialog0A7::
     db "Du fikk kom-    "
     db "passet! Nå kan  "
     db "du se hvor      "
-    db "kistenene og    "
-    db "Marerittet      "
-    db "skjuler seg!    "
-    db "Dette kompasset "
-    db "har en ny egen- "
-    db "skap: En tone   "
-    db "forteller deg om"
-    db "en nøkkel er    "
-    db "gjemt i rommet  "
-	db "du går inn i!   "
+    db "kistene og Mare-"
+    db "rittet skjuler  "
+    db "seg! Dette kom- "
+    db "passet har en ny"
+    db "egenskap: En    "
+    db "tone forteller  "
+    db "deg om en nøkkel"
+    db "er gjemt i rom- "
+    db "met du går inn  "
+	db "i!@"
 ;    db "You've got the  "
 ;    db "Compass!  Now,  "
 ;    db "you can see     "
@@ -398,7 +398,7 @@ Dialog0C2::
     db "Ditt neste mål  "
     db "er nordover, i  "
     db "Symresumpen!!   "
-    db "Uhuu, ja!@"
+    db "Uhuu, ja visst!@"
 ;    db "Hoooot!  That is"
 ;    db "an 'Instrument  "
 ;    db "of the Sirens!' "
@@ -893,7 +893,7 @@ Dialog0D5::
 
 Dialog0D6::
 Dialog0D7::
-    db "_…#####, du har "
+    db "_… #####, du har"
     db "beseiret alle   "
     db "Marerittene!    "
     db "Stig opp trappen"
@@ -934,7 +934,7 @@ Dialog0D9::
     db "sies at du ikke "
     db "kan forlate øya "
     db "før du vekker   "
-    db "vindfisken_…    "
+    db "Vindfisken_…    "
     db "Nå bør du dra   "
     db "nordover, til   "
     db "den mystiske    "
@@ -1000,9 +1000,9 @@ Dialog0DC::
     db "litt med oss og "
     db "høre på når vi  "
     db "jammer? For 300 "
-    db "rupier, kan du  "
-    db "få sniklytte på "
-    db "en uutgitt låt! "
+    db "rupier kan du få"
+    db "sniklytte på en "
+    db "uutgitt låt!    "
     db "Hva gjør du?    "
     db "   Betal  Gå<ask>"
 ;    db "Ribbit!  Ribbit!"
@@ -1236,9 +1236,9 @@ Dialog0ED::
     db "Du fikk speil-  "
     db "skjoldet! Nå kan"
     db "du reflektere de"
-    db "strålene du før "
-    db "ikke kunne      "
-    db "blokkere!@"
+    db "strålene du ikke"
+    db "kunne blokkere  "
+    db "før!@"
 ;    db "You've got the  "
 ;    db "Mirror Shield!  "
 ;    db "You can now turn"
@@ -1263,8 +1263,9 @@ Dialog0EF::
     db "skjult snegle-  "
     db "hus! Samler du  "
     db "mange av disse, "
-    db "vil helt sikkert"
-    db "noe bra skje! @"
+    db "vil det helt    "
+    db "sikkert skje noe"
+    db "bra!@"
 ;    db "You found a     "
 ;    db "Secret Seashell!"
 ;    db "If you collect a"
@@ -1294,7 +1295,7 @@ Dialog0F1::
 
 Dialog0F2::
     db "   Foss ved     "
-    db "   tempelet@"
+    db "   Tempelet@"
 ;   db "Waterfall at the"
 ;   db "    Shrine@"
 
@@ -1449,10 +1450,10 @@ Dialog0FE::
 ;    db "bit in my hut?@"
 
 Dialog0FF::
-    db "Hei! Hva gjørr'u"
+    db "Hei! Hva gjør'u "
     db "i kista mi?!    "
-    db "Hvor har'ru lært"
-    db "å gjøre sånt a?!@"
+    db "Hvor har'u lært "
+    db "å gjøre sånt'a?!@"
 ;    db "Hey!  What are  "
 ;    db "ya doin' in my  "
 ;    db "chest?!  Where'd"
@@ -1460,50 +1461,50 @@ Dialog0FF::
 ;    db "such a thing?!@"
 
 Dialog100::
-    db "Du fikk full-   "
+    db "Du fikk Full-   "
     db "månecelloen!@"
 ;    db "You've got the  "
 ;    db "Full Moon Cello!@"
 
 Dialog101::
     db "Du fikk         "
-    db "konkyliehornet!@"
+    db "Konkyliehornet!@"
 ;    db "You've got the  "
 ;    db "Conch Horn!@"
 
 Dialog102::
-    db "Du fikk sjø-    "
+    db "Du fikk Sjø-    "
     db "liljens bjelle!@"    
 ;	db "You've got the  "
 ;    db "Sea Lily's Bell!@"
 
 Dialog103::
-    db "Du fikk bølge-  "
+    db "Du fikk Bølge-  "
     db "kamharpen!@"
 ;    db "You've got the  "
 ;    db "Surf Harp!@"
 
 Dialog104::
-    db "Du fikk vind-   "
+    db "Du fikk Vind-   "
     db "marimbaen!@"
 ;    db "You've got the  "
 ;    db "Wind Marimba!@"
 
 Dialog105::
-    db "Du fikk korall- "
+    db "Du fikk Korall- "
     db "triangelet!@"
 ;    db "You've got the  "
 ;    db "Coral Triangle!@"
 
 Dialog106::
-    db "Du fikk kvelds- "
+    db "Du fikk Kvelds- "
     db "roens orgel!@"
 ;    db "You've got the  "
 ;    db "Organ of        "
 ;    db "  Evening Calm!@"
 
 Dialog107::
-    db "Du fikk torden- "
+    db "Du fikk Torden- "
     db "trommen!@"
 ;    db "You've got the  "
 ;    db "Thunder Drum!@"	

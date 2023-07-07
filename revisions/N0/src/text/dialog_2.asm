@@ -169,8 +169,8 @@ Dialog0B3::
 Dialog0B4::
     db "HO HO HO!       "
     db "Jeg er slemming-"
-    db "en denne gangen!"
-    db "HO HO HO!@"
+    db "en på menyen i  "
+    db "dag!! HO HO HO!@"
 ;    db "HO HO HO!       "
 ;    db "I'm your bad guy"
 ;    db "this time!!     "

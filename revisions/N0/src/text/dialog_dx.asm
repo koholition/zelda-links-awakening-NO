@@ -1,12 +1,20 @@
 Dialog24E::
-    db "Have you heard  "
-    db "of the Flying   "
-    db "Rooster?  They  "
-    db "say it lived in "
-    db "Mabe Village a  "
-    db "long time ago..."
-    db "I wonder if it's"
-    db "true...@"
+    db "Har du hørt om  "
+    db "Den flygende    "
+    db "hane? De sier   "
+    db "at den bodde i  "
+    db "Måsebu for lenge"
+    db "siden_… Jeg     "
+    db "lurer på om det "
+    db "er sant_… @"
+;    db "Have you heard  "
+;    db "of the Flying   "
+;    db "Rooster?  They  "
+;    db "say it lived in "
+;    db "Mabe Village a  "
+;    db "long time ago..."
+;    db "I wonder if it's"
+;    db "true...@"
 
 Dialog24F::
     db "Å, lille Marin_…"
@@ -86,6 +94,7 @@ Dialog255::
 
 Dialog256::
     db ". . . . .@"
+;    db ". . . . .@"
 
 Dialog257::
     db "Denne klippen   "
@@ -119,24 +128,32 @@ Dialog259::
 ;    db "call it . . .@"
 
 Dialog25A::
-    db "You've got the  "
-    db "Blue Clothes!   "
-    db "Your damage will"
-    db "be reduced by   "
-    db "half!@"
+    db "Du fikk den blå "
+    db "kjortelen! Den  "
+    db "vil halvere     "
+    db "skaden du tar! @"
+;    db "You've got the  "
+;    db "Blue Clothes!   "
+;    db "Your damage will"
+;    db "be reduced by   "
+;    db "half!@"
 
 Dialog25B::
-    db "You've got the  "
-    db "Red Clothes!    "
-    db "Your body is    "
-    db "full of energy! @"
+    db "Du fikk den røde"
+    db "kjortelen!      "
+    db "Kroppen din er  "
+    db "full av energi! @"
+;    db "You've got the  "
+;    db "Red Clothes!    "
+;    db "Your body is    "
+;    db "full of energy! @"
 
 Dialog25C::
     db "Rød for angrep, "
     db "blå for forsvar."
     db "Hvilken av dem  "
     db "velger du?      "
-    db "     RØD  BLÅ<ask>"
+    db "    RØD  BLÅ<ask>"
 ;    db "Red for offense,"
 ;    db "blue for        "
 ;    db "defense. Which  "
@@ -145,14 +162,16 @@ Dialog25C::
 
 Dialog25D::
     db "Er du sikker?   "
-    db "    JA  NEI<ask>"
+    db "    JA   NEI<ask>"
 ;    db "Are you sure?   "
 ;    db "    YES  NO<ask>"
 
 Dialog25E::
-    db "The fairy queen "
-    db "is waiting for  "
-    db "you.@"
+    db "Dronningfeen    "
+    db "venter på deg.@ "
+;    db "The fairy queen "
+;    db "is waiting for  "
+;    db "you.@"
 
 Dialog25F::
     db "Do you have the "

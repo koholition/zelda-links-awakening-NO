@@ -773,12 +773,21 @@ TitleScreenSfxHandler::
 Data_001_7364::
     db   $9B, $B7, $0D, $65, $66, $67, $68, $69   ; $7364 ; $7364
     db   $6A, $6B, $6C, $6D, $6E, $6F, $70, $71   ; $736C ; $736C
-    db   $72, $00                                 ; $7374 ; $7374
+    db   $72
+
+IF LANG_NO
+    db   $9B, $D8, $0B
+    db   $F0, $F1, $F2, $F3, $F4, $F5, $F6, $F7, $F8, $F9, $FA, $FB
+
+    db   $9B, $F8, $0B
+    db   $FC, $FD, $FE, $FF, $00, $01, $02, $03, $04, $05, $06, $07
+ENDC
+    db   $00                                 ; $7374 ; $7374
 
 IntroStageAHandler::
     ld   de, Data_001_7364                        ; $7376: $11 $64 $73
     ld   hl, wDrawCommand                         ; $7379: $21 $01 $D6
-    ld   c, $12                                   ; $737C: $0E $12
+    ld   c, IntroStageAHandler - Data_001_7364                                  ; $737C: $0E $12
 
 .loop
     ld   a, [de]                                  ; $737E: $1A

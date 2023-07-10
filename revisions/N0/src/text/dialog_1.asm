@@ -628,7 +628,7 @@ Dialog030::
     db "   200 rupier!  "
     db "Virker dyrt!    "
     db "  Kjøp  Glem det"
-	db "<ask>"
+    db "<ask>"
 ;    db "  Deluxe Shovel "
 ;    db "   200 Rupees!  "
 ;    db "Seems expensive!"

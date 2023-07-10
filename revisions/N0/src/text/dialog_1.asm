@@ -535,7 +535,7 @@ Dialog026::
     db "slå meg?! Okei, "
     db "gutter, få denne"
     db "gjøken bort fra "
-    db "mitt åsyn!@"
+    db "trynet mitt!@"
 ;    db "Hey runt!  You  "
 ;    db "think you can   "
 ;    db "take me?!  All  "

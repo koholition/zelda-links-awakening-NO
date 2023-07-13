@@ -1117,7 +1117,7 @@ Dialog07C::
 
 Dialog07D::
     db " Madam MjauMjau "
-    db "  Vokt deg for  "
+    db "  Vokt Dem for  "
     db "     hunden!@"
 ;    db "Madam MeowMeow's"
 ;    db "     House      "

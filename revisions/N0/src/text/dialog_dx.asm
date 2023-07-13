@@ -1,12 +1,20 @@
 Dialog24E::
-    db "Have you heard  "
-    db "of the Flying   "
-    db "Rooster?  They  "
-    db "say it lived in "
-    db "Mabe Village a  "
-    db "long time ago..."
-    db "I wonder if it's"
-    db "true...@"
+    db "Har du hørt om  "
+    db "Den flygende    "
+    db "hane? De sier   "
+    db "at den bodde i  "
+    db "Måsebu for lenge"
+    db "siden_… Jeg     "
+    db "lurer på om det "
+    db "er sant_… @"
+;    db "Have you heard  "
+;    db "of the Flying   "
+;    db "Rooster?  They  "
+;    db "say it lived in "
+;    db "Mabe Village a  "
+;    db "long time ago..."
+;    db "I wonder if it's"
+;    db "true...@"
 
 Dialog24F::
     db "Å, lille Marin_…"
@@ -86,6 +94,7 @@ Dialog255::
 
 Dialog256::
     db ". . . . .@"
+;    db ". . . . .@"
 
 Dialog257::
     db "Denne klippen   "
@@ -119,24 +128,32 @@ Dialog259::
 ;    db "call it . . .@"
 
 Dialog25A::
-    db "You've got the  "
-    db "Blue Clothes!   "
-    db "Your damage will"
-    db "be reduced by   "
-    db "half!@"
+    db "Du fikk den blå "
+    db "kjortelen! Den  "
+    db "vil halvere     "
+    db "skaden du tar! @"
+;    db "You've got the  "
+;    db "Blue Clothes!   "
+;    db "Your damage will"
+;    db "be reduced by   "
+;    db "half!@"
 
 Dialog25B::
-    db "You've got the  "
-    db "Red Clothes!    "
-    db "Your body is    "
-    db "full of energy! @"
+    db "Du fikk den røde"
+    db "kjortelen!      "
+    db "Kroppen din er  "
+    db "full av energi! @"
+;    db "You've got the  "
+;    db "Red Clothes!    "
+;    db "Your body is    "
+;    db "full of energy! @"
 
 Dialog25C::
     db "Rød for angrep, "
     db "blå for forsvar."
     db "Hvilken av dem  "
     db "velger du?      "
-    db "     RØD  BLÅ<ask>"
+    db "    RØD  BLÅ<ask>"
 ;    db "Red for offense,"
 ;    db "blue for        "
 ;    db "defense. Which  "
@@ -145,20 +162,25 @@ Dialog25C::
 
 Dialog25D::
     db "Er du sikker?   "
-    db "    JA  NEI<ask>"
+    db "    JA   NEI<ask>"
 ;    db "Are you sure?   "
 ;    db "    YES  NO<ask>"
 
 Dialog25E::
-    db "The fairy queen "
-    db "is waiting for  "
-    db "you.@"
+    db "Dronningfeen    "
+    db "venter på deg.@ "
+;    db "The fairy queen "
+;    db "is waiting for  "
+;    db "you.@"
 
 Dialog25F::
-    db "Do you have the "
-    db "powder? If not, "
-    db "you must go     "
-    db "back.@"
+    db "Har du pulveret?"
+    db "Hvis ikke, må du"
+    db "gå tilbake.@"
+;    db "Do you have the "
+;    db "powder? If not, "
+;    db "you must go     "
+;    db "back.@"
 
 Dialog260::
     db "Vi har aldri    "
@@ -169,7 +191,7 @@ Dialog260::
     db "er jeg blå!     "
     db "Hvilken farge er"
     db "klærne mine?    "
-    db "     Rød  Blå<ask>"
+    db "    Rød  Blå<ask>"
 ;    db "Our colors are  "
 ;    db "never the same! "
 ;    db "If I am red, he "
@@ -242,10 +264,10 @@ Dialog265::
 ;    db "anyone.@"
 
 Dialog266::
-    db "  'Fargelære'   "
+    db "  «Fargelære»   "
     db "Vil du lese     "
     db "denne boka?     "
-    db "    JA  NEI<ask>"
+    db "    JA   NEI<ask>"
 ;    db "Do you want to  "
 ;    db "read this book? "
 ;    db "    YES  NO<ask>"
@@ -295,7 +317,7 @@ Dialog268::
     db "velg blå.       "
     db "Hvilken kraft   "
     db "vil du ha?      "
-    db "     RØD  BLÅ<ask>"
+    db "    RØD  BLÅ<ask>"
 ;    db "Welcome, #####. "
 ;    db "I admire you for"
 ;    db "coming this far."
@@ -381,8 +403,8 @@ Dialog270::
     db "Hei, det der ser"
     db "veldig bra ut!  "
     db "Jeg kaller det  "
-    db "«##### leker med "
-    db "VovVoV»! Kom deg "
+    db "«##### leker med"
+    db "VovVoV»! Kom deg"
     db "nærmere VovVov!@"
 ;    db "Hey, that looks "
 ;    db "great! I'll call"
@@ -393,6 +415,7 @@ Dialog270::
 
 Dialog271::
     db "Grrrr!@"
+;    db "Grrrr!@"
 
 Dialog272::
     db "#####, gå       "
@@ -402,6 +425,7 @@ Dialog272::
 
 Dialog273::
     db "Grrrr! Grrrr!!@"
+;    db "Grrrr! Grrrr!!@"
 
 Dialog274::
     db "Mye nærmere! Ok,"
@@ -414,6 +438,8 @@ Dialog274::
 Dialog275::
     db "Grrrr! Grrrr!!  "
     db "GRRRR!@"
+;    db "Grrrr! Grrrr!!  "
+;    db "GRRRR!@"
 
 Dialog276::
     db "Haha! Gjør det! "
@@ -460,7 +486,7 @@ Dialog279::
 ;    db "the earth!!@"
 
 Dialog27A::
-    db "Puh! For en    "
+    db "Puh! For en     "
     db "overraskelse!@"
 ;    db "Whew!  What a   "
 ;    db "surprise!@"
@@ -473,23 +499,35 @@ Dialog27B::
 ;    db "Are you okay?!  "
 ;    db "#####?@"
 
-Dialog27C::
-    db "Hey Mon!@"
+Dialog27C:: ;cukeman
+    db "Halloi! Kjøre-  "
+    db "går!@"
+;    db "Hey Mon!@"
 
-Dialog27D::
-    db "You know me, I  "
-    db "like short names"
-    db "the best...@"
+Dialog27D:: ;cukeman
+    db "Det er mitt     "
+    db "sverd nu gutten "
+    db "min, Slusken er "
+    db "jeg og jeg sel- "
+    db "ger hver dag!@"
+;    db "You know me, I  "
+;    db "like short names"
+;    db "the best...@"
 
-Dialog27E::
-    db "It can display  "
-    db "millions of     "
-    db "polygons!@"
+Dialog27E:: ;cukeman 
+    db "Hver dag er en  "
+    db "ny dag da_…@"
+;    db "It can display  "
+;    db "millions of     "
+;    db "polygons!@"
 
-Dialog27F::
-    db "I definitely    "
-    db "need it, as soon"
-    db "as possible!@"
+Dialog27F:: ;cukeman 
+    db "En anden gang   "
+    db "#####, en anden "
+    db "gang!@"
+;    db "I definitely    "
+;    db "need it, as soon"
+;    db "as possible!@"
 
 Dialog280::
     db "De piggete kan  "
@@ -500,19 +538,23 @@ Dialog280::
 ;    db "a shield...@"
 
 Dialog281::
-    db "First, defeat   "
-    db "the imprisoned  "
-    db "Pols Voice,     "
-    db "Last, Stalfos...@@"
+    db "Først, beseir   "
+    db "den fengslede   "
+    db "Hurlumhare,     "
+    db "Til slutt,      "
+    db "Skallos_… @"
+;    db "First, defeat   "
+;    db "the imprisoned  "
+;    db "Pols Voice,     "
+;    db "Last, Stalfos...@@"
 
 Dialog282::
     db "Langt unna_… Vær"
-    db "ikke redd, løp  "
+    db "ikke redd, spurt"
     db "og fly!@"
 ;    db "Far away...     "
 ;    db "Do not fear,    "
 ;    db "dash and fly!@"
-; løp er kanskje ikke like bra som dash? 
 
 Dialog283::
     db "Den skinnende   "
@@ -540,7 +582,7 @@ Dialog285::
 
 Dialog286::
     db "Gåten er løst   "
-    db "når pillarene   "
+    db "når pilarene    "
     db "faller!@"
 ;    db "The riddle is   "
 ;    db "solved when the "
@@ -572,11 +614,14 @@ Dialog288::
 ; for muntlig kanskje? 
 
 Dialog289::
-    db "Make every block"
-    db "design the same."
-    db "A new path will "
-    db "open.@"
-; Hva skal vi kalle 'blocks'? Blokker? Klosser? Syns kanskje klosser er best. 
+    db "Når mønsteret er"
+    db "likt vil en ny  "
+    db "sti åpne seg.@"
+;    db "Make every block"
+;    db "design the same."
+;    db "A new path will "
+;    db "open.@"
+; Hva skal vi kalle 'blocks'? Blokker? Klosser? Syns kanskje klosser er best. Det blir blokk mvh andreas
 
 Dialog28A::
     db "Deler av gulvet "
@@ -603,11 +648,12 @@ Dialog28B::
 ;    db "plosive.@"
 
 Dialog28C::
-    db "Pirk med sverdet "
-    db "på mistenkelige  "
-    db "deler av veggen  "
-    db "og legg merke til"
-    db "lyden den lager.@"
+    db "Pirk med sverdet"
+    db "på mistenkelige "
+    db "deler av veggen "
+    db "og legg merke   "
+    db "til lyden den   "
+    db "lager.@"
 ;    db "Poke suspicious "
 ;    db "parts of the    "
 ;    db "wall with your  "
@@ -648,11 +694,15 @@ Dialog28F::
 ; litt usikker på denne også
 
 Dialog290::
-    db "If you can't go "
-    db "over the poles, "
-    db "try throwing    "
-    db "things you have "
-    db "in your hands.@"
+    db "Hvis du ikke kan"
+    db "gå over gjerdet,"
+    db "prøv å kaste det"
+    db "du har i hånda.@"
+;    db "If you can't go "
+;    db "over the poles, "
+;    db "try throwing    "
+;    db "things you have "
+;    db "in your hands.@"
 
 Dialog291::
     db "Hopp ned fra    "
@@ -690,7 +740,7 @@ Dialog293::
 Dialog294::
     db "La oss ta et    "
     db "bilde!          "
-    db "    JA  NEI<ask>"
+    db "    JA   NEI<ask>"
 ;    db "Let's take a    "
 ;    db "picture!        "
 ;    db "    YES  NO<ask>"
@@ -699,7 +749,7 @@ Dialog295::
     db "Ikke noe bilde?!"
     db "Driver du gjøn  "
     db "med meg?        "
-    db "    Ja  Nei nei<ask>"
+    db "    Ja   Nei nei<ask>"
 ;    db "No picture?! Are"
 ;    db "you pullin' my  "
 ;    db "leg?            "
@@ -711,9 +761,13 @@ Dialog296::
 ;    db "What a bummer!@"
 
 Dialog297::
-    db "Beautiful! I'll "
-    db "call this 'Game "
-    db "Over.'@"
+    db "Nydelig! Jeg    "
+    db "kaller bildet   "
+    db "«Spillet er     "
+    db "over».@"
+;    db "Beautiful! I'll "
+;    db "call this 'Game "
+;    db "Over.'@"
 
 Dialog298::
     db "Hva heter du,   "
@@ -733,7 +787,7 @@ Dialog298::
 ;    db "leave!@"
 
 Dialog299::
-    db "La oss se om vi "
+    db "Vi får se om vi "
     db "klarer å fylle  "
     db "opp det albumet!@"
 ;    db "Let's see if we "

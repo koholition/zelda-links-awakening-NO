@@ -444,7 +444,7 @@ Dialog275::
 Dialog276::
     db "Haha! Gjør det! "
     db "Gjør det! Gjør  "
-    db "det meeer! _… _…"
+    db "det meeer!_…_…  "
     db "Hæ? Nei, det er "
     db "ingen ting_… Jeg"
     db "mente det ikke.@"

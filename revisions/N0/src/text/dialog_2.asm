@@ -1394,7 +1394,7 @@ Dialog0F9::
     db "Du er flink!    "
     db "Du er en proff, "
     db "ikke sant?      "
-    db "  _… _… _… _…   "
+    db "... ... ... ... "
     db "Vel, stikk av!  "
     db "Proffer får ikke"
     db "lov til å være  "

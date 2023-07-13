@@ -616,7 +616,7 @@ Dialog288::
 Dialog289::
     db "Når mønsteret er"
     db "likt vil en ny  "
-    db "sti åpne seg@   "
+    db "sti åpne seg.@"
 ;    db "Make every block"
 ;    db "design the same."
 ;    db "A new path will "
@@ -695,7 +695,7 @@ Dialog28F::
 
 Dialog290::
     db "Hvis du ikke kan"
-    db "gå over gjerdet "
+    db "gå over gjerdet,"
     db "prøv å kaste det"
     db "du har i hånda.@"
 ;    db "If you can't go "

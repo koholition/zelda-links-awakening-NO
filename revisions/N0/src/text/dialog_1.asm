@@ -937,43 +937,61 @@ Dialog055::
 ;    db "over the place!@"
 
 Dialog056::
-    db "Level 1--       "
-    db "     Tail Cave@"
+    db "Nivå 1--        "
+    db "        Halehula@"
+;    db "Level 1--       "
+;    db "     Tail Cave@"
 
 Dialog057::
-    db "Level 2--       "
-    db "   Bottle Grotto@"
+    db "Nivå 2--        "
+    db "    Flaskegrotta@"
+;    db "Level 2--       "
+;    db "   Bottle Grotto@"
 
 Dialog058::
-    db "Level 3--       "
-    db "      Key Cavern@"
+    db "Nivå 3--        "
+    db " Nøkkelkjelleren@"
+;    db "Level 3--       "
+;    db "      Key Cavern@"
 
 Dialog059::
-    db "Level 4--       "
-    db " Angler's Tunnel@"
+    db "Nivå 4--        "
+    db "  Marulktunnelen@"
+;    db "Level 4--       "
+;    db " Angler's Tunnel@"
 
 Dialog05A::
-    db "Level 5--       "
-    db "   Catfish's Maw@"
+    db "Nivå 5--        "
+    db "      Mallegapet@"
+;    db "Level 5--       "
+;    db "   Catfish's Maw@"
 
 Dialog05B::
-    db "Level 6--       "
-    db "     Face Shrine@"
+    db "Nivå 6--        "
+    db " Ansiktstempelet@"
+;    db "Level 6--       "
+;    db "     Face Shrine@"
 
 Dialog05C::
-    db "Level 7--       "
-    db "   Eagle's Tower@"
+    db "Nivå 7--        "
+    db "      Ørnetårnet@"
+;    db "Level 7--       "
+;    db "   Eagle's Tower@"
 
 Dialog05D::
-    db "Level 8--       "
-    db "     Turtle Rock@"
+    db "Nivå 8--        "
+    db " Skilpaddeberget@"
+;    db "Level 8--       "
+;    db "     Turtle Rock@"
 
 Dialog05E::
-    db "Wind Fish's Egg @"
+    db "Vindfiskens egg@"
+;    db "Wind Fish's Egg @"
 
 Dialog05F::
 Dialog060::
-    db "Mountain Bridge @"
+    db "Fjellbrua@"
+;    db "Mountain Bridge @"
 
 Dialog061::
     db "Skjalgs banan-  "
@@ -982,134 +1000,183 @@ Dialog061::
 ;    db "    Bananas@"
 
 Dialog062::
-    db "Pothole Field@"
+    db "Jettegryter@"
+;    db "Pothole Field@"
 
 Dialog063::
-    db "    House By    "
-    db "     The Bay@"
+    db "    Huset ved   "
+    db "      sjøen@"
+;    db "    House By    "
+;    db "     The Bay@"
 
 Dialog064::
-    db "   Trendy Game@"
+    db "    Klokroken@"
+;    db "   Trendy Game@"
 
 Dialog065::
-    db "  Town Tool Shop@"
+    db "   Landhandler@"
+;    db "  Town Tool Shop@"
 
 Dialog066::
-    db "Marin and       "
-    db "   Tarin's House@"
+    db "Marin og        "
+    db "      Tarins hus@"
+;    db "Marin and       "
+;    db "   Tarin's House@"
 
 Dialog067::
-    db "   Witch's Hut@"
+    db "  Heksas hytte@"
+;    db "   Witch's Hut@"
 
 Dialog068::
-    db "  Yarna Desert@"
+    db " Yahara-ørkenen@"
+;    db "  Yarna Desert@"
 
 Dialog069::
-    db "  Ukuku Prairie@"
+    db "  Ulele-sletta@"
+;    db "  Ukuku Prairie@"
 
 Dialog06A::
-    db "Mysterious Woods@"
+    db " Mysterieskogen@"
+;    db "Mysterious Woods@"
 
 Dialog06B::
-    db "  Mt. Tamaranch @"
+    db "   Tindeggen@"
+;    db "  Mt. Tamaranch @"
 
 Dialog06C::
-    db "     Tal Tal    "
-    db " Mountain Range @"
+    db "   Tipptopp-    "
+    db "   fjellene@"
+;    db "     Tal Tal    "
+;    db " Mountain Range @"
 
 Dialog06D::
-    db "  Signpost Maze @"
+    db "  Skiltlabyrint@"
+;    db "  Signpost Maze @"
 
 Dialog06E::
-    db "  Mabe Village  @"
+    db " Måsebu landsby@"
+;    db "  Mabe Village  @"
 
 Dialog06F::
-    db " Animal Village @"
+    db " Snutebu landsby@"
+;    db " Animal Village @"
 
 Dialog070::
-    db "    Cemetery    @"
+    db "    Kirkegård   @"
+;    db "    Cemetery    @"
 
 Dialog071::
-    db "   Rapids Ride  @"
+    db "Strømmende stryk@"
+;    db "   Rapids Ride  @"
 
 Dialog072::
-    db "Koholint Prairie@"
+    db " Koholint-sletta@"
+;    db "Koholint Prairie@"
 
 Dialog073::
-    db " Toronbo Shores@"
+    db "  Tromlekysten@"
+;    db " Toronbo Shores@"
 
 Dialog074::
-    db "  Martha's Bay@"
+    db "   Martes bukt@"
+;    db "  Martha's Bay@"
 
 Dialog075::
-    db "East of the Bay@"
+    db " Østenfor bukta@"
+;    db "East of the Bay@"
 
 Dialog076::
-    db "  Goponga Swamp@"
+    db "   Symresumpen@"
+;    db "  Goponga Swamp@"
 
 Dialog077::
-    db "   Face Shrine @"
+    db " Ansiktstempelet@"
+;    db "   Face Shrine @"
 
 Dialog078::
-    db " Kanalet Castle@"
+    db "   Elveslottet@"
+;    db " Kanalet Castle@"
 
 Dialog079::
-    db "Tal Tal Heights@"
+    db " Tipptopphøydene@"
+;    db "Tal Tal Heights@"
 
 Dialog07A::
-    db "Tabahl Wasteland@"
+    db "   Dødemarken@"
+;    db "Tabahl Wasteland@"
 
 Dialog07B::
-    db "  South of the  "
-    db "    Village@"
+    db "     Sør for    "
+    db "    landsbyen@"
+;    db "  South of the  "
+;    db "    Village@"
 
 Dialog07C::
-    db "  Fishing Pond  @"
+    db "    Fiskedam@"
+;    db "  Fishing Pond  @"
 
 Dialog07D::
-    db "Madam MeowMeow's"
-    db "     House      "
-    db " Beware of Dog!@"
+    db " Madam MjauMjau "
+    db "  Vokt Dem for  "
+    db "     hunden!@"
+;    db "Madam MeowMeow's"
+;    db "     House      "
+;    db " Beware of Dog!@"
 
 Dialog07E::
-    db "Old Man Ulrira's"
-    db "     House      @"
+    db "Gamle ulriks hus@"
+;    db "Old Man Ulrira's"
+;    db "     House      @"
 
 Dialog07F::
     db "Weird Mr. Write @"
 
 Dialog080::
-    db " Crazy Tracy's  "
-    db "  Health Spa@"
+    db "   Gale Tales   "
+    db "    helsespa@"
+;    db " Crazy Tracy's  "
+;    db "  Health Spa@"
 
 Dialog081::
-    db "Quadruplet's    "
-    db "      House@"
+    db "Firlingenes     "
+    db "       hus@"
+;    db "Quadruplet's    "
+;    db "      House@"
 
 Dialog082::
-    db "  Dream Shrine  @"
+    db " Drømmetempelet@"
+;    db "  Dream Shrine  @"
 
 Dialog083::
-    db "Telephone Booth "
-    db "<down> Signpost Maze @"
+    db "Telefonkiosk    "
+    db "<down> Skiltlabyrint@"
+;    db "Telephone Booth "
+;    db "<down> Signpost Maze @"
 
 Dialog084::
-    db "Seashell Mansion@"
+    db "Sneglehuset@"
+;    db "Seashell Mansion@"
 
 Dialog085::
-    db "Richard's Villa @"
+    db "Rikards villa @"
+;    db "Richard's Villa @"
 
 Dialog086::
-    db "     Hen House  @"
+    db "   Hønsehuset@"
+;    db "     Hen House  @"
 
 Dialog087::
-    db "Village Library @"
+    db "Måsebu bibliotek@"
+;    db "Village Library @"
 
 Dialog088::
-    db "    Raft Shop   @"
+    db "   Fartsfylte   "
+    db "     flåter@"
+;    db "    Raft Shop   @"
 
 Dialog089::
-    db "    Warp Hole   @"
+    db "    Ormehull@"
+;    db "    Warp Hole   @"
 
 Dialog08A::
     db "Denne steinen   "

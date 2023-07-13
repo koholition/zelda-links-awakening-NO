@@ -33,7 +33,7 @@ Dialog0A7::
     db "deg om en nøkkel"
     db "er gjemt i rom- "
     db "met du går inn  "
-	db "i!@"
+    db "i!@"
 ;    db "You've got the  "
 ;    db "Compass!  Now,  "
 ;    db "you can see     "
@@ -61,7 +61,7 @@ Dialog0A8::
 
 Dialog0A9::
     db "Du fikk mare-   "
-    db "rittets nøkkel! "
+    db "rittnøkkelen!   "
     db "Nå kan du åpne  "
     db "døra til mare-  "
     db "rittets reir!@"
@@ -145,7 +145,7 @@ Dialog0B2::
     db "GULP!  GULP!    "
     db "BLRRRG!  MAAAT! "
     db "BLUUUUBB!  GULP!@"    
-;	db "BLOOOP! BLOOOP! "
+;    db "BLOOOP! BLOOOP! "
 ;    db "  GLUB!  GLUB!  "
 ;    db "OGGGH!  FOOOOD! "
 ;    db "BLOOOOP!  GLUB!@"
@@ -1412,12 +1412,12 @@ Dialog0FA::
 ;    db "Go away!@"
 
 Dialog0FB::
-    db "Slutt opp!@"
+    db "Gi deg!@"
 ;    db "Quit it!@"
 
 Dialog0FC::
     db "Dette er ikke en"
-    db "kiste_… Hva?    "
+    db "kommode… Hva?   "
     db "Visste du det?  "
     db "Greit.@"
 ;    db "This is not a   "
@@ -1427,8 +1427,8 @@ Dialog0FC::
 
 Dialog0FD::
     db "##### sjekket   "
-    db "kista. Wow! For "
-    db "en fin kiste!@"
+    db "kommoden. Jepp! "
+    db "Alt ser bra ut!@"
 ;    db "##### checked   "
 ;    db "the chest.  Wow!"
 ;    db "This is a nice  "
@@ -1451,7 +1451,7 @@ Dialog0FE::
 
 Dialog0FF::
     db "Hei! Hva gjør'u "
-    db "i kista mi?!    "
+    db "i kommoden min?!"
     db "Hvor har'u lært "
     db "å gjøre sånt'a?!@"
 ;    db "Hey!  What are  "
@@ -1475,7 +1475,7 @@ Dialog101::
 Dialog102::
     db "Du fikk Sjø-    "
     db "liljens bjelle!@"    
-;	db "You've got the  "
+;    db "You've got the  "
 ;    db "Sea Lily's Bell!@"
 
 Dialog103::
@@ -1507,4 +1507,4 @@ Dialog107::
     db "Du fikk Torden- "
     db "trommen!@"
 ;    db "You've got the  "
-;    db "Thunder Drum!@"	
+;    db "Thunder Drum!@"

@@ -435,7 +435,7 @@ Dialog01B::
 ;    db "cash!@"
 
 Dialog01C::
-    db " _… _… _… _… _… "
+    db "... ... ... ... "
     db "Men jeg vil ikke"
     db "selge den til   "
     db "deg!@"

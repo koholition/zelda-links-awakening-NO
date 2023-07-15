@@ -113,6 +113,7 @@ Dialog196::
     db "Den virker helt "
     db "oppslukt i      "
     db "Marins sang!@"
+;   db "... ... ... ... "
 ;   db "It seems to be  "
 ;   db "totally absorbed"
 ;   db "in Marin's song!@"
@@ -171,19 +172,19 @@ Dialog19A::
 ;   db "Hearts are full!@"
 
 Dialog19B::
-    db "Ja, jeg er den  "
-    db "Schnappi Dona-  "
-    db "vitch! Havfrue- "
-    db "shtatuen nede   "
-    db "ved den bukt er "
-    db "mitt mesterverk!"
+    db "Ja, jeg err Sjur"
+    db "Donavitch! Hav- "
+    db "fruschtatuen ved"
+    db "ved bukta err   "
+    db "mitt mesterwerk!"
     db "Når sant skal   "
-    db "sies, den shtatue"
-    db "er ikke ferdig_…"
-    db "Den kunst, den_…"
+    db "sies, err den   "
+    db "schtatue ikke   "
+    db "ferdig_… Den    "
+    db "kunst, den_… err"
     db "vanskelig for   "
-    db "deg å forstå, er"
-    db "den ikke?@"
+    db "deg å forstå,   "
+    db "err den ikke?@"
 ;   db "Ya, I am Schule "
 ;   db "Donavitch!  Zee "
 ;   db "mermaid statue  "
@@ -200,7 +201,7 @@ Dialog19B::
 Dialog19C::
     db "  DEN SØRGENDE  "
     db "     HAVFRUE    "
-    db "   Av SCHNAPPI  "
+    db "   Av SJUR      "
     db "?_… Et skjell   "
     db "mangler her_…@"
 ;   db "  THE MOURNING  "
@@ -210,11 +211,14 @@ Dialog19C::
 ;   db "missing...@"
 
 Dialog19D::
-    db "Seashell Mansion@"
+    db "Sneglehuset@"
+;    db "Seashell Mansion@"
 
 Dialog19E::
-    db "Entrance to     "
-    db "  Yarna Desert <right>@"
+    db "Inngang til     "
+    db "  Yahara <right>@"
+;    db "Entrance to     "
+;    db "  Yarna Desert <right>@"
 
 Dialog19F::
 Dialog1A0::
@@ -228,12 +232,18 @@ Dialog1A0::
 ;   db " bit mysterious)@"
 
 Dialog1A1::
-    db "Do you want to  "
-    db "challenge the   "
-    db "river rapids on "
-    db "a raft?  Proceed"
-    db "to the office at"
-    db "once, please!@"
+    db "Våger du deg ned"
+    db "de strømmende   "
+    db "stryk på flåte? "
+    db "Gå videre til   "
+    db "kontoret med en "
+    db "gang, takk!@"
+;    db "Do you want to  "
+;    db "challenge the   "
+;    db "river rapids on "
+;    db "a raft?  Proceed"
+;    db "to the office at"
+;    db "once, please!@"
 
 Dialog1A2::
     db "Øst <right> Ulele-    "
@@ -246,23 +256,34 @@ Dialog1A2::
 ;   db "  Animal Village@"
 
 Dialog1A3::
-    db "Mt. Tamaranch   @"
+    db "   Tindeggen   @"
+;    db "Mt. Tamaranch   @"
 
 Dialog1A4::
-    db "<right> Tail Cave     "
-    db "<down> Toronbo Shores@"
+    db "<right> Halehula      "
+    db "<down> Tromlekysten @"
+;    db "<right> Tail Cave     "
+;    db "<down> Toronbo Shores@"
 
 Dialog1A5::
-    db "<right> Gopongo Swamp "
-    db "<down> Mysterious    "
-    db "  Forest@"
+    db "<right> Symresumpen   "
+    db "<down> Den mystiske  "
+    db "  skogen@"
+;    db "<right> Gopongo Swamp "
+;    db "<down> Mysterious    "
+;    db "  Forest@"
 
 Dialog1A6::
-    db "Beware of floors"
-    db "with cracks!  A "
-    db "heavy person    "
-    db "should not stand"
-    db "on them!@"
+    db "Pass deg for    "
+    db "gulv med sprekk-"
+    db "er! En tung per-"
+    db "son bør ikke stå"
+    db "på dem!@"
+;    db "Beware of floors"
+;    db "with cracks!  A "
+;    db "heavy person    "
+;    db "should not stand"
+;    db "on them!@"
 
 Dialog1A7::
     db "Telefonkiosk@"
@@ -313,8 +334,10 @@ Dialog1AF::
 ;    db "         MAMU@"
 
 Dialog1B0::
-    db "<right> Crazy Tracy   "
-    db "<down> Manbo's Pond@"
+    db "<right> Gale Tale     "
+    db "<down> Mons' pytt@"
+;    db "<right> Crazy Tracy   "
+;    db "<down> Manbo's Pond@"
 
 Dialog1B1::
     db "<right> Snutebu       "
@@ -335,14 +358,20 @@ Dialog1B3::
 ;    db "<down> Ukuku Prairie @"
 
 Dialog1B4::
-    db "You're close to "
-    db "Tal Tal Heights."
-    db "The Camera Shop "
-    db "is nearby.@"
+    db "Du er nær Tipp- "
+    db "topphøydene.    "
+    db "Fotobutikken er "
+    db "like ved.@"
+;    db "You're close to "
+;    db "Tal Tal Heights."
+;    db "The Camera Shop "
+;    db "is nearby.@"
 
 Dialog1B5::
-    db "<right> Tamaranch Mt. "
-    db "<left> Goponga Swamp @"
+    db "<right> Tindeggen     "
+    db "<left> Symresumpen @"
+;    db "<right> Tamaranch Mt. "
+;    db "<left> Goponga Swamp @"
 
 Dialog1B6::
     db "MUSIKK, FISKEN  "

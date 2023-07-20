@@ -813,7 +813,7 @@ Dialog045::
     db "Hva med litt    "
     db "fisking, kompis?"
     db "Det koster bare "
-    db "10 ripier_…     "
+    db "10 rupier_…     "
     db "    Fisk Ikke nå"
     db "<ask>"
 ;    db "How about some  "

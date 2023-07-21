@@ -692,6 +692,7 @@ Dialog28F::
 ;    db "the crystals to "
 ;    db "move forward.@"
 ; litt usikker på denne også
+; her er det snakk om de blå klossene som går opp og ned når du slår på krystallen i ansiktstempelet. Skal vi kalle dem klosser, kanskje? 
 
 Dialog290::
     db "Hvis du ikke kan"

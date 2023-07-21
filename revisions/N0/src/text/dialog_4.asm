@@ -913,7 +913,8 @@ Dialog1DF::
 Dialog1E0::
     db "ZZZ ZZZ ZZZ ZZZ "
     db " ... <marin> ... <marin> ...@"
-; Foreslår å la denne stå mvh Julius
+    db "ZZZ ZZZ ZZZ ZZZ "
+    db " ... <marin> ... <marin> ...@"
 
 Dialog1E1::
     db "Ja, det er den  "

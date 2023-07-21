@@ -642,7 +642,7 @@ Dialog1CF::
     db "tom! Vil du     "
     db "bytte den mot en"
     db "ananas?         "
-    db "    Yes  No<ask>"
+    db "    Ja   Nei<ask>"
 ;    db "Hi ho! Hey you! "
 ;    db "Is that possibly"
 ;    db "a <honeycomb> you have?   "

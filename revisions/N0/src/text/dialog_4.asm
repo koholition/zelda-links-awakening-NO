@@ -608,7 +608,7 @@ Dialog1CD::
     db "du noensinne    "
     db "seilt en flåte  "
     db "ned strykene?   "
-    db "Det går an, like"
+    db "Det går an, ved "
     db "Tipptopphøydene!"
     db "Du burde prøve!@"
 ;    db "Hey friend! Have"

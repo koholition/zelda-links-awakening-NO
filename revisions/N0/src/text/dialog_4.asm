@@ -773,7 +773,7 @@ Dialog1D8::
     db "hvor disse      "
     db "kokosnøttpalmene"
     db "kommer fra?     "
-    db "_…Tarin sier at "
+    db "_… Tarin sier at"
     db "det ikke finnes "
     db "noe bortenfor   "
     db "havet, men jeg  "

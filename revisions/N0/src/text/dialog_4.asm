@@ -263,7 +263,7 @@ Dialog1A4::
 Dialog1A5::
     db "<right> Symresumpen   "
     db "<down> Den mystiske  "
-    db "skogen@"
+    db "  skogen@"
 ;    db "<right> Gopongo Swamp "
 ;    db "<down> Mysterious    "
 ;    db "  Forest@"

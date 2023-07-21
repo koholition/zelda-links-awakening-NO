@@ -853,7 +853,7 @@ Dialog1DA::
 Dialog1DB::
     db "Jeg har lyst til"
     db "å vite alt om   "
-    db "deg_… Eeh_… Eh_…"
+    db "deg_… Eeh_… Øh_…"
     db "Ha ha ha ha!@"
 ;    db "I want to know  "
 ;    db "everything about"

@@ -646,19 +646,28 @@ Dialog030::
 ;    db "<ask>"
 
 Dialog031::
-    db "   Three Hearts "
-    db "    10 Rupees!  "
-    db "    Buy  Don't<ask>"
+    db "   Tre hjerter  "
+    db "    10 Rupier!  "
+    db "    Kjøp La være<ask>"
+;    db "   Three Hearts "
+;    db "    10 Rupees!  "
+;    db "    Buy  Don't<ask>"
 
 Dialog032::
-    db "     Shield     "
-    db "    20 Rupees!  "
-    db "    Buy  Don't<ask>"
+    db "     Skjold     "
+    db "    20 Rupier!  "
+    db "    Kjøp La være<ask>"
+;    db "     Shield     "
+;    db "    20 Rupees!  "
+;    db "    Buy  Don't<ask>"
 
 Dialog033::
-    db "    Ten Bombs   "
-    db "    10 Rupees   "
-    db "    Buy  Don't<ask>"
+    db "    Ti bomber   "
+    db "    10 Rupier   "
+    db "    Kjøp La være<ask>"
+;    db "    Ten Bombs   "
+;    db "    10 Rupees   "
+;    db "    Buy  Don't<ask>"
 
 Dialog034::
     db "Beklager, gutt! "
@@ -1587,5 +1596,7 @@ Dialog0A2::
 ;    db "Prairie!@"
 
 Dialog0A3::
-    db "You've got the  "
-    db "Angler Key!@"	
+    db "Du fikk Ulke-   "
+    db "nøkkelen!@"	
+;    db "You've got the  "
+;    db "Angler Key!@"	

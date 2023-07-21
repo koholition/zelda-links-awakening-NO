@@ -270,7 +270,7 @@ Dialog1A5::
 
 Dialog1A6::
     db "Vær oppmerksom  "
-    db "På sprekker i   "
+    db "på sprekker i   "
     db "gulvet! Tunge   "
     db "personer burde  "
     db "ikke stå på dem!@"

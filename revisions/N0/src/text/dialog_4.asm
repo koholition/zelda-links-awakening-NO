@@ -1160,7 +1160,7 @@ Dialog1F5::
     db "perlekjedet <bra> og"
     db "fikk et skjell <scale>"
     db "fra halen til   "
-    db "havfruen. Hvor-
+    db "havfruen. Hvor- "
     db "dan skal du     "
     db "bruke det?@"
 ;    db "You returned the"

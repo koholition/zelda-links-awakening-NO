@@ -985,7 +985,9 @@ Dialog1E6::
     db " <marin>  <marin>!  <marin>   <marin>!  "
     db "_… <link>??@"
 ;   db "Arfh! Arfh! Arf!"
-
+;    db " <marin>  <marin>!  <marin>   <marin>!  "
+;    db "_… <link>??@"
+    
 Dialog1E7::
     db "Det nøtter'nte, "
     db "lille kompis! En"

@@ -113,6 +113,7 @@ Dialog196::
     db "Den virker helt "
     db "oppslukt i      "
     db "Marins sang!@"
+;   db "... ... ... ... "
 ;   db "It seems to be  "
 ;   db "totally absorbed"
 ;   db "in Marin's song!@"
@@ -171,19 +172,19 @@ Dialog19A::
 ;   db "Hearts are full!@"
 
 Dialog19B::
-    db "Ja, jeg er den  "
-    db "Sjur Donavitch! "
-    db "Havfrueshtatuen "
-    db "der nede ved den"
-    db "bukt er mitt    "
-    db "mesterverk! Når "
-    db "sant skal sies, "
-    db "den shtatue er  "
-    db "ikke ferdig_…   "
-    db "Den kunst, den_…"
+    db "Ja, jeg err Sjur"
+    db "Donavitch! Hav- "
+    db "fruschtatuen ved"
+    db "ved bukta err   "
+    db "mitt mesterwerk!"
+    db "Når sant skal   "
+    db "sies, err den   "
+    db "schtatue ikke   "
+    db "ferdig_… Den    "
+    db "kunst, den_… err"
     db "vanskelig for   "
-    db "deg å forstå, er"
-    db "den ikke?@"
+    db "deg å forstå,   "
+    db "err den ikke?@"
 ;   db "Ya, I am Schule "
 ;   db "Donavitch!  Zee "
 ;   db "mermaid statue  "
@@ -210,11 +211,14 @@ Dialog19C::
 ;   db "missing...@"
 
 Dialog19D::
-    db "Seashell Mansion@"
+    db "Sneglehuset@"
+;    db "Seashell Mansion@"
 
 Dialog19E::
-    db "Entrance to     "
-    db "  Yarna Desert <right>@"
+    db "Inngang til     "
+    db "  Yahara <right>@"
+;    db "Entrance to     "
+;    db "  Yarna Desert <right>@"
 
 Dialog19F::
 Dialog1A0::
@@ -228,11 +232,12 @@ Dialog1A0::
 ;   db " bit mysterious)@"
 
 Dialog1A1::
-    db "Vil du utfordre "
-    db "strykene på en  "
-    db "flåte? Fortsett "
-    db "til kontoret med"
-    db "det samme!@"
+    db "Våger du deg ned"
+    db "de strømmende   "
+    db "stryk på flåte? "
+    db "Gå videre til   "
+    db "kontoret med en "
+    db "gang, takk!@"
 ;    db "Do you want to  "
 ;    db "challenge the   "
 ;    db "river rapids on "
@@ -251,12 +256,12 @@ Dialog1A2::
 ;   db "  Animal Village@"
 
 Dialog1A3::
-    db "Tindeggen       @"
+    db "   Tindeggen   @"
 ;    db "Mt. Tamaranch   @"
 
 Dialog1A4::
     db "<right> Halehula      "
-    db "<down> Tromlekysten  @"
+    db "<down> Tromlekysten @"
 ;    db "<right> Tail Cave     "
 ;    db "<down> Toronbo Shores@"
 
@@ -353,10 +358,10 @@ Dialog1B3::
 ;    db "<down> Ukuku Prairie @"
 
 Dialog1B4::
-    db "Du er nærme     "
-    db "Tipptopphøydene."
+    db "Du er nær Tipp- "
+    db "topphøydene.    "
     db "Fotobutikken er "
-    db "i nærheten.@"
+    db "like ved.@"
 ;    db "You're close to "
 ;    db "Tal Tal Heights."
 ;    db "The Camera Shop "
@@ -364,7 +369,7 @@ Dialog1B4::
 
 Dialog1B5::
     db "<right> Tindeggen     "
-    db "<left> Symresumpen  @"
+    db "<left> Symresumpen @"
 ;    db "<right> Tamaranch Mt. "
 ;    db "<left> Goponga Swamp @"
 
@@ -439,12 +444,12 @@ Dialog1BE::
 
 Dialog1BF::
 Dialog1C0::
-    db "Å?!  #####, Jeg "
-    db "ser du har fått "
-    db "tak i en fin    "
-    db "pinne_… Kan jeg "
-    db "få se på'n?     "
-    db "    Can  Can't<ask>"
+    db "Å?! #####, jeg  "
+    db "ser du har en   "
+    db "fin pinne_…     "
+    db "Kan jeg låne den"
+    db "et øyeblikk?    "
+    db "    Kan  Kan'ke<ask>" ;får ikke plass til kan ikke
 ;    db "Oh?!  #####, I  "
 ;    db "see ya have a   "
 ;    db "nice stick...   "
@@ -453,11 +458,11 @@ Dialog1C0::
 ;    db "    Can  Can't<ask>"
 
 Dialog1C1::
-    db "<stick> ble til       "
-    db "bikake <honeycomb>! Du er "
-    db "ikke sikker på  "
-    db "hva som skjedde,"
-    db "men ta den!@"
+    db "<stick> ble til bikake"
+    db "<honeycomb>! Du skjønner  "
+    db "ikke hvordan det"
+    db "gikk til, men du"
+    db "tar den!@"
 ;    db "<stick> became the    "
 ;    db "honeycomb <honeycomb>!    "
 ;    db "You're not sure "
@@ -482,14 +487,15 @@ Dialog1C3::
 
 Dialog1C4::
 Dialog1C5::
-    db "Jeg var så himla"
-    db "sulten, så jeg  "
-    db "gikk til stranda"
-    db "og skaffa meg   "
-    db "bananer_… #####,"
-    db "hvis du vil ha, "
-    db "burde du dra og "
-    db "få deg noen!@"
+    db "Jeg var sulten  "
+    db "no' så inni ham-"
+    db "pen, så jeg dro "
+    db "og henta bananer"
+    db "på stranda_…    "
+    db "#####, hvis du  "
+    db "vil ha, bør du  "
+    db "bør du dra og   "
+    db "hente sjæl!@"
 ;    db "I was hungry    "
 ;    db "somethin' fierce"
 ;    db "so I went and   "

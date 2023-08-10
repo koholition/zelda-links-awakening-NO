@@ -1513,7 +1513,7 @@ Dialog209::
     db "bare teleportere"
     db "til et hull du  "
     db "har sett med    "
-    db "egne øyne_…»"
+    db "egne øyne_…»@"
 ;    db "'There are some "
 ;    db "Warp Holes on   "
 ;    db "Koholint Island."

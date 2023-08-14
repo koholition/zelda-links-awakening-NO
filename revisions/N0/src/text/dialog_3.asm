@@ -42,7 +42,7 @@ Dialog10C::
     db "bilder. Får jeg "
     db "lov til å ta et "
     db "bilde av deg?   "
-    db "    Ja  Nei<ask>"
+    db "    Ja   Nei<ask>"
 ;    db "I just LOVE to  "
 ;    db "take pictures.  "
 ;    db "Will you let me "

@@ -1362,7 +1362,7 @@ Dialog160::
 ;    db "Let's battle!!@"
 
 Dialog161::
-    db "Oo! Ooo! Aa! aa!"
+    db "Oo! Ooo! Aa! Aa!"
     db "Banan! Apen     "
     db "Julius! Sulten! "
     db "Apen Julius!@"

@@ -770,9 +770,9 @@ Dialog1D6::
 ;    db "for a while...@"
 
 Dialog1D7::
-    db "At the beach... "
+    db "På stranda_…    "
     db " Marin  <marin>@"
-;    db "På stranda_…    "
+;    db "At the beach... "
 ;    db " Marin  <marin>@"
 
 Dialog1D8::

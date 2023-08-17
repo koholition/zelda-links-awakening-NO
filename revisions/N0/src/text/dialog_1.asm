@@ -616,7 +616,7 @@ Dialog02C::
 Dialog02D::
     db "    10 piler    "
     db "    10 rupier   "
-    db "  Kjøp  La være<ask>"
+    db "    Kjøp La være<ask>"
 ;    db "   10 Arrows    "
 ;    db "   10 Rupees    "
 ;    db "    Buy  Don't<ask>"
@@ -904,7 +904,7 @@ Dialog04A::
     db "Litt av en rugg!"
     db "Jeg kan gir deg "
     db "20 rupier for   "
-    db "den! Prøv igjen? "
+    db "den! Prøv igjen?"
     db "    Kast Ikke nå"
     db "<ask>"
 ;    db "Wow! Nice Fish! "

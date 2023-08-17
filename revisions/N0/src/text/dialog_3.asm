@@ -539,7 +539,7 @@ Dialog12F::
     db "kunne gjengjelde"
     db "dette? Jeg vet_…"
     db "  SMAAAAAAASK!  "
-    db "Du fikk en be-   "
+    db "Du fikk en be-  "
     db "lønning fra     "
     db "Madam MjauMjau_…"
     db "H-h-heldig!@"

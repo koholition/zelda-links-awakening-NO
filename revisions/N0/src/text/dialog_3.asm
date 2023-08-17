@@ -322,7 +322,7 @@ Dialog121::
 Dialog122::
     db "Hei, fyr!       "
     db "Angående drømme-"
-    db "tembelet der_…  "
+    db "tempelet der_…  "
     db "Det sies at det "
     db "er noe veldig   "
     db "bra der inne_…  "
@@ -376,8 +376,8 @@ Dialog126::
     db "Hvis du ikke    "
     db "forteller noen  "
     db "om meg, skal jeg"
-    db "si deg noe nyt- "
-    db "noe! Dra til    "
+    db "si deg noe nytt-"
+    db "ig! Dra til     "
     db "Tromlekysten og "
     db "bruk forstørrel-"
     db "sesglasses, så  "
@@ -429,7 +429,7 @@ Dialog12A::
     db "til og med jeg  "
     db "forvirra noen   "
     db "ganger_…  For-  "
-    db "resten, valpen  "
+    db "resten, babyen  "
     db "min ønsker seg  "
     db "en Yoshi-dukke. "
     db "Jeg så en i Klo-"
@@ -449,7 +449,7 @@ Dialog12A::
 ;    db "get it.@"
 
 Dialog12B::
-    db "Å! Kan valpen   "
+    db "Å! Kan babyen   "
     db "min få den      "
     db "dukken?!        "
     db "    Ja   Nei<ask>"
@@ -683,7 +683,7 @@ Dialog138::
 
 Dialog139::
     db "Hallo! Jeg      "
-    db "skriver tilbake "
+    db "skriver et svar "
     db "til Kristine nå!@"
 ;    db "Hello!  I'm     "
 ;    db "writing back to "
@@ -788,7 +788,7 @@ Dialog13C::
 ;    db "get out here!@"
 
 Dialog13D::
-    db "Ah! Superbt!     "
+    db "Ah! Superbt!    "
     db "Jeg ser at du   "
     db "har gjenvunnet  "
     db "alle bladene!   "
@@ -923,7 +923,7 @@ Dialog143::
 Dialog144::
     db "«RRRING! RRRING!"
     db "Hei, det er     "
-    db Ulrik! _… Har du "
+    db "Ulrik! _… Har du"
     db "møtt alle på    "
     db "hele øya? Det er"
     db "en mann ved navn"
@@ -1044,7 +1044,7 @@ Dialog149::
     db "jeg mener nøk-  "
     db "kelhula, eller  "
     db "Nøkkelkjelleren,"
-    db "da! Ha det! "
+    db "da! Ha det!     "
     db "KLIKK!»@"
 ;    db "'BRRING! BRRING!"
 ;    db "Ya, it's Ulrira!"
@@ -1387,7 +1387,7 @@ Dialog166::
     db "tilbøyelig til å"
     db "snakke med deg_…"
     db "I mitt tilfelle "
-    db "ville Hibiscus  " 
+    db "ville hibiskus  " 
     db "vært det beste_…@"
 ;    db "You don't know  "
 ;    db "the proper      "
@@ -1406,13 +1406,13 @@ Dialog166::
 
 Dialog167::
     db "Å, du tok med en"
-    db "hibiscus til    "
+    db "hibiskus til    "
     db "meg! Så søtt!   "
     db "Vel, siden du er"
     db "slik en sjarmør,"
     db "kan du gjøre meg"
     db "en tjeneste? Vil"
-    db "høre?"
+    db "du høre?        "
     db "    Ja   Nei<ask>"
 ;    db "Oh, you brought "
 ;    db "me a hibiscus!  "
@@ -1583,7 +1583,7 @@ Dialog173::
     db "belønning_… Her,"
     db "ta denne <flower2>! Det "
     db "Det er en       "
-    db "hibiscus!@"
+    db "hibiskus!@"
 ;    db "AH!  This isn't "
 ;    db "meant to be a   "
 ;    db "reward...  Here,"
@@ -1736,7 +1736,7 @@ Dialog17E::
 ;    db "more.@"
 
 Dialog17F::
-   db ". . . . ! Jeg kan"
+    db ". . . .! Jeg kan"
     db "ikke røre meg!  "
     db "Men det går bra."
     db "Det lille       "

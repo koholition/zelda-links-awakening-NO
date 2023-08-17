@@ -1576,6 +1576,7 @@ Dialog16F::
 ;    db "Ulrira said on  "
 ;    db "the phone!@"
 
+Dialog177::
 Dialog170::
     db "Jepp, Fartein   "
     db "gikk seg bort,  "
@@ -1645,25 +1646,6 @@ Dialog176::
     db "takk igjen!@"
 ;    db "I've got to say,"
 ;    db "thanks again!@"
-
-Dialog177::
-    db "Jupp, Fartein   "
-    db "gikk seg bort,  "
-    db "akkurat som han "
-    db "sa! Nå er jeg   "
-    db "så skrubbsulten "
-    db "at jeg ikke kan "
-    db "røre meg! Har du"
-    db "noen rasjoner?  "
-    db "    Ja   Niks<ask>"
-;    db "Yep, Papahl got "
-;    db "lost, just like "
-;    db "he said!  Now, I"
-;    db "am so famished I"
-;    db "can't move!  Can"
-;    db "you give me some"
-;    db "vittles?        "
-;    db "    Nope Can't<ask>"
 
 Dialog178::
     db "Hun har opplevd "

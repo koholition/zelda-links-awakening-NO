@@ -607,7 +607,7 @@ Dialog02B::
 Dialog02C::
     db "Pil og bue      "
     db "Kun 980 rupier! "
-    db "  Kjøp  Glem det"
+    db "    Kjøp La være"
     db "<ask>"
 ;    db "Bow & Arrow Set "
 ;    db "Only 980 Rupees!"
@@ -641,10 +641,10 @@ Dialog02F::
  ;   db "Put it back!@"
 
 Dialog030::
-    db "       Spade    "
+    db "      Spade     "
     db "   200 rupier!  "
     db "Virker dyrt!    "
-    db "  Kjøp  Glem det"
+    db "    Kjøp La være"
     db "<ask>"
 ;    db "  Deluxe Shovel "
 ;    db "   200 Rupees!  "
@@ -902,7 +902,7 @@ Dialog049::
 Dialog04A::
     db "Wow! Flott fisk!"
     db "Litt av en rugg!"
-    db "Jeg kan gir deg "
+    db "Jeg kan gi deg  "
     db "20 rupier for   "
     db "den! Prøv igjen?"
     db "    Kast Ikke nå"

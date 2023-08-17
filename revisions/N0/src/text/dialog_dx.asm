@@ -153,7 +153,7 @@ Dialog25C::
     db "blå for forsvar."
     db "Hvilken av dem  "
     db "velger du?      "
-    db "    RØD  BLÅ<ask>"
+    db "    Rød  Blå<ask>"
 ;    db "Red for offense,"
 ;    db "blue for        "
 ;    db "defense. Which  "
@@ -162,7 +162,7 @@ Dialog25C::
 
 Dialog25D::
     db "Er du sikker?   "
-    db "    JA   NEI<ask>"
+    db "    Ja   Nei<ask>"
 ;    db "Are you sure?   "
 ;    db "    YES  NO<ask>"
 
@@ -267,7 +267,7 @@ Dialog266::
     db "  «Fargelære»   "
     db "Vil du lese     "
     db "denne boka?     "
-    db "    JA   NEI<ask>"
+    db "    Ja   Nei<ask>"
 ;    db "Do you want to  "
 ;    db "read this book? "
 ;    db "    YES  NO<ask>"
@@ -317,7 +317,7 @@ Dialog268::
     db "velg blå.       "
     db "Hvilken kraft   "
     db "vil du ha?      "
-    db "    RØD  BLÅ<ask>"
+    db "    Rød  Blå<ask>"
 ;    db "Welcome, #####. "
 ;    db "I admire you for"
 ;    db "coming this far."
@@ -741,7 +741,7 @@ Dialog293::
 Dialog294::
     db "La oss ta et    "
     db "bilde!          "
-    db "    JA   NEI<ask>"
+    db "    Ja   Nei<ask>"
 ;    db "Let's take a    "
 ;    db "picture!        "
 ;    db "    YES  NO<ask>"
@@ -970,7 +970,7 @@ Dialog2AD::
 
 Dialog2AE::
     db "Er du sikker?   "
-    db "    JA  NEI<ask>"
+    db "    Ja   Nei<ask>"
 ;    db "Are you sure?   "
 ;    db "    YES  NO<ask>"
 

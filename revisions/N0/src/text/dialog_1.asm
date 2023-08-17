@@ -727,7 +727,7 @@ Dialog039::
 Dialog03A::
 Dialog03B::
     db "   KLOKROKEN!   "
-    db "Ett spill 10 Rs."
+    db "Ett spill 10 R. "
     db "    Prøv Niks<ask>"
 ; bedre med rupier enn Rs.?
 ;    db "  TRENDY GAME!  "

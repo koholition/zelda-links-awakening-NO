@@ -1468,7 +1468,7 @@ Dialog096::
 ;    db "play many songs!@"
 
 Dialog097::
-    db "Du fikk Rokkens "
+    db "Du fikk Rokks   "
     db "fjær! Kroppen   "
     db "din føles mye   "
     db "lettere!@"

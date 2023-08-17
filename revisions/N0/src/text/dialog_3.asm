@@ -99,33 +99,53 @@ Dialog110::
 ;    db "no beak.@"
 
 Dialog111::
-    db "'I've got what  "
-    db "was inside this "
-    db "box.  Come and  "
-    db "get it, if you  "
-    db "can!'  Master <skull>@"
+    db "«Jeg har tatt   "
+    db "det som var i   "
+    db "denne boksen.   "
+    db "Kom og hent det,"
+    db "hvis du tør!»   "
+    db "Mester <skull>@"
+;    db "'I've got what  "
+;    db "was inside this "
+;    db "box.  Come and  "
+;    db "get it, if you  "
+;    db "can!'  Master <skull>@"
 
 Dialog112::
-    db "Gulp!  You found"
-    db "me!  You're a   "
-    db "real pesky kid, "
-    db "you know that?!@"
+    db "Gulp! Du fant   "
+    db "meg! Du er en   "
+    db "ufyselig unge,  "
+    db "vet du det?!@"
+;    db "Gulp!  You found"
+;    db "me!  You're a   "
+;    db "real pesky kid, "
+;    db "you know that?!@"
 
 Dialog113::
-    db "Arrgh!  I can't "
-    db "beat you!  I'm  "
-    db "outta here!@"
+    db "Arrg! Jeg klarer"
+    db "ikke slå deg!   "
+    db "Jeg stikker!@"
+;    db "Arrgh!  I can't "
+;    db "beat you!  I'm  "
+;    db "outta here!@"
 
 Dialog114::
-    db "You again?!  You"
-    db "keep going and  "
-    db "going... I can't"
-    db "outlast you!    "
-    db "All right, let's"
-    db "do it!@"
+    db "Du igjen?! Du   "
+    db "gir deg aldri_… "
+    db "Jeg orker ikke  "
+    db "mer av deg!     "
+    db "Greit, la oss   "
+    db "kjøre på!@"
+;    db "You again?!  You"
+;    db "keep going and  "
+;    db "going... I can't"
+;    db "outlast you!    "
+;    db "All right, let's"
+;    db "do it!@"
 
 Dialog115::
-    db "WOOF! Dig! RUFF!@"
+    db "VOFF! Grav! VOV!@"
+;    db "WOOF! Dig! RUFF!@"
 
 Dialog116::
     db "Du satte det    "
@@ -395,8 +415,10 @@ Dialog126::
 ; litt dårlig oversettelse kanskje 
 
 Dialog127::
-    db "Tsk tsk...  What"
-    db "a shame...@"
+    db "Tsk tsk_… Det   "
+    db "var synd_…@"
+;    db "Tsk tsk...  What"
+;    db "a shame...@"
 
 Dialog128::
     db "Å, tusen takk!  "
@@ -517,7 +539,7 @@ Dialog12F::
     db "kunne gjengjelde"
     db "dette? Jeg vet_…"
     db "  SMAAAAAAASK!  "
-    db "Du fikk en be-   "
+    db "Du fikk en be-  "
     db "lønning fra     "
     db "Madam MjauMjau_…"
     db "H-h-heldig!@"
@@ -1272,34 +1294,33 @@ Dialog159::
 ;    db "the island!@"
 
 Dialog15A::
-    db "YAHOO!   I'm    "
-    db "fine, and you?!@"
+    db "JIPPI! Jeg har  "
+    db "det bra, og du?!@"
+;    db "YAHOO!   I'm    "
+;    db "fine, and you?!@"
 
 Dialog15B::
-    db "YAHOO!  I worked"
-    db "too hard and now"
-    db "my broom is worn"
-    db "to the handle!@"
+    db "JIPPI! Jeg jobb-"
+    db "et for hardt og "
+    db "nå er kosten min"
+    db "slitt ned til   " 
+    db "skaftet!@"
+;    db "YAHOO!  I worked"
+;    db "too hard and now"
+;    db "my broom is worn"
+;    db "to the handle!@"
 
 Dialog15C::
-    db "YAHOO!  YAHOO!  "
-    db "A new broom?!   "
-    db "For me?  It is, "
-    db "isn't it?!      "
-    db "    Yes  No<ask>"
-
-Dialog15D::
-    db "Okei! Da kan du "
-    db "få denne fiske- "
-    db "kroken jeg fant "
-    db "da jeg feide ved"
-    db "elvebredden!@"
-;    db "Okay!  In return"
-;    db "you can have    "
-;    db "this fishing    "
-;    db "hook I found    "
-;    db "when I swept by "
-;    db "the river bank!@"
+    db "JIPPI! JIPPI!   "
+    db "En ny kost?! Til"
+    db "meg? Det er det "
+    db "det, ikke sant?!"
+    db "    Ja   Nei<ask>"
+;    db "YAHOO!  YAHOO!  "
+;    db "A new broom?!   "
+;    db "For me?  It is, "
+;    db "isn't it?!      "
+;    db "    Yes  No<ask>"
 
 Dialog15D::
     db "Okei! Da kan du "
@@ -1327,30 +1348,46 @@ Dialog15E::
 ;    db "hook become?@"
 
 Dialog15F::
-    db "YAHOO!  A new   "
-    db "broom!  Superb!@"
+    db "JIPPI! En ny    "
+    db "kost! Supert!@"
+;    db "YAHOO!  A new   "
+;    db "broom!  Superb!@"
 
 Dialog160::
-    db "Kiiiki!  What?! "
-    db "All right, mutt!"
-    db "Let's battle!!@"
+    db "Jul-i-ius! Hva?!"
+    db "Greit, kjøter!  " 
+    db "La oss slåss!!@"
+;    db "Kiiiki!  What?! "
+;    db "All right, mutt!"
+;    db "Let's battle!!@"
 
 Dialog161::
-    db "Chi-kiita! Chi- "
-    db "kiita!  Kiki the"
-    db "monkey!  Hungry!"
-    db "Kiki the monkey!@"
+    db "Oo! Ooo! Aa! Aa!"
+    db "Banan! Apen     "
+    db "Julius! Sulten! "
+    db "Apen Julius!@"
+;    db "Chi-kiita! Chi- "
+;    db "kiita!  Kiki the"
+;    db "monkey!  Hungry!"
+;    db "Kiki the monkey!@"
 
 Dialog162::
     db "    <bananas>!    <bananas>!    "
-    db "Oooh! Ooh! Kiki!"
-    db "Monkeys!  Come! "
-    db "Repay him! Kiki!@"
+    db "Oo! Ooo! Julius!"
+    db "Aper! Kom! Be-  "
+    db "lønn ham! Aaa!@"
+;    db "    <bananas>!    <bananas>!    "
+;    db "Oooh! Ooh! Kiki!"
+;    db "Monkeys!  Come! "
+;    db "Repay him! Kiki!@"
 
 Dialog163::
-    db "Monkey business!"
-    db "Done!  Bye bye! "
-    db "Oooh!  Kiki!@"
+    db "Apestreker!     "
+    db "Ferdig! Ha det! "
+    db "Ooo! Julius!@"
+;    db "Monkey business!"
+;    db "Done!  Bye bye! "
+;    db "Oooh!  Kiki!@"
 
 Dialog164::
     db "Du fant en pinne"
@@ -1364,7 +1401,7 @@ Dialog164::
 
 Dialog165::
     db "    <bananas>!    <bananas>!    "
-    db "  Oooh!  Oooh!  "
+    db "  Ooo!  Ooo!    "
     db " Gi til Julius?!"
     db "    Ja   Nei!<ask>"
 ;    db "    <bananas>!    <bananas>!    "
@@ -1629,13 +1666,21 @@ Dialog177::
 ;    db "    Nope Can't<ask>"
 
 Dialog178::
-    db "She's had an    "
-    db "awful tragedy   "
-    db "in the house    "
-    db "across the way! "
-    db "It's just awful,"
-    db "and all I can do"
-    db "is sweep!@"
+    db "Hun har opplevd "
+    db "en forferdelig  "
+    db "tragedie i huset"
+    db "på andre siden! "
+    db "Det er helt     "
+    db "grusomt, og alt "
+    db "jeg kan gjøre er"
+    db "å feie!@"
+;    db "She's had an    "
+;    db "awful tragedy   "
+;    db "in the house    "
+;    db "across the way! "
+;    db "It's just awful,"
+;    db "and all I can do"
+;    db "is sweep!@"
 
 Dialog179::
     db "Jeg er dette    "
@@ -1675,23 +1720,22 @@ Dialog17A::
 ;    db "enough shells.@"
 
 Dialog17B::
-Dialog17B::
     db "Min jobb her er "
     db "fullført.@"
 ;    db "My job here     "
 ;    db "is finished.@"
 
 Dialog17C::
-    db "Hei du! Har du  "
-    db "vært i foto-    "
-    db "butikken i Tipp-"
-    db "topphøydene?    "
-    db "Ungdommer liker "
-    db "å gå dit og ta  "
-    db "bilder av seg   "
-    db "selv. Virker    "
-    db "litt rart, spør "
-    db "du meg.@"
+;    db "Hei du! Har du  " Kommenterer ut denne, for Bank1C blir full og denne dialogen brukes ikke i spillet
+;    db "vært i foto-    "
+;    db "butikken i Tipp-"
+;    db "topphøydene?    "
+;    db "Ungdommer liker "
+;    db "å gå dit og ta  "
+;    db "bilder av seg   "
+;    db "selv. Virker    "
+;    db "litt rart, spør "
+;    db "du meg.@"
 ;    db "Hey you! Have   "
 ;    db "you been to the "
 ;    db "Camera Shop in  "

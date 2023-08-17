@@ -563,12 +563,18 @@ Dialog027::
 ;    db "for me, hear?@"
 
 Dialog028::
-    db "Yes!!  Yes!!    "
-    db "Break them!     "
-    db "Break them all! "
+    db "Ja!! Ja!! Knus  "
+    db "dem! Knus dem   "
+    db "alle sammen!    "
     db "... ... ... ... "
-    db "What?  What's   "
-    db "wrong?@"
+    db "Hva? Hva er     "
+    db "galt?@"
+;    db "Yes!!  Yes!!    "
+;    db "Break them!     "
+;    db "Break them all! "
+;    db "... ... ... ... "
+;    db "What?  What's   "
+;    db "wrong?@"
 
 Dialog029::
     db "Aye Caramba!    "
@@ -579,11 +585,16 @@ Dialog029::
     db "have no use for!@"
 
 Dialog02A::
-    db "You've got a    "
-    db "Heart!  Thump!  "
-    db "One of your     "
-    db "Heart Containers"
-    db "is filled!@"
+    db "Du fikk et      "
+    db "hjerte! Dunk! Én"
+    db "av hjerte-      "
+    db "beholderne dine "
+    db "er fylt opp!@"
+;    db "You've got a    "
+;    db "Heart!  Thump!  "
+;    db "One of your     "
+;    db "Heart Containers"
+;    db "is filled!@"
 
 Dialog02B::
 Dialog02C::
@@ -635,26 +646,40 @@ Dialog030::
 ;    db "<ask>"
 
 Dialog031::
-    db "   Three Hearts "
-    db "    10 Rupees!  "
-    db "    Buy  Don't<ask>"
+    db "   Tre hjerter  "
+    db "    10 Rupier!  "
+    db "    Kjøp La være<ask>"
+;    db "   Three Hearts "
+;    db "    10 Rupees!  "
+;    db "    Buy  Don't<ask>"
 
 Dialog032::
-    db "     Shield     "
-    db "    20 Rupees!  "
-    db "    Buy  Don't<ask>"
+    db "     Skjold     "
+    db "    20 Rupier!  "
+    db "    Kjøp La være<ask>"
+;    db "     Shield     "
+;    db "    20 Rupees!  "
+;    db "    Buy  Don't<ask>"
 
 Dialog033::
-    db "    Ten Bombs   "
-    db "    10 Rupees   "
-    db "    Buy  Don't<ask>"
+    db "    Ti bomber   "
+    db "    10 Rupier   "
+    db "    Kjøp La være<ask>"
+;    db "    Ten Bombs   "
+;    db "    10 Rupees   "
+;    db "    Buy  Don't<ask>"
 
 Dialog034::
-    db "Sorry, kid!  You"
-    db "don't have the  "
-    db "Rupees!  Come   "
-    db "back when you   "
-    db "have the cash!@"
+    db "Beklager, gutt! "
+    db "Du har ikke nok "
+    db "rupier! Kom til-"
+    db "bake når du har "
+    db "mer å rutte med!@"
+;    db "Sorry, kid!  You"
+;    db "don't have the  "
+;    db "Rupees!  Come   "
+;    db "back when you   "
+;    db "have the cash!@"
 
 Dialog035::
     db "Tusen takk! Og  "
@@ -687,17 +712,27 @@ Dialog038::
 ;    db "price!!@"
 
 Dialog039::
-    db "Hunh?  It sounds"
-    db "like the castle "
-    db "gate opened! You"
-    db "can easily leave"
-    db "the castle now!@"
+    db "Hæ? Det hørtes  "
+    db "ut som slotts-  "
+    db "porten åpnet    "
+    db "seg! Nå kan du  "
+    db "enkelt forlate  "
+    db "slottet!@"
+;    db "Hunh?  It sounds"
+;    db "like the castle "
+;    db "gate opened! You"
+;    db "can easily leave"
+;    db "the castle now!@"
 
 Dialog03A::
 Dialog03B::
-    db "  TRENDY GAME!  "
-    db " One Play 10 Rs."
-    db "    Play No<ask>"
+    db "   KLOKROKEN!   "
+    db "Ett spill 10 R. "
+    db "    Prøv Niks<ask>"
+; bedre med rupier enn Rs.?
+;    db "  TRENDY GAME!  "
+;    db " One Play 10 Rs."
+;    db "    Play No<ask>"
 
 Dialog03C::
     db "The A and B     "
@@ -709,22 +744,32 @@ Dialog03C::
     db "Good Luck!@"
 
 Dialog03D::
-    db "It's a Shield!  "
-    db "There is space  "
-    db "for your name!@"
+    db "Et skjold! Det  "
+    db "er plass til å  "
+    db "skrive navnet   "
+    db "ditt på det!@"
+;    db "It's a Shield!  "
+;    db "There is space  "
+;    db "for your name!@"
 
 Dialog03E::
-    db "Challenge Again?"
-    db "    Play No<ask>"
+    db "Prøve igjen?    "
+    db "    Ja   Nei<ask>"
+;    db "Challenge Again?"
+;    db "    Play No<ask>"
 
 Dialog03F::
     db "Lykke til!@"
 ;    db "Good Luck!@"
 
 Dialog040::
-    db "We're closing up"
-    db "for today!  Come"
-    db "again, anytime!@"
+    db "Vi stenger for  "
+    db "dagen! Du er    "
+    db "velkommen igjen "
+    db "når som helst!@"
+;    db "We're closing up"
+;    db "for today!  Come"
+;    db "again, anytime!@"
 
 Dialog041::
     db "Du fikk litt    "
@@ -739,116 +784,195 @@ Dialog041::
 ;    db "things!@"
 
 Dialog042::
-    db "It's 30 Rupees! "
-    db "You can play the"
-    db "game three more "
-    db "times with this!@"
+    db "Det var 30      "
+    db "rupier! Du kan  "
+    db "prøve tre ganger"
+    db "til med disse!@"
+;    db "It's 30 Rupees! "
+;    db "You can play the"
+;    db "game three more "
+;    db "times with this!@"
 
 Dialog043::
-    db "Cough Cough...  "
-    db "Don't sprinkle  "
-    db "that on me...   "
-    db "...I'll have to "
-    db "curse you!      "
-    db "Cough Cough...@"
+    db "Host Host_… Ikke"
+    db "strø det der på "
+    db "meg_… Ellers må "
+    db "jeg forhekse    "
+    db "deg! Host Host_…@"
+;    db "Cough Cough...  "
+;    db "Don't sprinkle  "
+;    db "that on me...   "
+;    db "...I'll have to "
+;    db "curse you!      "
+;    db "Cough Cough...@"
 
 Dialog044::
-    db "You got a Yoshi "
-    db "Doll!  Recently,"
-    db "he seems to be  "
-    db "showing up in   "
-    db "many games!@"
+    db "Du fikk Yoshi-  "
+    db "dukka! Han har  "
+    db "vært med i mange"
+    db "spill i det     "
+    db "siste!@"
+;    db "You got a Yoshi "
+;    db "Doll!  Recently,"
+;    db "he seems to be  "
+;    db "showing up in   "
+;    db "many games!@"
 
 Dialog045::
-    db "How about some  "
-    db "fishing, little "
-    db "buddy? I'll only"
-    db "charge you 10   "
-    db "Rupees...       "
-    db "    Fish Not Now"
+    db "Hva med litt    "
+    db "fisking, kompis?"
+    db "Det koster bare "
+    db "10 rupier_…     "
+    db "    Fisk Ikke nå"
     db "<ask>"
+;    db "How about some  "
+;    db "fishing, little "
+;    db "buddy? I'll only"
+;    db "charge you 10   "
+;    db "Rupees...       "
+;    db "    Fish Not Now"
+;    db "<ask>"
 
 Dialog046::
-    db "You have to have"
-    db "more passion!   "
-    db "Live a little!@"
+    db "Du trenger mer  "
+    db "lidenskap! Lev  "
+    db "litt!@"
+;    db "You have to have"
+;    db "more passion!   "
+;    db "Live a little!@"
 
 Dialog047::
-    db "Okay, here's how"
-    db "you do it.  Use "
-    db "<left> and <right> on the <dpad>"
-    db "to aim a cast.  "
-    db "Once you hook a "
-    db "fish, press the "
-    db "Button rapidly  "
-    db "to reel him in!@"
+    db "Greit, sånn her "
+    db "gjør du det.    "
+    db "<left> og <right> på <dpad> for "
+    db "å sikte kastet. "
+    db "Når fisken biter"
+    db "på, trykker du  "
+    db "kjapt på knappen"
+    db "mange ganger for"
+    db "å hale ham i    "
+    db "land!@"
+;    db "Okay, here's how"
+;    db "you do it.  Use "
+;    db "<left> and <right> on the <dpad>"
+;    db "to aim a cast.  "
+;    db "Once you hook a "
+;    db "fish, press the "
+;    db "Button rapidly  "
+;    db "to reel him in!@"
 
 Dialog048::
-    db "Why not try one "
-    db "more time,      "
-    db "little buddy?   "
-    db "    Cast Not Now"
+    db "Hvorfor ikke gi "
+    db "det et forsøk   "
+    db "til, kompis?    "
+    db "    Kast Ikke nå"
     db "<ask>"
+;    db "Why not try one "
+;    db "more time,      "
+;    db "little buddy?   "
+;    db "    Cast Not Now"
+;    db "<ask>"
 
 Dialog049::
-    db "Wow! That one   "
-    db "got away!  Want "
-    db "to try again?   "
-    db "    Cast Not Now"
+    db "Oi! Den kom seg "
+    db "unna! Vil du    "
+    db "prøve igjen?    "
+    db "    Kast Ikke nå"
     db "<ask>"
+;    db "Wow! That one   "
+;    db "got away!  Want "
+;    db "to try again?   "
+;    db "    Cast Not Now"
+;    db "<ask>"
 
 Dialog04A::
-    db "Wow! Nice Fish! "
-    db "It's a lunker!! "
-    db "I'll give you a "
-    db "20 Rupee prize! "
-    db "Try again?      "
-    db "    Cast Not Now"
+    db "Wow! Flott fisk!"
+    db "Litt av en rugg!"
+    db "Jeg kan gir deg "
+    db "20 rupier for   "
+    db "den! Prøv igjen? "
+    db "    Kast Ikke nå"
     db "<ask>"
+;    db "Wow! Nice Fish! "
+;    db "It's a lunker!! "
+;    db "I'll give you a "
+;    db "20 Rupee prize! "
+;    db "Try again?      "
+;    db "    Cast Not Now"
+;    db "<ask>"
 
 Dialog04B::
-    db "This pond's all "
-    db "fished out.  Why"
-    db "not try your    "
-    db "luck in the sea?"
-    db "    Okay No<ask>"
+    db "Dammen er fisket"
+    db "helt tom. Hvor- "
+    db "for ikke prøve  "
+    db "fiskelykken i   "
+    db "sjøen?          "
+    db "    Ja   Nei<ask>"
+;    db "This pond's all "
+;    db "fished out.  Why"
+;    db "not try your    "
+;    db "luck in the sea?"
+;    db "    Okay No<ask>"
 
 Dialog04C::
-    db "Did I say that? "
-    db "Forget it, okay?"
-    db "Run along now...@"
+    db "Sa jeg det? Glem"
+    db "det, greit?     "
+    db "Stikk av, nå_…@"
+;    db "Did I say that? "
+;    db "Forget it, okay?"
+;    db "Run along now...@"
 
 Dialog04D::
-    db "It's a runt!    "
-    db "I'll only give  "
-    db "you a 5 Rupees  "
-    db "prize for that. "
-    db "You should try  "
-    db "again!          "
-    db "    Okay No<ask>"
+    db "En liten en! Jeg"
+    db "gir deg bare 5  "
+    db "rupier for den  "
+    db "der. Du burde   "
+    db "prøve igjen!    "
+    db "    Ja   Nei<ask>"
+;    db "It's a runt!    "
+;    db "I'll only give  "
+;    db "you a 5 Rupees  "
+;    db "prize for that. "
+;    db "You should try  "
+;    db "again!          "
+;    db "    Okay No<ask>"
 
 Dialog04E::
-    db "You're short of "
-    db "Rupees?  Don't  "
-    db "worry about it. "
-    db "You just come   "
-    db "back when you   "
-    db "have more money,"
-    db "little buddy.@"
+    db "Har du for få   "
+    db "rupier? Ikke noe"
+    db "problem. Kom    "
+    db "tilbake når du  "
+    db "har mer penger, "
+    db "kompis.@"
+;    db "You're short of "
+;    db "Rupees?  Don't  "
+;    db "worry about it. "
+;    db "You just come   "
+;    db "back when you   "
+;    db "have more money,"
+;    db "little buddy.@"
 
 Dialog04F::
-    db "You've got a    "
-    db "Piece of Heart! "
-    db "Press SELECT on "
-    db "the Subscreen   "
-    db "to see.@"
+    db "Du fikk en      "
+    db "hjertebit! Trykk"
+    db "SELECT i under- "
+    db "menyen for å se.@"
+;    db "You've got a    "
+;    db "Piece of Heart! "
+;    db "Press SELECT on "
+;    db "the Subscreen   "
+;    db "to see.@"
 
 Dialog050::
-    db "You collected   "
-    db "four Pieces of  "
-    db "Heart.  Now, you"
-    db "have a complete "
-    db "Heart Container!@"
+    db "Du samlet fire  "
+    db "hjertebiter. Nå "
+    db "har du en full  "
+    db "hjertebeholder!@"
+;    db "You collected   "
+;    db "four Pieces of  "
+;    db "Heart.  Now, you"
+;    db "have a complete "
+;    db "Heart Container!@"
 
 Dialog051::
     db "Brrr... Dette er"
@@ -913,10 +1037,10 @@ Dialog054::
 ;ENDC
 
 Dialog055::
-    db "Å ja.… Det var  "
+    db "Å ja_… Det var  "
     db "no' mer sånt som"
     db "skylte opp på   "
-    db "stranda.… Hvis  "
+    db "stranda_… Hvis  "
     db "du går og ser,  "
     db "pass deg for    "
     db "monstre. Siden  "
@@ -937,43 +1061,61 @@ Dialog055::
 ;    db "over the place!@"
 
 Dialog056::
-    db "Level 1--       "
-    db "     Tail Cave@"
+    db "Nivå 1--        "
+    db "        Halehula@"
+;    db "Level 1--       "
+;    db "     Tail Cave@"
 
 Dialog057::
-    db "Level 2--       "
-    db "   Bottle Grotto@"
+    db "Nivå 2--        "
+    db "    Flaskegrotta@"
+;    db "Level 2--       "
+;    db "   Bottle Grotto@"
 
 Dialog058::
-    db "Level 3--       "
-    db "      Key Cavern@"
+    db "Nivå 3--        "
+    db " Nøkkelkjelleren@"
+;    db "Level 3--       "
+;    db "      Key Cavern@"
 
 Dialog059::
-    db "Level 4--       "
-    db " Angler's Tunnel@"
+    db "Nivå 4--        "
+    db "  Marulktunnelen@"
+;    db "Level 4--       "
+;    db " Angler's Tunnel@"
 
 Dialog05A::
-    db "Level 5--       "
-    db "   Catfish's Maw@"
+    db "Nivå 5--        "
+    db "      Mallegapet@"
+;    db "Level 5--       "
+;    db "   Catfish's Maw@"
 
 Dialog05B::
-    db "Level 6--       "
-    db "     Face Shrine@"
+    db "Nivå 6--        "
+    db " Ansiktstempelet@"
+;    db "Level 6--       "
+;    db "     Face Shrine@"
 
 Dialog05C::
-    db "Level 7--       "
-    db "   Eagle's Tower@"
+    db "Nivå 7--        "
+    db "      Ørnetårnet@"
+;    db "Level 7--       "
+;    db "   Eagle's Tower@"
 
 Dialog05D::
-    db "Level 8--       "
-    db "     Turtle Rock@"
+    db "Nivå 8--        "
+    db " Skilpaddeberget@"
+;    db "Level 8--       "
+;    db "     Turtle Rock@"
 
 Dialog05E::
-    db "Wind Fish's Egg @"
+    db "Vindfiskens egg@"
+;    db "Wind Fish's Egg @"
 
 Dialog05F::
 Dialog060::
-    db "Mountain Bridge @"
+    db "Fjellbrua@"
+;    db "Mountain Bridge @"
 
 Dialog061::
     db "Skjalgs banan-  "
@@ -982,134 +1124,184 @@ Dialog061::
 ;    db "    Bananas@"
 
 Dialog062::
-    db "Pothole Field@"
+    db "Jettegryter@"
+;    db "Pothole Field@"
 
 Dialog063::
-    db "    House By    "
-    db "     The Bay@"
+    db "    Huset ved   "
+    db "      sjøen@"
+;    db "    House By    "
+;    db "     The Bay@"
 
 Dialog064::
-    db "   Trendy Game@"
+    db "    Klokroken@"
+;    db "   Trendy Game@"
 
 Dialog065::
-    db "  Town Tool Shop@"
+    db "   Landhandler@"
+;    db "  Town Tool Shop@"
 
 Dialog066::
-    db "Marin and       "
-    db "   Tarin's House@"
+    db "Marin og        "
+    db "      Tarins hus@"
+;    db "Marin and       "
+;    db "   Tarin's House@"
 
 Dialog067::
-    db "   Witch's Hut@"
+    db "  Heksas hytte@"
+;    db "   Witch's Hut@"
 
 Dialog068::
-    db "  Yarna Desert@"
+    db " Yahara-ørkenen@"
+;    db "  Yarna Desert@"
 
 Dialog069::
-    db "  Ukuku Prairie@"
+    db "  Ulele-sletta@"
+;    db "  Ukuku Prairie@"
 
 Dialog06A::
-    db "Mysterious Woods@"
+    db " Mysterieskogen@"
+;    db "Mysterious Woods@"
 
 Dialog06B::
-    db "  Mt. Tamaranch @"
+    db "   Tindeggen@"
+;    db "  Mt. Tamaranch @"
 
 Dialog06C::
-    db "     Tal Tal    "
-    db " Mountain Range @"
+    db "   Tipptopp-    "
+    db "   fjellene@"
+;    db "     Tal Tal    "
+;    db " Mountain Range @"
 
 Dialog06D::
-    db "  Signpost Maze @"
+    db "  Skiltlabyrint@"
+;    db "  Signpost Maze @"
 
 Dialog06E::
-    db "  Mabe Village  @"
+    db " Måsebu landsby@"
+;    db "  Mabe Village  @"
 
 Dialog06F::
-    db " Animal Village @"
+    db " Snutebu landsby@"
+;    db " Animal Village @"
 
 Dialog070::
-    db "    Cemetery    @"
+    db "    Kirkegård   @"
+;    db "    Cemetery    @"
 
 Dialog071::
-    db "   Rapids Ride  @"
+    db "Strømmende stryk@"
+;    db "   Rapids Ride  @"
 
 Dialog072::
-    db "Koholint Prairie@"
+    db " Koholint-sletta@"
+;    db "Koholint Prairie@"
 
 Dialog073::
-    db " Toronbo Shores@"
+    db "  Tromlekysten@"
+;    db " Toronbo Shores@"
 
 Dialog074::
-    db "  Martha's Bay@"
+    db "   Martes bukt@"
+;    db "  Martha's Bay@"
 
 Dialog075::
-    db "East of the Bay@"
+    db " Østenfor bukta@"
+;    db "East of the Bay@"
 
 Dialog076::
-    db "  Goponga Swamp@"
+    db "   Symresumpen@"
+;    db "  Goponga Swamp@"
 
 Dialog077::
-    db "   Face Shrine @"
+    db " Ansiktstempelet@"
+;    db "   Face Shrine @"
 
 Dialog078::
-    db " Kanalet Castle@"
+    db "   Elveslottet@"
+;    db " Kanalet Castle@"
 
 Dialog079::
-    db "Tal Tal Heights@"
+    db " Tipptopphøydene@"
+;    db "Tal Tal Heights@"
 
 Dialog07A::
-    db "Tabahl Wasteland@"
+    db "   Dødemarken@"
+;    db "Tabahl Wasteland@"
 
 Dialog07B::
-    db "  South of the  "
-    db "    Village@"
+    db "     Sør for    "
+    db "    landsbyen@"
+;    db "  South of the  "
+;    db "    Village@"
 
 Dialog07C::
-    db "  Fishing Pond  @"
+    db "    Fiskedam@"
+;    db "  Fishing Pond  @"
 
 Dialog07D::
-    db "Madam MeowMeow's"
-    db "     House      "
-    db " Beware of Dog!@"
+    db " Madam MjauMjau "
+    db "  Vokt Dem for  "
+    db "     hunden!@"
+;    db "Madam MeowMeow's"
+;    db "     House      "
+;    db " Beware of Dog!@"
 
 Dialog07E::
-    db "Old Man Ulrira's"
-    db "     House      @"
+    db "Gamle ulriks hus@"
+;    db "Old Man Ulrira's"
+;    db "     House      @"
 
 Dialog07F::
-    db "Weird Mr. Write @"
+    db "Vimsete William @"
+;    db "Weird Mr. Write @"
 
 Dialog080::
-    db " Crazy Tracy's  "
-    db "  Health Spa@"
+    db "   Gale Tales   "
+    db "    helsespa@"
+;    db " Crazy Tracy's  "
+;    db "  Health Spa@"
 
 Dialog081::
-    db "Quadruplet's    "
-    db "      House@"
+    db "Firlingenes     "
+    db "       hus@"
+;    db "Quadruplet's    "
+;    db "      House@"
 
 Dialog082::
-    db "  Dream Shrine  @"
+    db " Drømmetempelet@"
+;    db "  Dream Shrine  @"
 
 Dialog083::
-    db "Telephone Booth "
-    db "<down> Signpost Maze @"
+    db "Telefonkiosk    "
+    db "<down> Skiltlabyrint@"
+;    db "Telephone Booth "
+;    db "<down> Signpost Maze @"
 
 Dialog084::
-    db "Seashell Mansion@"
+    db "Sneglehuset@"
+;    db "Seashell Mansion@"
 
 Dialog085::
-    db "Richard's Villa @"
+    db "Rikards villa @"
+;    db "Richard's Villa @"
 
 Dialog086::
-    db "     Hen House  @"
+    db "   Hønsehuset@"
+;    db "     Hen House  @"
 
 Dialog087::
-    db "Village Library @"
+    db "Måsebu bibliotek@"
+;    db "Village Library @"
 
 Dialog088::
-    db "    Raft Shop   @"
+    db "   Fartsfylte   "
+    db "     flåter@"
+;    db "    Raft Shop   @"
 
 Dialog089::
-    db "    Warp Hole   @"
+    db "    Ormehull@"
+;    db "    Warp Hole   @"
 
 Dialog08A::
     db "Denne steinen   "
@@ -1124,11 +1316,17 @@ Dialog08A::
 ;    db "shatter it...@"
 
 Dialog08B::
-    db "Oh? What a weird"
-    db "object!  There  "
-    db "must be some way"
-    db "to tackle this  "
-    db "obstacle.@"
+    db "Å? for et rart  "
+    db "objekt! Det må  "
+    db "finnes en måte  "
+    db "å hanskes med   "
+    db "denne typen     "
+    db "hindring.@"
+;    db "Oh? What a weird"
+;    db "object!  There  "
+;    db "must be some way"
+;    db "to tackle this  "
+;    db "obstacle.@"
 
 Dialog08C::
     db "Hæ? Denne       "
@@ -1156,10 +1354,15 @@ Dialog08D::
 ;    db "bare hands...@"
 
 Dialog08E::
-    db "Well, it's an   "
-    db "Ocarina, but you"
-    db "don't know how  "
-    db "to play it...@"
+    db "Vel, det er en  "
+    db "leirgauk, men du"
+    db "vet ikke hvordan"
+    db "man spiller på  "
+    db "den_…@"
+;    db "Well, it's an   "
+;    db "Ocarina, but you"
+;    db "don't know how  "
+;    db "to play it...@"
 
 Dialog08F::
     db "Nei nei! Gi deg "
@@ -1169,11 +1372,16 @@ Dialog08F::
 ;    db "hen!  Stop that!@"
 
 Dialog090::
-    db "You found the   "
-    db "Power Bracelet! "
-    db "At last, you can"
-    db "pick up pots and"
-    db "stones!@"
+    db "Du fant kraft-  "
+    db "armbåndet!      "
+    db "Endelig kan du  "
+    db "plukke opp kruk-"
+    db "ker og steiner!@"
+;    db "You found the   "
+;    db "Power Bracelet! "
+;    db "At last, you can"
+;    db "pick up pots and"
+;    db "stones!@"
 
 Dialog091::
     db "Du fikk tilbake "
@@ -1188,39 +1396,66 @@ Dialog091::
 ;    db "enemies with it!@"
 
 Dialog092::
-    db "Ahhh... Yess... "
-    db "That dust was so"
-    db "refreshing...   "
-    db "For that, I'll  "
-    db "tell you a hint!"
-    db "Use a Bomb in a "
-    db "place where the "
-    db "sand swallows   "
-    db "you... There is "
-    db "a treat on the  "
-    db "other side of   "
-    db "the wall... Bye!@"
+    db "Ahhh_… Jaa_… Det"
+    db "støvet var for- "
+    db "friskende_… Som "
+    db "takk skal jeg gi"
+    db "deg et hint!    "
+    db "Bruk en bombe på"
+    db "stedet der sanda"
+    db "sluker deg_… Det"
+    db "er en godbit på "
+    db "andre siden av  "
+    db "veggen_… Ha det!@"
+;    db "Ahhh... Yess... "
+;    db "That dust was so"
+;    db "refreshing...   "
+;    db "For that, I'll  "
+;    db "tell you a hint!"
+;    db "Use a Bomb in a "
+;    db "place where the "
+;    db "sand swallows   "
+;    db "you... There is "
+;    db "a treat on the  "
+;    db "other side of   "
+;    db "the wall... Bye!@"
 
 Dialog093::
-    db "You've got the  "
-    db "Hook Shot!  Its "
-    db "chain stretches "
-    db "long when you   "
-    db "use it!@"
+    db "Du fikk gripe-  "
+    db "kroken!         "
+    db "Kjettingen dens "
+    db "strekker seg    "
+    db "langt når du    "
+    db "bruker den!@"
+;    db "You've got the  "
+;    db "Hook Shot!  Its "
+;    db "chain stretches "
+;    db "long when you   "
+;    db "use it!@"
 
 Dialog094::
-    db "You've got the  "
-    db "Magic Rod!  Now "
-    db "you can burn    "
-    db "things! Burn it!"
-    db "Burn, baby burn!@"
+    db "Du fikk den     "
+    db "magiske staven! "
+    db "Nå kan du brenne"
+    db "ting! Brenn det!"
+    db "La det brenne!@"
+;    db "You've got the  "
+;    db "Magic Rod!  Now "
+;    db "you can burn    "
+;    db "things! Burn it!"
+;    db "Burn, baby burn!@"
 
 Dialog095::
-    db "You've got the  "
-    db "Pegasus Boots!  "
-    db "If you hold down"
-    db "the Button, you "
-    db "can dash!@"
+    db "Du fikk Pegasus-"
+    db "støvlene! Hvis  "
+    db "du holder nede  "
+    db "knappen kan du  "
+    db "spurte!@"
+;    db "You've got the  "
+;    db "Pegasus Boots!  "
+;    db "If you hold down"
+;    db "the Button, you "
+;    db "can dash!@"
 
 Dialog096::
     db "Du fikk         "
@@ -1233,17 +1468,25 @@ Dialog096::
 ;    db "play many songs!@"
 
 Dialog097::
-    db "You've got the  "
-    db "Roc's Feather!  "
-    db "It feels like   "
-    db "your body is a  "
-    db "lot lighter!@"
+    db "Du fikk Rokks   "
+    db "fjær! Kroppen   "
+    db "din føles mye   "
+    db "lettere!@"
+;    db "You've got the  "
+;    db "Roc's Feather!  "
+;    db "It feels like   "
+;    db "your body is a  "
+;    db "lot lighter!@"
 
 Dialog098::
-    db "You've got a    "
-    db "Shovel!  Now you"
-    db "can feel the joy"
-    db "of digging!@"
+    db "Du fikk en      "
+    db "spade! Nå kan du"
+    db "føle gleden ved "
+    db "å grave!@"
+;    db "You've got a    "
+;    db "Shovel!  Now you"
+;    db "can feel the joy"
+;    db "of digging!@"
 
 Dialog099::
     db "Du fikk litt    "
@@ -1279,20 +1522,32 @@ Dialog09B::
 ;    db "engraved on it!@"
 
 Dialog09C::
-    db "You've got the  "
-    db "Flippers! If you"
-    db "press the B     "
-    db "Button while you"
-    db "swim, you can   "
-    db "dive underwater!@"
+    db "Du fikk svømme- "
+    db "føttene! Hvis du"
+    db "trykker på B-   "
+    db "knappen mens du "
+    db "svømmer, kan du "
+    db "dykke!@"
+;    db "You've got the  "
+;    db "Flippers! If you"
+;    db "press the B     "
+;    db "Button while you"
+;    db "swim, you can   "
+;    db "dive underwater!@"
 
 Dialog09D::
-    db "You've got the  "
-    db "Magnifying Lens!"
-    db "This will reveal"
-    db "many things you "
-    db "couldn't see    "
-    db "before!@"
+    db "Du fikk         "
+    db "forstørrelses-  "
+    db "glasset! Det vil"
+    db "vise deg mange  "
+    db "ting du ikke    "
+    db "kunne se før!@"
+;    db "You've got the  "
+;    db "Magnifying Lens!"
+;    db "This will reveal"
+;    db "many things you "
+;    db "couldn't see    "
+;    db "before!@"
 
 Dialog09E::
 Dialog09F::
@@ -1308,11 +1563,16 @@ Dialog09F::
 ;    db "away!@"
 
 Dialog0A0::
-    db "You found the   "
-    db "secret medicine!"
-    db "You should apply"
-    db "this and see    "
-    db "what happens!@"
+    db "Du fant         "
+    db "vidundermiddel! "
+    db "Du burde påføre "
+    db "det og se hva   "
+    db "som skjer!@"
+;    db "You found the   "
+;    db "secret medicine!"
+;    db "You should apply"
+;    db "this and see    "
+;    db "what happens!@"
 
 Dialog0A1::
     db "Du fikk Hale-   "
@@ -1336,5 +1596,7 @@ Dialog0A2::
 ;    db "Prairie!@"
 
 Dialog0A3::
-    db "You've got the  "
-    db "Angler Key!@"	
+    db "Du fikk Ulke-   "
+    db "nøkkelen!@"	
+;    db "You've got the  "
+;    db "Angler Key!@"	

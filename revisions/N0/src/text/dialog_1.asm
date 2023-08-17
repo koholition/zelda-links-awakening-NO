@@ -577,12 +577,19 @@ Dialog028::
 ;    db "wrong?@"
 
 Dialog029::
-    db "Aye Caramba!    "
-    db "Kid, you have a "
-    db "lot to learn,   "
-    db "trying to buy   "
-    db "something you   "
-    db "have no use for!@"
+    db "Himmel og hav!  "
+    db "Gutt, du har mye"
+    db "å lære. Prøver  "
+    db "du virkelig å   "
+    db "kjøpe noe som du"
+    db "ikke har bruk   " 
+    db "for?!@"
+;    db "Aye Caramba!    "
+;    db "Kid, you have a "
+;    db "lot to learn,   "
+;    db "trying to buy   "
+;    db "something you   "
+;    db "have no use for!@"
 
 Dialog02A::
     db "Du fikk et      "
@@ -735,13 +742,20 @@ Dialog03B::
 ;    db "    Play No<ask>"
 
 Dialog03C::
-    db "The A and B     "
-    db "Buttons move the"
-    db "crane...The rest"
-    db "is just timing! "
-    db "Go over to the  "
-    db "buttons to play!"
-    db "Good Luck!@"
+    db "A- og B-knappene"
+    db "flytter kloa_…  "
+    db "Resten er bare  "
+    db "timing! Gå bort "
+    db "knappene for å  "
+    db "spille.         "
+    db "Lykke til!@"
+;    db "The A and B     "
+;    db "Buttons move the"
+;    db "crane...The rest"
+;    db "is just timing! "
+;    db "Go over to the  "
+;    db "buttons to play!"
+;    db "Good Luck!@"
 
 Dialog03D::
     db "Et skjold! Det  "

@@ -662,14 +662,14 @@ data_2693::
     db $98, $99                                   ; $2693
 
 DialogBreakHandler::
-    ld   a, [wDialogCharacterIndex]               ; $2695: $FA $70 $C1
-    and  $1F                                      ; $2698: $E6 $1F
-    jr   nz, .jp_26E1                             ; $269A: $20 $45
     ld   a, [wC3C3]                               ; $269C: $FA $C3 $C3
     cp   $FF                                      ; $269F: $FE $FF
     jp   z, DialogDrawNextCharacterHandler.label_25AD ; $26A1: $CA $AD $25
     cp   $FE                                      ; $26A4: $FE $FE
     jp   z, DialogDrawNextCharacterHandler.choice ; $26A6: $CA $95 $25
+    ld   a, [wDialogCharacterIndex]               ; $2695: $FA $70 $C1
+    and  $1F                                      ; $2698: $E6 $1F
+    jr   nz, .jp_26E1                             ; $269A: $20 $45
     ; wC1CC = 01 when an unfinished textbox is waiting for a button press to continue.
     ld   a, [wC1CC]                               ; $26A9: $FA $CC $C1
     and  a                                        ; $26AC: $A7

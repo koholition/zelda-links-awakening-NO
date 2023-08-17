@@ -700,6 +700,8 @@ DialogBreakHandler::
     add  hl, de                                   ; $26DB: $19
 IF __PATCH_1__
     bit  7, [hl]
+ELIF LANG_NO
+    bit  7, [hl]
 ELSE
     ld   a, [hl]                                  ; $26DC: $7E
     and  a                                        ; $26DD: $A7

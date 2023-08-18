@@ -19,7 +19,7 @@
 | Kanalet Castle                | カナレットのしろ                 |       Elveslottet         | Bekkeslottet? |
 | Key Cavern                    | カギのあなぐら                   | Nøkkelkjelleren          | Nøkkelkjeller pga: The third dungeon, Key Cavern, is a brick building, not a cave. This may be a mistranslation; it's called "Key Cellar" in Japanese and French and "Devil's Mansion" in German. Alternativt Nøkkelhula |
 | Koholint Island               | コホリントじま                   | Koholint                    |rart å inkludere "øya"?|
-| Koholint Prairie              | コホリント へいげん              | Koholint-sletta     | «Prærie» er et særamerikansk begrep for slettene i Nord-Amerika, så jeg synes det skal hete Koholint-sletta mvh tobias - ja enig mvh julius. Hva med vidde. Koholint-vidda? mvh Andreas Nei, en vidde er et åpent fjellområde som generelt ligger høyere enn tregrensen og har begrenset vekst av trær (Finnmarksvidda, Hardangervidda, osv). mvh Tobias|
+| Koholint Prairie              | コホリント へいげん              | Koholintsletta     | «Prærie» er et særamerikansk begrep for slettene i Nord-Amerika, så jeg synes det skal hete Koholint-sletta mvh tobias - ja enig mvh julius. Hva med vidde. Koholint-vidda? mvh Andreas Nei, en vidde er et åpent fjellområde som generelt ligger høyere enn tregrensen og har begrenset vekst av trær (Finnmarksvidda, Hardangervidda, osv). mvh Tobias|
 | Mabe Village                  | メーベのむら                     |            Måsebu      | Bare Mabe landsby? Eller Måke/Måse landsby? https://zelda.fandom.com/wiki/Mabe_Village#Nomenclature Jeg liker Måse mvh julius Mabe landsby  |
 | Madam MeowMeow's House        | マダムニゃンニゃンのいえ         | Madam MjauMjaus hus                    ||
 | Manbo's Pond                  | マンボガいけ                     |  Mons' pytt      ||
@@ -47,7 +47,7 @@
 | Town Tool Shop                | むらのどうぐやさん               | Landhandel         | Landhandler? Jernvarehandel? |
 | Trendy Game                   | いまはやりのゲーム               | Klokroken                    |Klospillet, Premiespillet, Klo & Fang, Klo & Vinn, eller Premiekloa?|
 | Turtle Rock                   | カメイワ                         | Skilpaddeberget |Skilpaddesteinen? Eller finnes det noe bedre ord for "rock" i denne forstand (altså mer en slags høyde eller kampestein?) Hva med Skilpaddeberget? |
-| Ukuku Prairie                 | ウクク そうげん                  |  Ulele-sletta        | Ukuku-sletta? Spekuleres i om dette er en japanisering av "ukulele". |
+| Ukuku Prairie                 | ウクク そうげん                  |  Ulelesletta        | Ukuku-sletta? Spekuleres i om dette er en japanisering av "ukulele". |
 | Village Library               | むらのとしょかん                 | Bibliotek                    | Bibliotek. Eventuelt Måsebu Bibliotek |
 | Warp Hole                     | ワープのあな                     | Ormehull         ||
 | Weird Mr. Write               | へんなおじさん ライトのいえ      | Vimsete William                    |Merkelige William eller William den snodige? Den snodige William|

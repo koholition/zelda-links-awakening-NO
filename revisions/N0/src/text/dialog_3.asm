@@ -1060,7 +1060,7 @@ Dialog149::
     db "«RRRING! RRRING!"
     db "Ja, det er      "
     db "Ulrik! Hula på  "
-    db "Ulele-sletta er "
+    db "Ulelesletta er  "
     db "nøkkelen! Ja,   "
     db "jeg mener nøk-  "
     db "kelhula, eller  "

@@ -354,7 +354,7 @@ Dialog1B2::
 
 Dialog1B3::
     db "<right> Kirkegård     "
-    db "<down> Ulele-sletta@"
+    db "<down> Ulelesletta@"
 ;    db "<right> Cemetery      "
 ;    db "<down> Ukuku Prairie @"
 

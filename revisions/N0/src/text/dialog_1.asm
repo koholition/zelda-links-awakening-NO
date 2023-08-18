@@ -1170,7 +1170,7 @@ Dialog068::
 ;    db "  Yarna Desert@"
 
 Dialog069::
-    db "  Ulele-sletta@"
+    db "  Ulelesletta@"
 ;    db "  Ukuku Prairie@"
 
 Dialog06A::
@@ -1208,7 +1208,7 @@ Dialog071::
 ;    db "   Rapids Ride  @"
 
 Dialog072::
-    db " Koholint-sletta@"
+    db " Koholintsletta@"
 ;    db "Koholint Prairie@"
 
 Dialog073::
@@ -1602,7 +1602,7 @@ Dialog0A2::
     db "Du fikk Slim-   "
     db "nøkkelen! Nå kan"
     db "du åpne porten  "
-    db "på Ulele-sletta!"
+    db "på Ulelesletta!@"
 ;    db "You've got the  "
 ;    db "Slime Key!  Now "
 ;    db "you can open the"

@@ -1166,7 +1166,7 @@ Dialog067::
 ;    db "   Witch's Hut@"
 
 Dialog068::
-    db " Yahara-ørkenen@"
+    db " Yaharaørkenen@"
 ;    db "  Yarna Desert@"
 
 Dialog069::

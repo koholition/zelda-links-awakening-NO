@@ -255,7 +255,7 @@ Dialog11C::
 
 Dialog11D::
     db "Hvor er du fra, "
-    db "bror? _… Fra    "
+    db "bror?_… Fra     "
     db "utenfor øya? Hva"
     db "er «utenfor»?   "
     db "Det har jeg     "

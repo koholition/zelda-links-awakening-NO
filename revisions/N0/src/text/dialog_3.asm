@@ -1262,9 +1262,9 @@ Dialog154::
 ;    db "in the shrine...@"
 
 Dialog155::
-    db "   _… FJELL_…   "
+    db "  _… FJELL_…    "
     db "Noe kaller      "
-    db "_… fra fjellet_…"
+    db "_… fra fjellet_…@"
 ;    db " ...MOUNTAIN... "
 ;    db "Something calls "
 ;    db "  ...from the   "

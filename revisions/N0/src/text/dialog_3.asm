@@ -1144,7 +1144,7 @@ Dialog14C::
 
 Dialog14D::
     db "«RRRING! RRRING!"
-    db "Ulrik her! _… _…"
+    db "Ulrik her!_… _… "
     db "Har du vært i   "
     db "Ansiktstempelet?"
     db "Det ligger nord "

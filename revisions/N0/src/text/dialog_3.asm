@@ -1313,7 +1313,7 @@ Dialog15B::
 Dialog15C::
     db "JIPPI! JIPPI!   "
     db "En ny kost?! Til"
-    db "meg? Det er det "
+    db "meg? Det er     "
     db "det, ikke sant?!"
     db "    Ja   Nei<ask>"
 ;    db "YAHOO!  YAHOO!  "

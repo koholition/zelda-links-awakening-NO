@@ -1605,7 +1605,7 @@ Dialog171::
 Dialog172::
     db "Denne <pineapple> er helt "
     db "nydelig! Jeg    "
-    db "skal spise <pineapple>  "
+    db "skal spise <pineapple>    "
     db "med én gang!    "
     db " Bon Appetit!@"
 ;    db "This <pineapple> is so    "

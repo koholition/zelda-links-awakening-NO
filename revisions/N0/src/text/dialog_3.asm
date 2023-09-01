@@ -1166,7 +1166,7 @@ Dialog14E::
     db "«RRRING! RRRING!"
     db "Hei, det er     "
     db "Ulrik! Har du   "
-    db "høst om Måsebus "
+    db "hørt om Måsebus "
     db "flygende hane?  "
     db "I de gode, gamle"
     db "dager pleide den"

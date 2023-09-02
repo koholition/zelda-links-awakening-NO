@@ -1163,7 +1163,7 @@ Dialog1F4::
 ;    db "less and cruel!@"
 
 Dialog1F5::
-    db "Du ga tilbake  "
+    db "Du ga tilbake   "
     db "perlekjedet <bra> og"
     db "fikk et skjell <scale>"
     db "fra halen til   "

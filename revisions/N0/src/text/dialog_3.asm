@@ -1692,7 +1692,7 @@ Dialog179::
 ; Forslag til synonymer for «ultimate» tas imot med thx
 
 Dialog17A::
-    db "Hmmm. Ingen ting"
+    db "Hmmm. Ingenting "
     db "skjedde. Du har "
     db "nok ikke nok    "
     db "skjell.@"

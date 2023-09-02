@@ -1422,7 +1422,7 @@ Dialog205::
     db "om et område,   "
     db "eller se igjen  "
     db "meldingen du    "
-    db "fikk der_…»     "
+    db "fikk der_… »    "
     db "Åh, så praktisk!@"
 ;    db "'You can see an "
 ;    db "island map by   "

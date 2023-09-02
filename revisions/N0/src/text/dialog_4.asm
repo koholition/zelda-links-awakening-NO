@@ -1597,7 +1597,7 @@ Dialog20D::
 
 Dialog20E::
     db "Gisp! Hv-hva er "
-    db "dette! _… _… Du "
+    db "dette!_… _… Du  "
     db "kan ikke lese   "
     db "den lille tekst-"
     db "en uten å bruke "

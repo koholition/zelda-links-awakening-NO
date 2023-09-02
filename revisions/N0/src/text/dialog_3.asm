@@ -1694,7 +1694,7 @@ Dialog179::
 Dialog17A::
     db "Hmmm. Ingenting "
     db "skjedde. Du har "
-    db "nok ikke nok    "
+    db "sikkert ikke nok"
     db "skjell.@"
 ;    db "Hmmm. No        "
 ;    db "response. You   "

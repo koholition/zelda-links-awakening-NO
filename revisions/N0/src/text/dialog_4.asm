@@ -1058,7 +1058,7 @@ Dialog1EB::
 
 Dialog1EC::
     db "<fishhook> ble til et    "
-    db "perlekjede <bra>!    "
+    db "perlekjede <bra>!   "
     db "For en flaks!@"
 ;    db "The <fishhook> became a  "
 ;    db "necklace <bra>!     "

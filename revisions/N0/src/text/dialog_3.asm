@@ -1967,13 +1967,13 @@ Dialog18E::
 
 Dialog18F::
     db "Er det den hav- "
-    db "frueshell? Jeg  "
+    db "frushell? Jeg   "
     db "kan ikke bruke  "
     db "den nå. Jeg må  "
     db "jobbe med denne "
     db "tegning. Du kan "
     db "gå og gjøre     "
-    db "ferdig den      "
+    db "fertig den      "
     db "shtatue for meg.@"
 ;    db "Iz zat zee      "
 ;    db "Mermaid scale?  "

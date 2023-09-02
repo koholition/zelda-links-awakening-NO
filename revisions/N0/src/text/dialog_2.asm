@@ -906,12 +906,11 @@ Dialog0D7::
 
 Dialog0D8::
     db "Arh! Va err det "
-    db "do schtirrer på "
+    db "do shtirrer på  "
     db "med ditt for-   "
-    db "schtørrelses-   "
-    db "glass! Halt opp "
-    db "med det sporen- "
-    db "schtreks!@"
+    db "shtørrelsesglass"
+    db "Halt opp med det"
+    db "sporenshtreks!@ "
 ;    db "Ach! Vat are you"
 ;    db "looking at vith "
 ;    db "zat magnifying  "

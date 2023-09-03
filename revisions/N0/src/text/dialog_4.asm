@@ -2379,7 +2379,7 @@ Dialog247::
 
 Dialog248::
     db "«RRRING! RRRING!"
-    db "Ulrik her! _…   "
+    db "Ulrik her!_…    "
     db "Kjør på! Du er  "
     db "der nesten! Jeg "
     db "heier på deg! Ha"

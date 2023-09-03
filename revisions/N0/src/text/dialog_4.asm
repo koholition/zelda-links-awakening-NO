@@ -1666,7 +1666,7 @@ Dialog216::
     db "_… Tusen takk_… "
     db " _… En krukke_… "
     db "_… i mitt hjem_…"
-    db "   _…se inni_…  "
+    db "  _… se inni_…  "
     db " _… far_… vel_…@"
 ;    db "...Thank you... "
 ;    db " ...a jar...    "

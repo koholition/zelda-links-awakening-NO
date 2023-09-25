@@ -790,7 +790,7 @@ Dialog298::
 Dialog299::
     db "Vi får se om vi "
     db "klarer å fylle  "
-    db "opp det albumet!@"
+    db "albumet!@"
 ;    db "Let's see if we "
 ;    db "can fill that   "
 ;    db "album!@"

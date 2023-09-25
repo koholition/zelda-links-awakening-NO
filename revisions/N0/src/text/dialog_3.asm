@@ -510,7 +510,7 @@ Dialog12D::
 ;    db "Good Bye!@"
 
 Dialog12E::
-    db "Hva vil du vite "
+    db "Lurer"
     db "om det gjen-    "
     db "ferdet? Jeg tør "
     db "vedde på at han "
@@ -809,7 +809,7 @@ Dialog13C::
 ;    db "get out here!@"
 
 Dialog13D::
-    db "Ah! Superbt!    "
+    db "Ah! Tres Bien!  "
     db "Jeg ser at du   "
     db "har gjenvunnet  "
     db "alle bladene!   "
@@ -1340,7 +1340,7 @@ Dialog15E::
     db "fiskekroken <fishhook>!  "
     db "Hva kommer      "
     db "fiskekroken til "
-    db "å bli til?@"
+    db "å bli?@"
 ;    db "You exchanged <broom> "
 ;    db "for the fishing "
 ;    db "hook <fishhook>!  What   "
@@ -1500,8 +1500,9 @@ Dialog16B::
     db "ganger klarer   "
     db "jeg ikke å mot- "
     db "stå fristelsen  "
-    db "og spise papir, "
-    db "selv hvis det er"
+    db "av å spise en   "
+    db "deilig papirbit,"
+    db "selv om det er  "
     db "et brev til min "
     db "kjære William_… "
     db "Så flaut!@"

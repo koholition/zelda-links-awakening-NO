@@ -1,23 +1,23 @@
 NewStaffRoles::
     db "    1998 STAB     "
     db "     VEILEDER     " 
-    db "     REGISSÃ˜R     "
+    db "     REGISSØR     "
     db "  MANUSFORFATTER  "
     db "   PROGRAMMERER   "
     db " KARAKTERDESIGNER "
     db "    KOMPONIST     "
     db "     GRAFIKK      "
-    db "  TEKNISK STÃ˜TTE  "
-    db "  NORSK VERSJON   " ;ops. DAN OWSEN fÃ¥r plutselig denne crediten og. 
-    db " SÃ†RLIG TAKK TIL  "
+    db "  TEKNISK STØTTE  "
+    db "  NORSK VERSJON   " ;ops. DAN OWSEN får plutselig denne crediten og. 
+    db " SÆRLIG TAKK TIL  "
 
 DebugStaffRoles::
-    db "    FEILSÃ˜KING    "
+    db "    FEILSØKING    "
 
 OriginalStaffRoles::
     db "    1993 STAB     "
     db "FANGEHULLDESIGNER "
-    db "   ILLUSTRATÃ˜R    "
+    db "   ILLUSTRATØR    "
     db "    PRODUSENT     "
     db " ANSV. PRODUSENT  "
     db "                  "

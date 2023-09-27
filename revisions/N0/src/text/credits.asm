@@ -19,7 +19,7 @@ OriginalStaffRoles::
     db "FANGEHULLDESIGNER "
     db "   ILLUSTRATØR    "
     db "    PRODUSENT     "
-    db "  ANSV PRODUSENT  "
+    db " ANSV. PRODUSENT  "
     db "                  "
 
 NewStaffPeople::
@@ -35,9 +35,9 @@ NewStaffPeople::
     db "   YUICHI OZAKI   "
     db "   KEIKO IZAWA    "
     db "   N KOGANEZAWA   "
-    db "TOBIAS V  LANGHOFF"
-    db "JULIUS V  LANGHOFF"
-    db " A  K-GRENASBERG  "
+    db "TOBIAS V. LANGHOFF"
+    db "JULIUS V. LANGHOFF"
+    db " A  K.-GRENASBERG "
     db "  AKIYA SAKAMOTO  "
     db " R&D2 DEBUG STAFF "
     db " SUPER MARIO CLUB "

@@ -21,7 +21,7 @@ CreditsStaffCharmap::
     db   $2C, $3C ; S
     db   $2D, $3D ; T
     db   $36, $20 ; U
-    db   $00, $00 ; (unused)
+    db   $36, $58 ; V
     db   $2E, $3E ; W
     db   $00, $00 ; (unused)
     db   $36, $25 ; Y
@@ -52,7 +52,7 @@ CreditsStaffAttrmap::
     db   $10, $10 ; S
     db   $10, $10 ; T
     db   $50, $50 ; U
-    db   $10, $10 ; V
+    db   $50, $10 ; V
     db   $10, $10 ; W
     db   $10, $10 ; X
     db   $50, $10 ; Y

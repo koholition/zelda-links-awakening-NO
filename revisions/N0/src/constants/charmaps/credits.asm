@@ -3,10 +3,10 @@ NEWCHARMAP CreditsCharmap
 
 SETCHARMAP AsciiCharmap
 
-; Credits-specific charmap patches for German
-charmap "[", $5B
-charmap "\\", $5C
-charmap "]", $5D
-charmap "^", $5E
+; Credits-specific charmap patches for Norwegian
+charmap "[", $56 ; Æ
+charmap "]", $57 ; Ø
+charmap "-" $4E
+charmap ".", $4D
 
 POPC

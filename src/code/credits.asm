@@ -425,6 +425,43 @@ IF __PATCH_1__
     db   $00 ; (unused)
     db   $0C ; 8
     db   $0E ; 9
+ELIF LANG_NO
+    db   $40 ; A
+    db   $18 ; B
+    db   $41 ; C
+    db   $42 ; D
+    db   $43 ; E
+    db   $19 ; F
+    db   $44 ; G
+    db   $45 ; H
+    db   $46 ; I
+    db   $4C ; J
+    db   $47 ; K
+    db   $48 ; L
+    db   $49 ; M
+    db   $4A ; N
+    db   $4B ; O
+    db   $50 ; P
+    db   $00 ; (unused)
+    db   $51 ; R
+    db   $52 ; S
+    db   $53 ; T
+    db   $54 ; U
+    db   $55 ; V
+    db   $2F ; W
+    db   $3F ; X
+    db   $00 ; (unused)
+    db   $00 ; (unused)
+    db   $00 ; (unused)
+    db   $1A ; 1
+    db   $00 ; (unused)
+    db   $1C ; 3
+    db   $00 ; (unused)
+    db   $00 ; (unused)
+    db   $00 ; (unused)
+    db   $00 ; (unused)
+    db   $1D ; 8
+    db   $1B ; 9
 ELSE
     db   $40 ; A
     db   $18 ; B

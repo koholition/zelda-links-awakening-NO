@@ -52,7 +52,7 @@ NewStaffPeople::
     db "  MINAKO HAMANO   "
     db "  KOZUE ISHIKAWA  "
     db "  YOUICHI KOTABE  "
-    db "    DAN OWSEN     "
+    db "  THE KOHOLITION  "
     db " TOSHIHIKO NAKAGO "
     db "    KOJI KONDO    "
     db " TOMOAKI KUROUME  "

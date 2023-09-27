@@ -123,7 +123,7 @@ charmap "<flower2>", $b7
 charmap "<broom>", $b8
 charmap "<fishhook>", $b9
 charmap "<bra>", $ba
-charmap "<scale>", $bb
+charmap "<scale>", $eb
 charmap "<letter>", $bd
 charmap "<brokenHeartL>", $e8
 charmap "<brokenHeartR>", $e9

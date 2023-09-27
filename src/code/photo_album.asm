@@ -77,7 +77,7 @@ func_028_4033::
     ld   hl, Data_028_4DD1                        ; $4072: $21 $D1 $4D
     add  hl, bc                                   ; $4075: $09
     ld   de, wOAMBuffer                           ; $4076: $11 $00 $C0
-    ld   c, $0A                                   ; $4079: $0E $0A
+    ld   c, $0C                                   ; $4079: $0E $0A
 .loop_407B_28
     ldi  a, [hl]                                  ; $407B: $2A
     ld   [de], a                                  ; $407C: $12
@@ -2259,7 +2259,7 @@ Data_028_4DD1::
 ; oam data
 include "data/photo_album/print_animation.asm"
 
-section "photo album graphics padding",romx[$5550],bank[BANK(@)]
+section "photo album graphics padding",romx[$5570],bank[BANK(@)]
 
 Data_028_5550:
     db $A3

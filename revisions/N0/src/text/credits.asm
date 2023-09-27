@@ -37,7 +37,7 @@ NewStaffPeople::
     db "   N KOGANEZAWA   "
     db "TOBIAS V. LANGHOFF"
     db "JULIUS V. LANGHOFF"
-    db " A  K.-GRENASBERG "
+    db " A. K.-GRENASBERG "
     db "  AKIYA SAKAMOTO  "
     db " R&D2 DEBUG STAFF "
     db " SUPER MARIO CLUB "

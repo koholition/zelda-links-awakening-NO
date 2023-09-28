@@ -1,25 +1,25 @@
 NewStaffRoles::
     db "    1998 STAB     "
     db "     VEILEDER     " 
-    db "     REGISS]R     "
+    db "     REGISSYR     "
     db "  MANUSFORFATTER  "
     db "   PROGRAMMERER   "
     db " KARAKTERDESIGNER "
     db "    KOMPONIST     "
     db "     GRAFIKK      "
-    db "  TEKNISK ST]TTE  "
+    db "  TEKNISK STYTTE  "
     db "  NORSK VERSJON   " ;ops. DAN OWSEN faar plutselig denne crediten og. 
-    db " S[RLIG TAKK TIL  "
+    db " SZRLIG TAKK TIL  "
 
 DebugStaffRoles::
-    db "    FEILS]KING    "
+    db "    FEILSYKING    "
 
 OriginalStaffRoles::
     db "    1993 STAB     "
     db "FANGEHULLDESIGNER "
-    db "   ILLUSTRAT]R    "
+    db "   ILLUSTRATYR    "
     db "    PRODUSENT     "
-    db " ANSV. PRODUSENT  "
+    db " ANSVQ PRODUSENT  "
     db "                  "
 
 NewStaffPeople::
@@ -35,9 +35,9 @@ NewStaffPeople::
     db "   YUICHI OZAKI   "
     db "   KEIKO IZAWA    "
     db "   N KOGANEZAWA   "
-    db "TOBIAS V. LANGHOFF"
-    db "JULIUS V. LANGHOFF"
-    db " A. K.-GRENASBERG "
+    db "TOBIAS VQ LANGHOFF"
+    db "JULIUS VQ LANGHOFF"
+    db " AQ KQXGRENASBERG "
     db "  AKIYA SAKAMOTO  "
     db " R&D2 DEBUG STAFF "
     db " SUPER MARIO CLUB "

@@ -442,7 +442,7 @@ ELIF LANG_NO
     db   $4A ; N
     db   $4B ; O
     db   $50 ; P
-    db   $00 ; (unused)
+    db   $4D ; Q -> .
     db   $51 ; R
     db   $52 ; S
     db   $53 ; T
@@ -450,8 +450,8 @@ ELIF LANG_NO
     db   $55 ; V
     db   $2F ; W
     db   $3F ; X
-    db   $00 ; (unused)
-    db   $00 ; (unused)
+    db   $57 ; Y -> Ø
+    db   $56 ; Z -> Æ
     db   $00 ; (unused)
     db   $1A ; 1
     db   $00 ; (unused)

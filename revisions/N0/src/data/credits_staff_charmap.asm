@@ -16,14 +16,14 @@ CreditsStaffCharmap::
     db   $2B, $3B ; N
     db   $20, $20 ; O
     db   $21, $35 ; P
-    db   $00, $00 ; (unused)
+    db   $0D, $4D ; Q -> .
     db   $21, $26 ; R
     db   $2C, $3C ; S
     db   $2D, $3D ; T
     db   $36, $20 ; U
     db   $36, $58 ; V
     db   $2E, $3E ; W
-    db   $00, $00 ; (unused)
+    db   $0D, $4E ; X -> -
     db   $36, $25 ; Y
     db   $37, $37 ; Z
     db   $14, $15 ;

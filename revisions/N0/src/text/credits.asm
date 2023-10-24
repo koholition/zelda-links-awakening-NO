@@ -60,4 +60,4 @@ NewStaffPeople::
     db "    KANAE WADA    "
     db " SHIGERU MIYAMOTO "
     db " HIROSHI YAMAUCHI "
-    db "THE  END          "
+    db "  SLUTT           "

@@ -475,7 +475,7 @@ Dialog0C5::
     db "langt? Når du   "
     db "spiller dem alle"
     db "foran egget, vil"
-    db "vindfisken våkne"
+    db "Vindfisken våkne"
     db "og du vil for-  "
     db "late øya. Nå må "
     db "du skynde deg   "

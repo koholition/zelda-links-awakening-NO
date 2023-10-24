@@ -1262,7 +1262,7 @@ Dialog07D::
 ;    db " Beware of Dog!@"
 
 Dialog07E::
-    db "Gamle ulriks hus@"
+    db "Gamle Ulriks hus@"
 ;    db "Old Man Ulrira's"
 ;    db "     House      @"
 

@@ -456,10 +456,11 @@ Dialog276::
 ;    db "didn't mean it.@"
 
 Dialog277::
-    db "Ikke veldg bra_…"
-    db "Hm? Hva? Sa jeg "
-    db "noe? Nei, du må "
-    db "ha hørt feil_…@"
+    db "Ikke så veldig  "
+    db "bra_… Hm? Hva?  "
+    db "Sa jeg noe? Nei,"
+    db "du må ha hørt   "
+    db "feil_…@"
 ;    db "Not very good..."
 ;    db "Eh?  What?  Did "
 ;    db "I say something?"

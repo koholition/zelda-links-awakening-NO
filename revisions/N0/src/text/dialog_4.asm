@@ -1546,7 +1546,7 @@ Dialog20B::
     db "knappen. Du kan "
     db "så kaste den ved"
     db "å trykke på     "
-    db "knappen en gang "
+    db "knappen én gang "
     db "til. Visste du  "
     db "det?»@"
 ;    db "'After you put a"

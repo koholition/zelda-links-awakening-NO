@@ -1367,7 +1367,7 @@ Dialog202::
 
 Dialog203::
     db "«Du kan velge de"
-    db "gjenstander du  "
+    db "gjenstandene du "
     db "liker best og   "
     db "tildele dem A-  "
     db "og B-knappen på "

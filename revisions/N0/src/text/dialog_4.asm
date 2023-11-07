@@ -1369,8 +1369,8 @@ Dialog203::
     db "«Du kan velge de"
     db "gjenstander du  "
     db "liker best og   "
-    db "tildele de A- og"
-    db "B-knappen på    "
+    db "tildele dem A-  "
+    db "og B-knappen på "
     db "underskjermen.  "
     db "Ved å bruke for-"
     db "skjellige gjen- "
@@ -1538,7 +1538,7 @@ Dialog20A::
 ;    db "    YES  NO<ask>"
 
 Dialog20B::
-    db "«Etter du har   "
+    db "«Etter at du har"
     db "lagt en bombe,  "
     db "kan du plukke   "
     db "den opp igjen   "

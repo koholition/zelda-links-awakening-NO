@@ -206,8 +206,8 @@ Dialog261::
     db "noen svekling!  "
     db "Det ynkelige    "
     db "sverdet ditt er "
-    db "er bare blåbær  "
-    db "for meg!@"
+    db "bare blåbær for "
+    db "meg!@"
 ; han sier kanskje ikke BUU? Er det et spøkelse eller lignende, mon tru?
 ;    db "BOO! I am no    "
 ;    db "weakling! Your  "

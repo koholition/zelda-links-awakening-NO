@@ -32,9 +32,9 @@ Dialog191::
 
 Dialog192::
     db "Å, #####. Jeg   "
-    db "kommer ofte til "
-    db "denne landsbyen "
-    db "også for å syn- "
+    db "kommer også ofte"
+    db "til denne lands-"
+    db "byen for å syn- "
     db "ge! Det virker  "
     db "som om nesten   "
     db "alle elsker min "

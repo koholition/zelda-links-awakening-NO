@@ -1608,7 +1608,8 @@ Dialog172::
     db "nydelig! Jeg    "
     db "skal spise <pineapple>    "
     db "med én gang!    "
-    db " Bon Appetit!@"
+    db " Bon Appétit!@"
+; Det er visst aksent over e-en på fransk, skal vi ha den med? 
 ;    db "This <pineapple> is so    "
 ;    db "delicious!  I'm "
 ;    db "going to eat the"

@@ -1320,7 +1320,7 @@ Dialog0F5::
     db "Hvis Vindfisken "
     db "aldri våkner,   "
     db "vil denne øya   "
-    db "aldri forsvinne "
+    db "aldri forsvinne!"
     db "Vi kunne ha her-"
     db "sket over dette "
     db "stedet_… Men du "

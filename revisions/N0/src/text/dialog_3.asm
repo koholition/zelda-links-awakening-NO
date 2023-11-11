@@ -105,6 +105,7 @@ Dialog111::
     db "Kom og hent det,"
     db "hvis du tør!»   "
     db "Mester <skull>@"
+; Rart med «boksen» her? Det er jo direkte oversatt, bare skurrer litt. 
 ;    db "'I've got what  "
 ;    db "was inside this "
 ;    db "box.  Come and  "

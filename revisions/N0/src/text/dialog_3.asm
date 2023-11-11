@@ -1963,8 +1963,8 @@ Dialog18D::
 ;    db "greatest!@"
 
 Dialog18E::
-    db "   Her hviler   "
-    db "Den flyende hane@"
+    db " Her hviler Den "
+    db " flygende hane@"
 ;    db " Here Sleeps The"
 ;    db " Flying Rooster@"
 

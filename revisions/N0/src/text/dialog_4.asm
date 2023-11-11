@@ -112,7 +112,7 @@ Dialog195::
 Dialog196::
     db "... ... ... ... "
     db "Den virker helt "
-    db "oppslukt i      "
+    db "oppslukt av     "
     db "Marins sang!@"
 ;   db "... ... ... ... "
 ;   db "It seems to be  "

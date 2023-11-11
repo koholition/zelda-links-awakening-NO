@@ -1963,7 +1963,7 @@ Dialog18D::
 ;    db "greatest!@"
 
 Dialog18E::
-    db " Her hviler Den "
+    db " Her hviler den "
     db " flygende hane@"
 ;    db " Here Sleeps The"
 ;    db " Flying Rooster@"

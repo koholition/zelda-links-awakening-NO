@@ -2116,7 +2116,7 @@ Dialog23A::
     db "Hæ?! Tarin??!   "
     db "... ... ... ... "
     db "Øh_… Glem det,  "
-    db "Jeg_… Jeg må gå!@"
+    db "jeg_… Jeg må gå!@"
 ;    db "Hunh?!  Tarin??!"
 ;    db "... ... ... ... "
 ;    db "Uh... Nevermind,"

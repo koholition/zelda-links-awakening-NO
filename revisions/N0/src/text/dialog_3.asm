@@ -400,7 +400,7 @@ Dialog126::
     db "ig! Dra til     "
     db "Tromlekysten og "
     db "bruk forstørrel-"
-    db "sesglasses, så  "
+    db "sesglasset, så  "
     db "vil du finne en "
     db "som er som meg.@"
 ;    db "If you keep me a"

@@ -688,8 +688,8 @@ Dialog28E::
 
 Dialog28F::
     db "Hopp på toppen  "
-    db "av krystallene  "
-    db "for å fortsette.@"
+    db "av klossene for "
+    db "å fortsette.@"
 ;    db "Hop on top of   "
 ;    db "the crystals to "
 ;    db "move forward.@"

@@ -101,7 +101,7 @@ Dialog110::
 Dialog111::
     db "«Jeg har tatt   "
     db "det som var i   "
-    db "denne boksen.   "
+    db "denne kista.    "
     db "Kom og hent det,"
     db "hvis du tør!»   "
     db "Mester <skull>@"

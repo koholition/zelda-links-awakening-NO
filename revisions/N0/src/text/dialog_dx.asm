@@ -93,7 +93,7 @@ Dialog255::
 ;    db "#####.@"
 
 Dialog256::
-    db ". . . . .@"
+    db "... ... ... ...@"
 ; Denne dialogboksen ser veldig rar ut syns jeg. Kanskje midstille teksten, eller bruke engelsk ellipse?
 ;    db ". . . . .@"
 

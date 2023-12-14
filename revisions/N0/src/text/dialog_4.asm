@@ -32,9 +32,9 @@ Dialog191::
 
 Dialog192::
     db "Å, #####. Jeg   "
-    db "kommer ofte til "
-    db "denne landsbyen "
-    db "også for å syn- "
+    db "kommer også ofte"
+    db "til denne lands-"
+    db "byen for å syn- "
     db "ge! Det virker  "
     db "som om nesten   "
     db "alle elsker min "
@@ -112,7 +112,7 @@ Dialog195::
 Dialog196::
     db "... ... ... ... "
     db "Den virker helt "
-    db "oppslukt i      "
+    db "oppslukt av     "
     db "Marins sang!@"
 ;   db "... ... ... ... "
 ;   db "It seems to be  "
@@ -1367,10 +1367,10 @@ Dialog202::
 
 Dialog203::
     db "«Du kan velge de"
-    db "gjenstander du  "
+    db "gjenstandene du "
     db "liker best og   "
-    db "tildele de A- og"
-    db "B-knappen på    "
+    db "tildele dem A-  "
+    db "og B-knappen på "
     db "underskjermen.  "
     db "Ved å bruke for-"
     db "skjellige gjen- "
@@ -1538,7 +1538,7 @@ Dialog20A::
 ;    db "    YES  NO<ask>"
 
 Dialog20B::
-    db "«Etter du har   "
+    db "«Etter at du har"
     db "lagt en bombe,  "
     db "kan du plukke   "
     db "den opp igjen   "
@@ -1546,7 +1546,7 @@ Dialog20B::
     db "knappen. Du kan "
     db "så kaste den ved"
     db "å trykke på     "
-    db "knappen en gang "
+    db "knappen én gang "
     db "til. Visste du  "
     db "det?»@"
 ;    db "'After you put a"
@@ -2116,7 +2116,7 @@ Dialog23A::
     db "Hæ?! Tarin??!   "
     db "... ... ... ... "
     db "Øh_… Glem det,  "
-    db "Jeg_… Jeg må gå!@"
+    db "jeg_… Jeg må gå!@"
 ;    db "Hunh?!  Tarin??!"
 ;    db "... ... ... ... "
 ;    db "Uh... Nevermind,"
@@ -2443,8 +2443,8 @@ Dialog24C::
     db "at de har et    "
     db "drømmmetempel i "
     db "Måsebu, og at   "
-    db "det inni der er "
-    db "noe bra_…       "
+    db "det er noe bra  "
+    db "der inne_…       "
     db "Er det sant?@"
 ;    db "Hey! Did ya know"
 ;    db "Animal Village  "

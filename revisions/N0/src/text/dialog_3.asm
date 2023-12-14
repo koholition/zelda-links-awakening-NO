@@ -101,10 +101,11 @@ Dialog110::
 Dialog111::
     db "«Jeg har tatt   "
     db "det som var i   "
-    db "denne boksen.   "
+    db "denne kista.    "
     db "Kom og hent det,"
     db "hvis du tør!»   "
     db "Mester <skull>@"
+; Rart med «boksen» her? Det er jo direkte oversatt, bare skurrer litt. 
 ;    db "'I've got what  "
 ;    db "was inside this "
 ;    db "box.  Come and  "
@@ -399,7 +400,7 @@ Dialog126::
     db "ig! Dra til     "
     db "Tromlekysten og "
     db "bruk forstørrel-"
-    db "sesglasses, så  "
+    db "sesglasset, så  "
     db "vil du finne en "
     db "som er som meg.@"
 ;    db "If you keep me a"
@@ -1127,11 +1128,11 @@ Dialog14B::
 Dialog14C::
     db "«RRRING! RRRING!"
     db "Hei, det er     "
-    db "Ulrik! Marulkens"
-    db "munn er vidåpen?"
-    db "Det høres ut som"
-    db "et perfekt sted "
-    db "å dykke!        "
+    db "Ulrik! Er mallen"
+    db "sin munn vid-   "
+    db "åpen? Det høres "
+    db "ut som et flott "
+    db "sted å dykke!   "
     db "Ha det! KLIKK!»@"
 ;    db "'BRRING! BRRING!"
 ;    db "Hi, it's Ulrira!"
@@ -1608,7 +1609,8 @@ Dialog172::
     db "nydelig! Jeg    "
     db "skal spise <pineapple>    "
     db "med én gang!    "
-    db " Bon Appetit!@"
+    db " Bon Appétit!@"
+; Det er visst aksent over e-en på fransk, skal vi ha den med? 
 ;    db "This <pineapple> is so    "
 ;    db "delicious!  I'm "
 ;    db "going to eat the"
@@ -1961,8 +1963,8 @@ Dialog18D::
 ;    db "greatest!@"
 
 Dialog18E::
-    db "   Her hviler   "
-    db "Den flyende hane@"
+    db " Her hviler Den "
+    db " flygende hane@"
 ;    db " Here Sleeps The"
 ;    db " Flying Rooster@"
 

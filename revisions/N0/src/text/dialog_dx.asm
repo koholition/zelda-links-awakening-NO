@@ -93,7 +93,8 @@ Dialog255::
 ;    db "#####.@"
 
 Dialog256::
-    db ". . . . .@"
+    db "... ... ... ...@"
+; Denne dialogboksen ser veldig rar ut syns jeg. Kanskje midstille teksten, eller bruke engelsk ellipse?
 ;    db ". . . . .@"
 
 Dialog257::
@@ -206,8 +207,8 @@ Dialog261::
     db "noen svekling!  "
     db "Det ynkelige    "
     db "sverdet ditt er "
-    db "er bare blåbær  "
-    db "for meg!@"
+    db "bare blåbær for "
+    db "meg!@"
 ; han sier kanskje ikke BUU? Er det et spøkelse eller lignende, mon tru?
 ;    db "BOO! I am no    "
 ;    db "weakling! Your  "
@@ -687,8 +688,8 @@ Dialog28E::
 
 Dialog28F::
     db "Hopp på toppen  "
-    db "av krystallene  "
-    db "for å fortsette.@"
+    db "av klossene for "
+    db "å fortsette.@"
 ;    db "Hop on top of   "
 ;    db "the crystals to "
 ;    db "move forward.@"

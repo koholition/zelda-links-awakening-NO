@@ -5160,27 +5160,30 @@ ENDC
 include "data/credits_3.asm"
 
 CreditsTheEnd5Handler::
-    ld   hl, Data_017_705D                        ; $70B1: $21 $5D $70
-    ld   de, wDrawCommand                         ; $70B4: $11 $01 $D6
-    ld   c, Data_017_705D.end - Data_017_705D     ; $70B7: $0E $43
+    ; Den rekker ikke å utføre alle DrawCommands i VBlank
+    ; når vi lager den så lang som vi har gjort, så vi bare skrur
+    ; av interrupts og gjør det direkte i VBlank over to frames
+    ; i stedet. 
 
-.loop_017_70B9
-    ld   a, [hl+]                                 ; $70B9: $2A
-    ld   [de], a                                  ; $70BA: $12
-    inc  de                                       ; $70BB: $13
-    dec  c                                        ; $70BC: $0D
-    jr   nz, .loop_017_70B9                       ; $70BD: $20 $FA
+    di
 
-    ld   hl, Data_017_70A0                        ; $70BF: $21 $A0 $70
-    ld   de, wDrawCommandAlt                      ; $70C2: $11 $91 $DC
-    ld   c, Data_017_70A0.end - Data_017_70A0     ; $70C5: $0E $11
+:   ld a, [rLY]
+    cp $90
+    jr nz, :-
+    ld de, Data_017_705D
+    call ExecuteDrawCommands.noRoomTransition
 
-.loop_017_70C7
-    ld   a, [hl+]                                 ; $70C7: $2A
-    ld   [de], a                                  ; $70C8: $12
-    inc  de                                       ; $70C9: $13
-    dec  c                                        ; $70CA: $0D
-    jr   nz, .loop_017_70C7                       ; $70CB: $20 $FA
+    ld a, 1
+    ld [rVBK], a
+:   ld a, [rLY]
+    cp $90
+    jr nz, :-
+    ld de, Data_017_70A0
+    call ExecuteDrawCommands.noRoomTransition
+    xor a
+    ld [rVBK], a
+
+    ei
 
     jp   IncrementCreditsSubscene                 ; $70CD: $C3 $D9 $4C
 

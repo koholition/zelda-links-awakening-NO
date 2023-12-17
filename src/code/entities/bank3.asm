@@ -2973,16 +2973,16 @@ func_003_5B2B::
 
     ld   a, [wDialogState]                        ; $5B36: $FA $9F $C1
     and  $80                                      ; $5B39: $E6 $80
-    ld   a, $23                                   ; $5B3B: $3E $23
+    ld   a, $1C                                   ; $5B3B: $3E $23
     jr   z, .jr_5B41                              ; $5B3D: $28 $02
 
-    ld   a, $6B                                   ; $5B3F: $3E $6B
+    ld   a, $64                                   ; $5B3F: $3E $6B
 
 .jr_5B41
     ldh  [hActiveEntityVisualPosY], a             ; $5B41: $E0 $EC
     ld   a, [wHeartPiecesCount]                   ; $5B43: $FA $5C $DB
     ldh  [hActiveEntitySpriteVariant], a          ; $5B46: $E0 $F1
-    ld   a, $8E                                   ; $5B48: $3E $8E
+    ld   a, $8C                                   ; $5B48: $3E $8E
     ldh  [hActiveEntityPosX], a                   ; $5B4A: $E0 $EE
     ld   de, Unknown021SpriteVariants             ; $5B4C: $11 $17 $5B
     jp   RenderActiveEntitySpritesPair            ; $5B4F: $C3 $C0 $3B

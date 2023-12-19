@@ -894,9 +894,9 @@ Dialog141::
 Dialog142::
     db "«RRRING! RRRING!"
     db "Hallo, det er   "
-    db "Ulrik! _… Vel,  "
+    db "Ulrik!_… Vel,   "
     db "de fleste sko-  "
-    db "bolder bor i Den"
+    db "bolder bor i den"
     db "mystiske skogen,"
     db "men det er også "
     db "noen i hulene i "
@@ -1039,7 +1039,7 @@ Dialog147::
 
 Dialog148::
     db "«RRRING! RRRING!"
-    db "Ulrik her! _…   "
+    db "Ulrik her!_…    "
     db "Spade_… Har du  "
     db "kjøpt en spade? "
     db "Kanskje du kan  "
@@ -1645,8 +1645,8 @@ Dialog175::
 ;    db "energy, now!@"
 
 Dialog176::
-    db "Jeg må bare si  "
-    db "takk igjen!@"
+    db "Nok en gang,    "
+    db "tusen takk!@"
 ;    db "I've got to say,"
 ;    db "thanks again!@"
 
@@ -1654,11 +1654,10 @@ Dialog178::
     db "Hun har opplevd "
     db "en forferdelig  "
     db "tragedie i huset"
-    db "på andre siden! "
-    db "Det er helt     "
-    db "grusomt, og alt "
-    db "jeg kan gjøre er"
-    db "å feie!@"
+    db "over gata! Det  "
+    db "er helt grusomt,"
+    db "og alt jeg kan  "
+    db "gjøre er å feie!@"
 ;    db "She's had an    "
 ;    db "awful tragedy   "
 ;    db "in the house    "

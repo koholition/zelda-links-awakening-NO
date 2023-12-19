@@ -68,7 +68,7 @@ Dialog194::
     db "Takk for alt!   "
     db "#####, du er den"
     db "snilleste gutten"
-    db "jeg kjenner. En "
+    db "jeg kjenner. Én "
     db "gang ønsket jeg "
     db "meg noe fra     "
     db "Vindfisken_…    "
@@ -88,7 +88,7 @@ Dialog194::
 ;   db "No, it's secret!@"
 
 Dialog195::
-    db "#####, en dag   "
+    db "#####, én dag   "
     db "kommer du til å "
     db "forlate denne   "
     db "øya_… Jeg kan   "
@@ -247,7 +247,7 @@ Dialog1A1::
 ;    db "once, please!@"
 
 Dialog1A2::
-    db "Øst <right> Ulele-    "
+    db "Øst <right>  Ulele-   "
     db "       sletta   "
     db "Lenger øst      "
     db "       Snutebu@"
@@ -348,7 +348,7 @@ Dialog1B1::
 
 Dialog1B2::
     db "<right> Velkommen til"
-    db " Snutebu!@"
+    db "  Snutebu!@"
 ;   db "<right> Welcome to the"
 ;   db " Animal Village!@"
 
@@ -401,8 +401,7 @@ Dialog1B9::
 
 Dialog1BA::
     db "I DISSE TRAKTER "
-    db "ER HEMMELIGHETER"
-    db "NÆRE@"
+    db "DØLGES DET@"
 ;   db "AROUND HERE,    "
 ;   db "SECRETS ARE NIGH@"
 
@@ -446,10 +445,9 @@ Dialog1BE::
 Dialog1BF::
 Dialog1C0::
     db "Å?! #####, jeg  "
-    db "ser du har en   "
-    db "fin pinne_…     "
-    db "Kan jeg låne den"
-    db "et øyeblikk?    "
+    db "ser'u har en fin"
+    db "pinne_… Kan jeg "
+    db "låne'n litt?    "
     db "    Kan  Kan'ke<ask>" ;får ikke plass til kan ikke
 ;    db "Oh?!  #####, I  "
 ;    db "see ya have a   "
@@ -662,8 +660,7 @@ Dialog1D0::
     db "Du ga ham <honeycomb> mot "
     db "<pineapple>! Den er ikke  "
     db "like søt, men   "
-    db "den smaker      "
-    db "nydelig!@"
+    db "deilig likevel!@"
 ;    db "You exchanged <honeycomb> "
 ;    db "for <pineapple>!  It's not"
 ;    db "as sweet, but it"
@@ -1195,7 +1192,7 @@ Dialog1F7::
     db "legenden om     "
     db "forstørrelses-  "
     db "glasset være    "
-    db "sann..?@"
+    db "sann …?@" ; Det er meningen at det ikke er _… her - to prikker pluss ?
 ;    db "An artist once  "
 ;    db "asked me to pose"
 ;    db "for him, and he "
@@ -2027,7 +2024,7 @@ Dialog22F::
 Dialog230::
     db "Hæ? Et nøkkel-  "
     db "hull her? Det   "
-    db "står «Hale-     "
+    db "står: «Hale-    "
     db "nøkkelhullet»@"
 ;    db "Hunh?  A keyhole"
 ;    db "here?  It says, "
@@ -2036,7 +2033,7 @@ Dialog230::
 Dialog231::
     db "Hæ? Et nøkkel-  "
     db "hull her? Det   "
-    db "står «Slim-     "
+    db "står: «Slim-    "
     db "nøkkelhullet»@"
 ;    db "Hunh?  A keyhole"
 ;    db "here?  It says, "
@@ -2045,7 +2042,7 @@ Dialog231::
 Dialog232::
     db "Hæ? Et nøkkel-  "
     db "hull her? Det   "
-    db "står «Ulke-     "
+    db "står: «Ulke-    "
     db "nøkkelhullet»@"
 ;    db "Hunh?  A keyhole"
 ;    db "here?  It says, "
@@ -2054,7 +2051,7 @@ Dialog232::
 Dialog233::
     db "Hæ? Et nøkkel-  "
     db "hull her? Det   "
-    db "står «Fugle-    "
+    db "står: «Fugle-   "
     db "nøkkelhullet»@"
 ;    db "Hunh?  A keyhole"
 ;    db "here?  It says, "
@@ -2063,7 +2060,7 @@ Dialog233::
 Dialog234::
     db "Hæ? Et nøkkel-  "
     db "hull her? Det   "
-    db "står «Ansikts-  "
+    db "står: «Ansikts- "
     db "nøkkelhullet»@"
 ;    db "Hunh?  A keyhole"
 ;    db "here?  It says, "
@@ -2088,7 +2085,7 @@ Dialog236::
 ;    db "of heights!!@"
 
 Dialog237::
-    db "Ååå! Det var en " ;usikker på Yow! Tenker hun er positivt overrasket. Har vi en norsk interjeksjon som passer? 
+    db "Jøss! Det var en"
     db "overraskelse!   "
     db "Takk, #####!@"
 ;    db "Yow!  That was a"
@@ -2279,12 +2276,12 @@ Dialog244::
     db "«RRRING! RRRING!"
     db "Ulrik til       " 
     db "tjeneste! Å? Du "
-    db "Du burde ta Vov-"
-    db "Vov hjem nå,    "
-    db "Madam Mjau-Mjau "
-    db "ville sette pris"
-    db "på det! Ha det  "
-    db "bra! KLIKK!»@"
+    db "burde ta VovVov "
+    db "hjem nå, Madam  "
+    db "Mjau-Mjau ville "
+    db "sette pris på   "
+    db "det! Ha det bra!"
+    db "KLIKK!»@"
 ;    db "'BRRING! BRRING!"
 ;    db "Ulrira at your  "
 ;    db "service!  Oh?   "

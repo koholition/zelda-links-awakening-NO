@@ -51,7 +51,7 @@ Dialog0A8::
     db "Du fant et      "
     db "steinnebb! La   "
     db "oss finne ugle- "
-    db "statuen den     "
+    db "statuen det     "
     db "hører til.@"
 ;    db "You found a     "
 ;    db "stone beak!     "
@@ -60,10 +60,10 @@ Dialog0A8::
 ;    db "belongs to it.@"
 
 Dialog0A9::
-    db "Du fikk mare-   "
+    db "Du fikk Mare-   "
     db "rittnøkkelen!   "
     db "Nå kan du åpne  "
-    db "døra til mare-  "
+    db "døra til Mare-  "
     db "rittets reir!@"
 ;    db "You've got the  "
 ;    db "Nightmare's Key!"
@@ -84,7 +84,7 @@ Dialog0AA::
 
 Dialog0AB::
     db "   Du fikk 20   "
-    db "     Rupier!    "
+    db "     rupier!    "
     db "     Hurra!@"
 ;    db "   You got 20   "
 ;    db "     Rupees!    "
@@ -92,7 +92,7 @@ Dialog0AB::
 
 Dialog0AC::
     db "    Du fikk 50  "
-    db "      Rupier!   "
+    db "      rupier!   "
     db "    Veldig bra!@"
 ;    db "    You got 50  "
 ;    db "      Rupees!   "
@@ -100,7 +100,7 @@ Dialog0AC::
 
 Dialog0AD::
     db "   Du fikk 100  "
-    db "     Rupier!    "
+    db "     rupier!    "
     db " Hvilken glede!@"
 ;    db "   You got 100  "
 ;    db "     Rupees!    "
@@ -108,7 +108,7 @@ Dialog0AD::
 
 Dialog0AE::
     db "   Du fikk 200  "
-    db "     Rupier!    "
+    db "     rupier!    "
     db "Du er i ekstase!@"
 ;    db "   You got 200  "
 ;    db "     Rupees!    "
@@ -236,8 +236,8 @@ Dialog0B9::
     db "vil også gå tapt"
     db "hvis Vindfisken "
     db "våkner! Som meg "
-    db "er_… du_… i…_   "
-    db "drømmen_… hans…_@"
+    db "er_… du_… i_…   "
+    db "drømmen_… hans_…@"
 ;    db "My energy...    "
 ;    db "gone...I...lost!"
 ;    db "But you will be "
@@ -743,7 +743,7 @@ Dialog0CF::
     db "jeg mener_…     "
     db "Helten #####! Du"
     db "har beseiret    "
-    db "marerittene! Du "
+    db "Marerittene! Du "
     db "har bevist din  "
     db "visdom, ditt    "
     db "mot, og din     "
@@ -754,7 +754,7 @@ Dialog0CF::
     db "er jeg vokteren "
     db "av hans drømme- "
     db "verden_… Men én "
-    db "dag kom mare-   "
+    db "dag kom Mare-   "
     db "rittene inn i   "
     db "drømmen og lagde"
     db "kaos. Så kom du,"
@@ -763,7 +763,7 @@ Dialog0CF::
     db "har alltid stolt"
     db "på din evne til "
     db "å drive tilbake "
-    db "marerittene.    "
+    db "Marerittene.    "
     db "Tusen takk,     "
     db "#####_… Min jobb"
     db "her er gjort_…  "
@@ -928,7 +928,7 @@ Dialog0D9::
     db "voldelige_… En  "
     db "modig gutt har  "
     db "kommet for å    "
-    db "vekke opp vind- "
+    db "vekke opp Vind- "
     db "fisken_… Det    "
     db "sies at du ikke "
     db "kan forlate øya "
@@ -1415,7 +1415,7 @@ Dialog0FB::
 
 Dialog0FC::
     db "Dette er ikke en"
-    db "kommode… Hva?   "
+    db "kommode_… Hva?  "
     db "Visste du det?  "
     db "Greit.@"
 ;    db "This is not a   "

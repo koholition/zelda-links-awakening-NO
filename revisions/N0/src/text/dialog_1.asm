@@ -2,7 +2,7 @@ Dialog000::
     db "Hoi, gutt! Hvor "
     db "er du på vei i  "
     db "en sånn fart?   "
-    db "Slapp 'a litt,  "
+    db "Slapp'a litt,   "
     db "jeg har no' å si"
     db "til deg!@"
 ;    db "Whoa, boy! Where"
@@ -516,7 +516,7 @@ Dialog024::
 
 Dialog025::
     db "Din ekle rotte! "
-    db "Du d-d-d_… slo  "
+    db "Du d-d-d... slo "
     db "brødrene mine!  "
     db "Du skal få!! Jeg"
     db "kommer aldri til"

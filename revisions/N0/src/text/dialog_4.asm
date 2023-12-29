@@ -1192,7 +1192,7 @@ Dialog1F7::
     db "legenden om     "
     db "forstørrelses-  "
     db "glasset være    "
-    db "sann …?@" ; Det er meningen at det ikke er _… her - to prikker pluss ?
+    db "sann_…?@"
 ;    db "An artist once  "
 ;    db "asked me to pose"
 ;    db "for him, and he "

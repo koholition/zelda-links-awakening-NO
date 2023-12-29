@@ -516,7 +516,7 @@ Dialog024::
 
 Dialog025::
     db "Din ekle rotte! "
-    db "Du d-d-d<…> slo   "
+    db "Du d-d-d... slo "
     db "brødrene mine!  "
     db "Du skal få!! Jeg"
     db "kommer aldri til"

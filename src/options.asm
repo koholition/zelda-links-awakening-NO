@@ -232,9 +232,7 @@ __PATCH_2__ = TRUE
 __PATCH_9__ = TRUE
 __PATCH_A__ = 2
 __PATCH_B__ = 1
-IF (VERSION > 0)
 __PATCH_4__ = TRUE
-ENDC
 
 ELIF ("{LANG}" == "DE")
 LANG_DE = TRUE
